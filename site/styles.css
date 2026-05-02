@@ -55,6 +55,7 @@ strong {
   position: absolute;
   top: 24px;
   right: clamp(20px, 5vw, 76px);
+  max-width: min(680px, calc(100% - 40px));
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
@@ -145,6 +146,7 @@ h2 {
   display: inline-flex;
   min-height: 44px;
   align-items: center;
+  justify-content: center;
   border: 1px solid var(--line);
   background: var(--panel);
   padding: 0 16px;
@@ -242,6 +244,7 @@ h2 {
   padding: 20px;
   color: var(--muted);
   font-size: 17px;
+  line-height: 1.4;
   text-decoration: none;
 }
 

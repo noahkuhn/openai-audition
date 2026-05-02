@@ -4,6 +4,12 @@ Current as of 2026-05-02. Re-check OpenAI Careers before applying or publishing 
 
 ## Primary Target
 
+I fit Codex because I already use it the way serious users need to use it: not for autocomplete, but for ambiguous, multi-step work that requires supervision, correction, evidence, and taste.
+
+The cleanest hiring lane is AI Deployment Engineer - Codex because this repo is already a public deployment case study: real workflow, real drift, real correction, real artifacts.
+
+The broader fit is any Codex role that cares about product reality on the user side: where the system helps, where it slips, and what good supervision looks like.
+
 The strongest first application target is:
 
 - [AI Deployment Engineer - Codex](https://openai.com/careers/ai-deployment-engineer-codex-remote-us/)

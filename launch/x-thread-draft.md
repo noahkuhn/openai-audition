@@ -2,36 +2,29 @@
 
 ## Post 1
 
-I asked Codex to get me hired at OpenAI.
+I gave Codex one job: get me hired at OpenAI.
 
-It did not start with a cover letter.
+Instead of writing a cover letter, it pushed me to make the whole process public.
 
-It helped me build a public audition instead.
+This repo is the result:
+https://github.com/noahkuhn/openai-audition
 
-The repo is the application: strategy, rejected ideas, prompts, receipts, build logs, target-role fit, and the final pitch.
+Site:
+https://noahkuhn.github.io/openai-audition/
 
 ## Post 2
 
-The premise:
+No fake autonomy. No polished-after-the-fact portfolio.
 
-Codex should not just help people code faster.
+The scorecards, rejected ideas, human corrections, receipts, and final ask stay in.
 
-It should help people turn intent into proof.
-
-So I gave it a human objective:
-
-Get me hired by OpenAI.
+If Codex is becoming an execution partner, this is the kind of evidence that matters.
 
 ## Post 3
 
-The first useful output was not code.
+I am aiming first at AI Deployment Engineer - Codex.
 
-It was project judgment:
-
-- what would get attention,
-- what would look fake,
-- what OpenAI would care about,
-- what evidence would survive inspection.
+Not because I used Codex once, but because I already use it the way serious customers will: on ambiguous, multi-step work where judgment, correction, and evidence matter.
 
 ## Post 4
 
@@ -43,9 +36,13 @@ We rejected:
 - a fake autonomous startup,
 - and raw transcript dumping.
 
-The public story needs to be clean.
+Then Codex drifted into a normal repo review.
 
-The evidence needs to survive inspection.
+I had to correct it:
+
+The job is not "make the repo tidy."
+
+The job is "get OpenAI to care."
 
 ## Post 5
 
@@ -53,27 +50,22 @@ The repo has:
 
 - a landing page,
 - a case file,
-- project lifecycle,
-- artifact ledger,
 - scorecard,
 - build log,
 - receipts,
+- role fit for AI Deployment Engineer - Codex,
 - launch assets,
-- and a final application in progress.
+- and the correction history.
 
 ## Post 6
 
-This is the question:
+The question:
 
 Can Codex help a person convert ambition into a body of work compelling enough to change their career?
 
 And can that process reveal what Codex is becoming: an execution partner, not just a code generator?
 
 ## Post 7
-
-This is my OpenAI audition.
-
-I am aiming first at AI Deployment Engineer - Codex, and more broadly at Codex roles where product judgment, agent workflows, reliability, and execution taste matter.
 
 If it works, it starts the conversation.
 

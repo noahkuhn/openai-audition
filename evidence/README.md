@@ -21,3 +21,9 @@ Examples:
 - prompt excerpts that changed direction,
 - proof that Codex generated or modified a concrete artifact.
 
+## Current Evidence
+
+- [Decision Record 001: The project is the public audition](decision-record-001-public-audition.md)
+- [Evidence 002: The overbuilding correction](correction-002-overbuilding.md)
+- [Evidence 003: Subagent launch review](subagent-review-2026-05-02.md)
+- [Evidence 004: Launch surface hardening](launch-surface-2026-05-02.md)

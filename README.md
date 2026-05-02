@@ -1,20 +1,23 @@
 # I Asked Codex To Get Me Hired At OpenAI
 
-This repo is a public audition.
+I gave Codex a career-changing objective: get me hired at OpenAI.
 
-The premise is simple:
+This repo is the result.
 
-> A human gave Codex a life-level objective, not a coding task: get me hired at OpenAI.
->
-> Codex turned that objective into a public proof-of-work campaign.
+It shows Codex being used across planning, project selection, drafting, critique, evidence handling, and launch, with the human correction loop left visible.
 
-This is not a resume generator. It is not a cover letter. It is not a generic AI app.
+This is not a portfolio site about AI. It is a live test of what Codex is becoming when the goal is ambiguous and the stakes are real.
 
-The process is the point, but the process has to be packaged cleanly.
+It is not a resume generator. It is not a cover letter. It is not a generic AI app.
 
 Strangers should see a simple story. OpenAI people should find a clean case file. Builders should be able to inspect the evidence.
 
 ## Current Status
+
+Live surfaces:
+
+- Site: <https://noahkuhn.github.io/openai-audition/>
+- Repo: <https://github.com/noahkuhn/openai-audition>
 
 This started before the repo existed.
 

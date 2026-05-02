@@ -1,26 +1,22 @@
 # Case File: OpenAI Audition
 
-## One Sentence
+## Why This Matters
 
-I asked Codex to get me hired at OpenAI, and it helped turn that ambition into a public proof-of-work application.
+This is a user-side evaluation of Codex under real pressure.
+
+I did not ask Codex for a toy app or a one-shot prompt. I gave it an ambiguous, career-changing objective and used it across planning, correction, writing, repo work, and launch. This repo is the evidence.
+
+That is why this should matter to OpenAI: it shows what Codex looks like when it is supervised through real work instead of demo work.
 
 ## Current Status
 
 - Candidate: Noah Kuhn
 - Target: OpenAI
 - Agent: Codex
-- Status: Public draft
+- Status: Live public audition
 - Started: 2026-05-01
 - Desired conversion: a serious OpenAI conversation for the AI Deployment Engineer - Codex role or adjacent Codex roles
 - First proof: repo, site, mission, scorecard, case file, lifecycle, artifact ledger, launch assets, receipts, and evidence architecture
-
-## Why This Should Matter To OpenAI
-
-This project is not trying to prove that Codex can generate text.
-
-It is trying to prove that Codex can help a human convert an ambiguous, high-stakes objective into a strategy, public artifacts, evidence, and execution momentum.
-
-That maps directly to the product direction: long-running work, tool use, memory, approvals, context, and agents that help people move from intent to output.
 
 ## What Happened So Far
 
@@ -31,6 +27,8 @@ That maps directly to the product direction: long-running work, tool use, memory
 5. A new Labs repo was created to preserve and present the process.
 6. The storage model was corrected so the repo serves attention first, due diligence second, and raw capture last.
 7. The homepage, launch thread, video outline, receipts, and case-file path were tightened for public launch.
+8. The repo was published under Noah's GitHub account and deployed through GitHub Pages.
+9. Noah challenged Codex for overbuilding; that correction became a central proof point.
 
 ## What To Inspect First
 
@@ -72,12 +70,19 @@ See [OPENAI_FIT.md](OPENAI_FIT.md).
 
 ## Current Evidence
 
-- Commit `47b2483`: initial public audition scaffold.
-- Commit `7792a53`: lifecycle-first evidence architecture.
+- Public repo: <https://github.com/noahkuhn/openai-audition>
+- Public site: <https://noahkuhn.github.io/openai-audition/>
+- Commit `4ec87e2`: initial public audition scaffold.
+- Commit `46ab3ed`: lifecycle-first evidence architecture.
+- Commit `ef6c343`: recentered audition around OpenAI outreach.
+- Commit `7a7f396`: targeted Codex deployment role.
+- Commit `4dc0cd2`: set public audition site URL.
 - Receipt 000: planning chat and project direction.
 - Receipt 001: repo scaffold.
 - Receipt 002: evidence architecture correction.
 - Receipt 003: public launch package.
+- Receipt 004: recentered on getting the OpenAI conversation.
+- Receipt 005: primary role and contact inputs.
 - Decision Record 001: [The project is the public audition](evidence/decision-record-001-public-audition.md).
 
 ## What This Is Not
@@ -104,13 +109,10 @@ If this works, the story is simple:
 
 ## Direct Ask
 
-Start the conversation.
-
-If the work is useful, route Noah toward the AI Deployment Engineer - Codex role or the Codex team where hands-on agent supervision, product judgment, and execution taste create the most leverage.
+If this is the kind of user behavior Codex should enable, I want to talk to the team building, deploying, or studying it.
 
 ## What Still Needs To Become Stronger
 
-- A polished public deployment URL.
 - One short launch video.
 - More curated transcript excerpts.
 - A post-launch postmortem once real attention or feedback exists.

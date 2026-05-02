@@ -114,7 +114,7 @@ Learnings:
 Next session:
 
 - Fill final public URLs.
-- Publish the repo and site.
+- Verify the public repo and site.
 - Apply to the strongest Codex role.
 - Send direct outreach using `launch/openai-outreach.md`.
 
@@ -143,3 +143,31 @@ Next session:
 - Deploy the audition page.
 - Replace final URL placeholders.
 - Apply to AI Deployment Engineer - Codex.
+
+## 2026-05-02 - Session 5: Public Launch Readiness Hardening
+
+Context:
+
+- Noah asked whether the project was actually ready to get noticed and told Codex not to stop until it could raise an eyebrow.
+- Narrative and readiness subagents reviewed the launch package.
+- The reviews identified abstraction-heavy copy, raw Markdown links from the public site, stale publish language, duplicate launch threads, and insufficient public evidence.
+
+Decisions:
+
+- Rewrite top surfaces around a "career-changing objective" and user-side Codex evaluation under real pressure.
+- Route homepage artifact links to GitHub-rendered documents instead of raw GitHub Pages Markdown.
+- Keep `launch/x-thread-draft.md` as the canonical public thread.
+- Replace `auditions/openai/launch-thread.md` with a pointer.
+- Add curated public evidence artifacts for the overbuilding correction, subagent review, and launch-surface hardening.
+- Preserve the useful correction from Session 0 without publishing rough private-chat phrasing as the main public quote.
+
+Learnings:
+
+- "Inspectable proof" needs concrete artifacts, not just confident summaries.
+- The eyebrow-raising part is not that Codex made a page. It is that Codex was used and corrected on a real, ambiguous objective.
+- First-click links should preserve polish; raw Markdown served from Pages weakens the funnel.
+
+Next session:
+
+- Record or assemble the short launch video.
+- Start targeted distribution to Codex/OpenAI people and builder amplifiers.

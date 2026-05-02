@@ -4,9 +4,9 @@ This is the conversion layer.
 
 The goal is not "launch content." The goal is to turn the public audition into an OpenAI conversation.
 
-## Required Inputs
+## Live Links
 
-Fill these before publishing:
+Current public surfaces:
 
 ```text
 PUBLIC_SITE_URL=https://noahkuhn.github.io/openai-audition/
@@ -18,20 +18,25 @@ PRIMARY_ROLE_URL=https://openai.com/careers/ai-deployment-engineer-codex-remote-
 PRIOR_OPENAI_SITE_URL=https://noahkuhn.com/openai/
 ```
 
-Do not wait on anything else.
+No unresolved launch URL placeholders remain.
 
 ## Sequence
 
-### 1. Publish
+### 1. Verify
 
-- Make the GitHub repo public.
-- Deploy `index.html`.
-- Replace placeholders in the launch thread.
+- Confirm the GitHub repo is public.
+- Confirm GitHub Pages returns HTTP 200.
 - Confirm `CASE_FILE.md`, `OPENAI_FIT.md`, and `APPLICATION.md` are one click from the homepage.
 
-### 2. Apply
+### 2. Get Noticed
 
-Apply through OpenAI Careers to AI Deployment Engineer - Codex first:
+The primary move is not the application form.
+
+The primary move is to get the artifact in front of OpenAI/Codex people and builder amplifiers.
+
+Use the X thread and short direct notes first. The formal application is the receipt that makes the project easy to route internally once someone cares.
+
+### 3. Apply
 
 <https://openai.com/careers/ai-deployment-engineer-codex-remote-us/>
 
@@ -47,7 +52,7 @@ The short version: I asked Codex to get me hired at OpenAI. It helped turn that 
 The role fit is AI Deployment Engineer - Codex: I am already using Codex as a power user to build, evaluate, package, and explain an advanced AI coding workflow in public.
 ```
 
-### 3. Post
+### 4. Post
 
 Publish the X thread.
 
@@ -64,7 +69,7 @@ Fit:
 https://github.com/noahkuhn/openai-audition/blob/main/OPENAI_FIT.md
 ```
 
-### 4. Direct Pings
+### 5. Direct Pings
 
 Send the project to three groups:
 
@@ -75,11 +80,11 @@ Send the project to three groups:
 ## Short DM
 
 ```text
-I did something unusual: I asked Codex to get me hired at OpenAI, then used it to build the application as a public artifact.
+I built my OpenAI application as a live Codex case study.
 
-The repo tracks the strategy, rejected ideas, corrections, receipts, and final pitch.
+I gave Codex a career-changing objective and used it across planning, correction, drafting, repo work, and launch. The result is a public artifact showing where Codex is already useful and where human supervision still matters.
 
-I think this is directly relevant to Codex as an execution partner, not just a code generator:
+If that's relevant to the Codex team, here's the shortest link:
 https://noahkuhn.github.io/openai-audition/
 ```
 

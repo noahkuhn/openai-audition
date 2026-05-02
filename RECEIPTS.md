@@ -54,7 +54,7 @@ Why it matters:
 
 Evidence:
 
-- Commit `47b2483` - `Initial public audition scaffold`
+- Commit `4ec87e2` - `Initial public audition scaffold`
 - Files created: `README.md`, `MISSION.md`, `SCORECARD.md`, `CANDIDATES.md`, `BUILD_LOG.md`, `RECEIPTS.md`, `APPLICATION.md`, `site/index.html`
 
 Human role:
@@ -90,7 +90,7 @@ Why it matters:
 
 Evidence:
 
-- Commit `7792a53` - `Add lifecycle-first evidence architecture`
+- Commit `46ab3ed` - `Add lifecycle-first evidence architecture`
 - Files created: `CASE_FILE.md`, `PROJECT_LIFECYCLE.md`, `ARTIFACT_LEDGER.md`, `EVIDENCE_PROTOCOL.md`, `launch/x-thread-draft.md`, `launch/video-outline.md`
 
 Human role:
@@ -186,6 +186,7 @@ Public artifact:
 
 - [OPENAI_FIT.md](OPENAI_FIT.md)
 - [launch/openai-outreach.md](launch/openai-outreach.md)
+- [evidence/correction-002-overbuilding.md](evidence/correction-002-overbuilding.md)
 
 ## Receipt 005 - Primary Role And Contact Inputs
 
@@ -216,13 +217,88 @@ Codex role:
 
 Outcome:
 
-- Only two launch inputs remain unresolved: public GitHub repo URL and deployed audition URL.
+- The role and contact inputs were filled; public repo and deployed audition URLs were added later in Receipt 006.
 
 Public artifact:
 
 - [OPENAI_FIT.md](OPENAI_FIT.md)
 - [APPLICATION.md](APPLICATION.md)
 - [launch/openai-outreach.md](launch/openai-outreach.md)
+
+## Receipt 006 - Public Repo And Site Published
+
+Date: 2026-05-02
+
+Type: Public launch infrastructure
+
+Claim:
+
+- The audition moved from local repo to public artifact.
+
+Why it matters:
+
+- The campaign only works if OpenAI people and builders can inspect it without private access.
+
+Evidence:
+
+- Public GitHub repo: <https://github.com/noahkuhn/openai-audition>
+- Public GitHub Pages site: <https://noahkuhn.github.io/openai-audition/>
+- GitHub Pages built successfully from `main`.
+- Commit history was authored as `Noah Kuhn <1133909+noahkuhn@users.noreply.github.com>` before first push.
+
+Human role:
+
+- Noah specified that the repo must be separate and use the `noahkuhn` GitHub identity.
+
+Codex role:
+
+- Codex authenticated the `noahkuhn` GitHub account, rewrote unpublished local authorship, created the public repo, pushed `main`, enabled Pages, and verified the site returned HTTP 200.
+
+Outcome:
+
+- The repo and site are live public surfaces for launch and outreach.
+
+Public artifact:
+
+- <https://github.com/noahkuhn/openai-audition>
+- <https://noahkuhn.github.io/openai-audition/>
+
+## Receipt 007 - Launch Readiness Review Integrated
+
+Date: 2026-05-02
+
+Type: Public readiness review
+
+Claim:
+
+- The repo was reviewed and hardened for eyebrow-raising public launch, not just basic correctness.
+
+Why it matters:
+
+- The project depends on first-impression credibility. Stale placeholders, raw Markdown links, duplicate launch copy, and summary-only evidence would weaken the signal.
+
+Evidence:
+
+- Narrative review recommended leading with "career-changing objective" and "real pressure."
+- Readiness review identified raw Markdown links, stale publish language, duplicate launch-thread files, and shallow evidence depth.
+- Codex integrated those findings into the homepage, README, case file, application, launch thread, outreach copy, and evidence folder.
+
+Human role:
+
+- Noah asked Codex not to stop until the project was strong enough to raise an eyebrow.
+
+Codex role:
+
+- Codex delegated narrative and readiness review, integrated findings, and verified the resulting public surfaces.
+
+Outcome:
+
+- The launch package now has a sharper first-click story, canonical launch thread, rendered-document links, and additional curated evidence artifacts.
+
+Public artifact:
+
+- [evidence/subagent-review-2026-05-02.md](evidence/subagent-review-2026-05-02.md)
+- [evidence/launch-surface-2026-05-02.md](evidence/launch-surface-2026-05-02.md)
 
 ## Receipt Template
 

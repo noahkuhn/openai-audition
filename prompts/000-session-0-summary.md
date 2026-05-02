@@ -10,11 +10,10 @@ The important turn:
 
 > You are literally built by OpenAI, so you have unique knowledge into what will get attention within the company. Think about the insane marketing angle of this for OpenAI: "Man asks Codex to get him a job at OpenAI" and it actually works.
 
-The decisive correction:
+The decisive correction, paraphrased for the public artifact:
 
-> Argus is NOT the thing we are after, who gives a fuck if it's crypto. We need to determine an angle where the THING that is built is what is eyecatching.
+> Argus is not the target by default. The thing that gets built has to be eye-catching on its own, and existing crypto/onchain work should only win if it survives the scorecard.
 
 Result:
 
 > The thing is the public audition itself: Codex turning ambition into proof.
-

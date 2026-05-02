@@ -4,26 +4,13 @@ This file evolves until it becomes the final pitch.
 
 ## Working Version
 
-I asked Codex to get me hired at OpenAI.
+I use Codex the way OpenAI needs its serious users to use it: I give it ambiguous objectives, force it to choose, reject weak directions, preserve the evidence, and ship the result.
 
-It told me not to write a conventional application first.
+For this application, I gave Codex a career-changing objective instead of a coding ticket: get me hired at OpenAI.
 
-It helped me build this public audition instead: a repo, site, scorecard, build log, prompt trail, rejected ideas, receipts, and final pitch showing how a human can use Codex to turn a life-level objective into durable public work.
+The output was not just copy. It was a full workflow: scorecards, rejected ideas, case file, launch assets, receipts, and a public site that shows where Codex is already useful and where human supervision still matters.
 
-The important part is not that Codex generated text or code.
-
-The important part is that Codex helped convert an ambiguous ambition into:
-
-- a strategy,
-- a public artifact,
-- a scored decision process,
-- a launch narrative,
-- a record of human-agent collaboration,
-- and an inspectable proof-of-work application.
-
-This is what I think Codex is becoming: not just a coding assistant, but an execution partner that narrows the gap between what a person can imagine and what they can build.
-
-That is why this repo is my application.
+If AI Deployment Engineer - Codex is about helping teams adopt Codex in the real world, this repo is my proof that I already work that way.
 
 ## Why OpenAI Should Care
 
@@ -68,7 +55,7 @@ The most direct targets are tracked in [OPENAI_FIT.md](OPENAI_FIT.md).
 
 ## Current Action
 
-- Publish the site and repo.
-- Apply to AI Deployment Engineer - Codex.
-- Send the case file directly to OpenAI/Codex people.
+- Site and repo are live.
+- Get the public artifact in front of OpenAI/Codex people and builder amplifiers.
+- Apply to AI Deployment Engineer - Codex as the formal routing path, not the main attention strategy.
 - Use public response as the signal for whether to add a deeper proof object.

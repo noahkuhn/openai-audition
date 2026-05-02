@@ -53,3 +53,14 @@
 - Refactor backlog: Replace deployed audition URL and public GitHub repo URL once hosting/repo are created.
 - Reliability backlog: Do not push or publish the repo with contact details until Noah confirms the public destination.
 - Next session: Create/push the GitHub repo and deploy the static site after explicit confirmation.
+
+## 2026-05-02 - Launch Readiness Hardening
+
+- Decisions: Use `launch/x-thread-draft.md` as the canonical launch thread and keep `auditions/openai/launch-thread.md` as a pointer to avoid drift.
+- Decisions: Route homepage proof links to GitHub-rendered documents instead of raw Markdown served by GitHub Pages.
+- Decisions: Add curated evidence for the overbuilding correction, subagent launch review, and launch-surface hardening.
+- Learnings: The stronger framing is a user-side Codex evaluation under real pressure, not a generic public audition category.
+- Learnings: Evidence claims need concrete public artifacts; summary-only receipts are not enough for serious readers.
+- Refactor backlog: Add a short launch video or screenshot-based proof artifact next.
+- Reliability backlog: Re-run public link and Pages checks after pushing these hardening changes.
+- Next session: Launch distribution and direct routing to OpenAI/Codex people.
