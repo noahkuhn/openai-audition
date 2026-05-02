@@ -38,6 +38,7 @@ If yes, the application is not a PDF. The application is the trail.
 ## Repo Map
 
 - [CASE_FILE.md](CASE_FILE.md) - the first file an OpenAI person should read.
+- [OPENAI_FIT.md](OPENAI_FIT.md) - the target role fit and current OpenAI Codex role surfaces.
 - [PROJECT_LIFECYCLE.md](PROJECT_LIFECYCLE.md) - how the project moves from unknown to viral to due diligence.
 - [ARTIFACT_LEDGER.md](ARTIFACT_LEDGER.md) - the index of public surfaces, proof artifacts, and source material.
 - [MISSION.md](MISSION.md) - the rules and objective.
@@ -48,7 +49,7 @@ If yes, the application is not a PDF. The application is the trail.
 - [EVIDENCE_PROTOCOL.md](EVIDENCE_PROTOCOL.md) - how raw source material becomes clean public proof.
 - [APPLICATION.md](APPLICATION.md) - the final OpenAI-facing pitch as it evolves.
 - [auditions/openai](auditions/openai) - the OpenAI-specific audition lane.
-- [launch](launch) - public launch assets.
+- [launch](launch) - public launch and outreach assets.
 - [evidence](evidence) - curated evidence safe for public readers.
 - [source-material](source-material) - raw/private source capture rules.
 - [prompts](prompts) - prompt artifacts worth publishing.
@@ -66,6 +67,21 @@ If not, cut it.
 ## Local Preview
 
 The site is static. Open [index.html](index.html) in a browser.
+
+## Launch Inputs
+
+The only missing launch inputs are:
+
+```text
+PUBLIC_SITE_URL=
+PUBLIC_REPO_URL=
+NOAH_X_HANDLE=
+NOAH_LINKEDIN_URL=
+NOAH_EMAIL=
+PRIMARY_ROLE_URL=
+```
+
+Everything else should keep moving without waiting.
 
 ## Session Capture
 

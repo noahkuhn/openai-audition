@@ -45,8 +45,22 @@ Start the conversation.
 
 Evaluate the repo, the launch artifact, the correction history, and the human-agent collaboration pattern. If the work is useful, talk to me about where this taste and execution would create leverage inside OpenAI.
 
-## Open Questions
+## Best Initial Fit
 
-- What final proof object, if any, should sit inside the audition?
-- Which artifacts are most persuasive to OpenAI specifically?
-- What should be launched on X first: the repo, the site, or a short video?
+Codex product and engineering roles where the work involves:
+
+- developer workflows,
+- long-running agent tasks,
+- reliability and observability,
+- product judgment under ambiguity,
+- evaluation of where agents help or drift,
+- and translating real usage into better systems.
+
+The most direct targets are tracked in [OPENAI_FIT.md](OPENAI_FIT.md).
+
+## Current Action
+
+- Publish the site and repo.
+- Apply to the strongest Codex role.
+- Send the case file directly to OpenAI/Codex people.
+- Use public response as the signal for whether to add a deeper proof object.

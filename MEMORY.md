@@ -32,3 +32,14 @@
 - Refactor backlog: Add a deploy target once hosting is chosen.
 - Reliability backlog: Add one more curated excerpt from the repo-setup/build session before public launch.
 - Next session: Deploy the static site and create the first launch video asset.
+
+## 2026-05-02 - Recentered On OpenAI Conversation
+
+- Decisions: Add `OPENAI_FIT.md` so the campaign targets current Codex role surfaces instead of vague OpenAI attention.
+- Decisions: Add `launch/openai-outreach.md` to convert the public artifact into applications, direct pings, and a 48-hour checkpoint.
+- Decisions: Keep proof-object work deferred until public or OpenAI feedback demands deeper technical evidence.
+- Learnings: Repo polish is only useful when it increases attention, credibility, or conversion to an OpenAI conversation.
+- Learnings: Noah's correction that Codex was overbuilding is itself useful process evidence.
+- Refactor backlog: Replace launch placeholders once public site, repo, X, LinkedIn, and primary role URLs are chosen.
+- Reliability backlog: Re-check OpenAI Careers before publishing any role-specific public claims.
+- Next session: Publish, apply to the strongest Codex role, and send direct outreach.

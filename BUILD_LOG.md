@@ -89,3 +89,31 @@ Next session:
 - Deploy the static site or choose the public host.
 - Create the next curated transcript excerpt from the repo-setup session.
 - Record or assemble the 60-90 second launch video.
+
+## 2026-05-02 - Session 3: Recentered On Getting The Job
+
+Context:
+
+- Noah called out the failure mode directly: Codex was drifting into repo polish instead of the objective.
+- The objective is not a perfect repository. The objective is to get Noah an OpenAI conversation.
+- Codex checked current OpenAI Codex role surfaces before adding role-specific claims.
+
+Decisions:
+
+- Add `OPENAI_FIT.md` to anchor the campaign to real Codex role surfaces.
+- Add `launch/openai-outreach.md` as the conversion layer from public attention to direct OpenAI contact.
+- Update the homepage, application, case file, launch thread, and artifact ledger around the direct ask.
+- Keep proof-object work deferred until attention or OpenAI feedback demands deeper technical proof.
+
+Learnings:
+
+- Broken links matter only if they block distribution.
+- The repo exists to support attention, credibility, and direct outreach.
+- The strongest story includes the correction: human judgment forced Codex back to the real goal.
+
+Next session:
+
+- Fill final public URLs.
+- Publish the repo and site.
+- Apply to the strongest Codex role.
+- Send direct outreach using `launch/openai-outreach.md`.

@@ -11,6 +11,7 @@ I asked Codex to get me hired at OpenAI, and it helped turn that ambition into a
 - Agent: Codex
 - Status: Public draft
 - Started: 2026-05-01
+- Desired conversion: a serious OpenAI conversation for a Codex role
 - First proof: repo, site, mission, scorecard, case file, lifecycle, artifact ledger, launch assets, receipts, and evidence architecture
 
 ## Why This Should Matter To OpenAI
@@ -34,13 +35,32 @@ That maps directly to the product direction: long-running work, tool use, memory
 ## What To Inspect First
 
 - [index.html](index.html)
+- [OPENAI_FIT.md](OPENAI_FIT.md)
+- [APPLICATION.md](APPLICATION.md)
 - [PROJECT_LIFECYCLE.md](PROJECT_LIFECYCLE.md)
 - [ARTIFACT_LEDGER.md](ARTIFACT_LEDGER.md)
 - [MISSION.md](MISSION.md)
 - [SCORECARD.md](SCORECARD.md)
 - [BUILD_LOG.md](BUILD_LOG.md)
 - [RECEIPTS.md](RECEIPTS.md)
-- [APPLICATION.md](APPLICATION.md)
+
+## Target Fit
+
+The first serious lane is Codex product and engineering work:
+
+- Codex App
+- Codex Cloud
+- Codex Core Agents
+- Codex Ecosystem & Enterprise
+- adjacent Codex systems, deployment, or product roles
+
+Why:
+
+- This project is live evidence of Codex used for ambiguous, multi-step work.
+- It shows where Codex creates leverage and where human correction still matters.
+- It produces product insight about agent workflows, evidence, memory, approvals, and long-running execution.
+
+See [OPENAI_FIT.md](OPENAI_FIT.md).
 
 ## Current Evidence
 
@@ -73,6 +93,12 @@ Codex supplies strategy, structure, drafting, repo operations, artifact generati
 If this works, the story is simple:
 
 > A person asked Codex to help change his career, and Codex helped produce the proof.
+
+## Direct Ask
+
+Start the conversation.
+
+If the work is useful, route Noah toward the Codex role or team where hands-on agent supervision, product judgment, and execution taste create the most leverage.
 
 ## What Still Needs To Become Stronger
 

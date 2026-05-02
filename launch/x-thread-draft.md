@@ -8,7 +8,7 @@ It did not start with a cover letter.
 
 It helped me build a public audition instead.
 
-The repo is the application: strategy, rejected ideas, prompts, receipts, build logs, and the final pitch.
+The repo is the application: strategy, rejected ideas, prompts, receipts, build logs, target-role fit, and the final pitch.
 
 ## Post 2
 
@@ -67,13 +67,17 @@ This is the question:
 
 Can Codex help a person convert ambition into a body of work compelling enough to change their career?
 
+And can that process reveal what Codex is becoming: an execution partner, not just a code generator?
+
 ## Post 7
 
 This is my OpenAI audition.
 
-If it works, it is useful evidence for Codex.
+I am aiming at Codex roles where product judgment, agent workflows, reliability, and execution taste matter.
+
+If it works, it starts the conversation.
 
 If it fails, the public record should still be useful to anyone trying to use agents for real work.
 
-Repo:
-Site:
+Repo: [PUBLIC_REPO_URL]
+Site: [PUBLIC_SITE_URL]

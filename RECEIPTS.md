@@ -38,21 +38,6 @@ Public artifact:
 
 - [evidence/decision-record-001-public-audition.md](evidence/decision-record-001-public-audition.md)
 
-## Receipt Template
-
-```text
-Receipt:
-Date:
-Type:
-
-Claim:
-Evidence:
-Human role:
-Codex role:
-Outcome:
-Link or file:
-```
-
 ## Receipt 001 - Initial Repo Scaffold
 
 Date: 2026-05-01
@@ -164,3 +149,55 @@ Public artifact:
 - [launch/x-thread-draft.md](launch/x-thread-draft.md)
 - [launch/video-outline.md](launch/video-outline.md)
 - [evidence/decision-record-001-public-audition.md](evidence/decision-record-001-public-audition.md)
+
+## Receipt 004 - Recentered On Getting The OpenAI Conversation
+
+Date: 2026-05-02
+
+Type: Strategy correction and repo update
+
+Claim:
+
+- The project was corrected from launch-readiness nitpicking back to the real objective: get Noah a job conversation at OpenAI.
+
+Why it matters:
+
+- The public audition only matters if it routes attention into a hiring conversation.
+
+Evidence:
+
+- Noah explicitly asked whether Codex was getting him the job or overbuilding.
+- Codex then created a direct role-fit and outreach layer instead of adding more abstract process documentation.
+- Current Codex role surfaces were checked against OpenAI Careers before adding role-specific positioning.
+
+Human role:
+
+- Noah forced the priority correction and restated the objective.
+
+Codex role:
+
+- Codex translated the correction into `OPENAI_FIT.md`, `launch/openai-outreach.md`, and updated public-facing artifacts.
+
+Outcome:
+
+- The repo now has a clear conversion path: public hook -> case file -> role fit -> direct outreach -> OpenAI conversation.
+
+Public artifact:
+
+- [OPENAI_FIT.md](OPENAI_FIT.md)
+- [launch/openai-outreach.md](launch/openai-outreach.md)
+
+## Receipt Template
+
+```text
+Receipt:
+Date:
+Type:
+
+Claim:
+Evidence:
+Human role:
+Codex role:
+Outcome:
+Link or file:
+```

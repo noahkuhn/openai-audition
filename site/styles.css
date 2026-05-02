@@ -56,6 +56,8 @@ strong {
   top: 24px;
   right: clamp(20px, 5vw, 76px);
   display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
   gap: 18px;
   color: var(--muted);
   font-size: 14px;
@@ -276,7 +278,8 @@ blockquote {
   .nav {
     left: 20px;
     right: 20px;
-    justify-content: space-between;
+    gap: 10px 14px;
+    justify-content: flex-start;
   }
 
   .status-panel,

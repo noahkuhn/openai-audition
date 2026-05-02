@@ -56,6 +56,7 @@ The public repo includes:
 - prompt trail,
 - receipts,
 - launch assets,
+- role fit,
 - final application.
 
 Everything important should be inspectable.
@@ -72,6 +73,10 @@ Not a clever demo.
 
 A public body of work that could start a real conversation.
 
+The target is not vague.
+
+I am aiming at Codex roles where product judgment, agent workflows, reliability, and execution taste matter.
+
 ## Post 7
 
 This is my OpenAI audition.
@@ -80,6 +85,5 @@ If it works, that is useful evidence for OpenAI.
 
 If it fails, the failure log should still be useful to anyone trying to use agents for real work.
 
-Repo:
-Site:
-
+Repo: [PUBLIC_REPO_URL]
+Site: [PUBLIC_SITE_URL]
