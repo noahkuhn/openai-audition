@@ -10,7 +10,7 @@ Fill these before publishing:
 
 ```text
 PUBLIC_SITE_URL=[DEPLOYED_AUDITION_URL]
-PUBLIC_REPO_URL=[PUBLIC_GITHUB_REPO_URL]
+PUBLIC_REPO_URL=https://github.com/noahkuhn/openai-audition
 NOAH_X_HANDLE=@noahbkuhn
 NOAH_LINKEDIN_URL=https://www.linkedin.com/in/noahkuhn
 NOAH_EMAIL=hey@noahkuhn.com
@@ -58,10 +58,10 @@ For OpenAI/Codex people, start here:
 [PUBLIC_SITE_URL]
 
 Case file:
-[PUBLIC_REPO_URL]/blob/main/CASE_FILE.md
+https://github.com/noahkuhn/openai-audition/blob/main/CASE_FILE.md
 
 Fit:
-[PUBLIC_REPO_URL]/blob/main/OPENAI_FIT.md
+https://github.com/noahkuhn/openai-audition/blob/main/OPENAI_FIT.md
 ```
 
 ### 4. Direct Pings

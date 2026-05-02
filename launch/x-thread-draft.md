@@ -79,5 +79,5 @@ If it works, it starts the conversation.
 
 If it fails, the public record should still be useful to anyone trying to use agents for real work.
 
-Repo: [PUBLIC_REPO_URL]
+Repo: https://github.com/noahkuhn/openai-audition
 Site: [PUBLIC_SITE_URL]

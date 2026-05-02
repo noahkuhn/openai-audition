@@ -74,7 +74,7 @@ The only missing launch inputs are:
 
 ```text
 PUBLIC_SITE_URL=[DEPLOYED_AUDITION_URL]
-PUBLIC_REPO_URL=[PUBLIC_GITHUB_REPO_URL]
+PUBLIC_REPO_URL=https://github.com/noahkuhn/openai-audition
 NOAH_X_HANDLE=@noahbkuhn
 NOAH_LINKEDIN_URL=https://www.linkedin.com/in/noahkuhn
 NOAH_EMAIL=hey@noahkuhn.com
