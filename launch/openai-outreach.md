@@ -9,12 +9,13 @@ The goal is not "launch content." The goal is to turn the public audition into a
 Fill these before publishing:
 
 ```text
-PUBLIC_SITE_URL=
-PUBLIC_REPO_URL=
-NOAH_X_HANDLE=
-NOAH_LINKEDIN_URL=
-NOAH_EMAIL=
-PRIMARY_ROLE_URL=
+PUBLIC_SITE_URL=[DEPLOYED_AUDITION_URL]
+PUBLIC_REPO_URL=[PUBLIC_GITHUB_REPO_URL]
+NOAH_X_HANDLE=@noahbkuhn
+NOAH_LINKEDIN_URL=https://www.linkedin.com/in/noahkuhn
+NOAH_EMAIL=hey@noahkuhn.com
+PRIMARY_ROLE_URL=https://openai.com/careers/ai-deployment-engineer-codex-remote-us/
+PRIOR_OPENAI_SITE_URL=https://noahkuhn.com/openai/
 ```
 
 Do not wait on anything else.
@@ -30,7 +31,9 @@ Do not wait on anything else.
 
 ### 2. Apply
 
-Apply through OpenAI Careers to the best Codex role first.
+Apply through OpenAI Careers to AI Deployment Engineer - Codex first:
+
+<https://openai.com/careers/ai-deployment-engineer-codex-remote-us/>
 
 Use the normal application path, but make the public audition the top artifact:
 
@@ -40,6 +43,8 @@ I built my OpenAI application as a public Codex audition:
 [PUBLIC_SITE_URL]
 
 The short version: I asked Codex to get me hired at OpenAI. It helped turn that objective into a public proof-of-work campaign with strategy, rejected ideas, receipts, a case file, launch assets, and an evolving application.
+
+The role fit is AI Deployment Engineer - Codex: I am already using Codex as a power user to build, evaluate, package, and explain an advanced AI coding workflow in public.
 ```
 
 ### 3. Post
@@ -87,7 +92,7 @@ Instead of only submitting a resume, I asked Codex to help me create the proof-o
 
 [PUBLIC_SITE_URL]
 
-I think the strongest fit is Codex App, Codex Cloud, or another role where product judgment and hands-on agent workflows matter.
+I think the strongest fit is AI Deployment Engineer - Codex, with Codex App or Codex Cloud also plausible depending on where product judgment and hands-on agent workflows matter most.
 ```
 
 ## OpenAI Engineer / Product Note
@@ -99,6 +104,21 @@ The useful part is not that it wrote copy. The useful part is the correction loo
 
 If you care about Codex as a long-running execution partner, I think this is worth a look:
 [PUBLIC_SITE_URL]
+```
+
+## Application Form Blurb
+
+```text
+I am applying for AI Deployment Engineer - Codex.
+
+The relevant proof artifact is not a conventional portfolio page. I asked Codex to help me get hired at OpenAI, then used it to build the application as a public proof-of-work workflow:
+
+[PUBLIC_SITE_URL]
+
+It shows how I use Codex in practice: framing an ambiguous objective, selecting a strategy, rejecting weak directions, creating launch artifacts, preserving receipts, and translating agent behavior into product and deployment insight.
+
+Prior OpenAI application surface:
+https://noahkuhn.com/openai/
 ```
 
 ## 48-Hour Checkpoint

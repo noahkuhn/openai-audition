@@ -47,20 +47,28 @@ Evaluate the repo, the launch artifact, the correction history, and the human-ag
 
 ## Best Initial Fit
 
-Codex product and engineering roles where the work involves:
+The strongest first target is [AI Deployment Engineer - Codex](https://openai.com/careers/ai-deployment-engineer-codex-remote-us/).
 
-- developer workflows,
-- long-running agent tasks,
-- reliability and observability,
-- product judgment under ambiguity,
-- evaluation of where agents help or drift,
-- and translating real usage into better systems.
+That role maps to this audition because it is about:
+
+- helping engineering teams adopt Codex in real development workflows,
+- building high-signal demos, integrations, and automations with Codex,
+- translating real deployment feedback into product insight,
+- creating public technical guidance and examples,
+- and communicating complex workflow changes clearly.
 
 The most direct targets are tracked in [OPENAI_FIT.md](OPENAI_FIT.md).
+
+## Contact
+
+- X: <https://x.com/noahbkuhn>
+- LinkedIn: <https://www.linkedin.com/in/noahkuhn>
+- Email: <mailto:hey@noahkuhn.com>
+- Previous OpenAI application surface: <https://noahkuhn.com/openai/>
 
 ## Current Action
 
 - Publish the site and repo.
-- Apply to the strongest Codex role.
+- Apply to AI Deployment Engineer - Codex.
 - Send the case file directly to OpenAI/Codex people.
 - Use public response as the signal for whether to add a deeper proof object.

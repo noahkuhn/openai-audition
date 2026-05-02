@@ -4,7 +4,11 @@ Current as of 2026-05-02. Re-check OpenAI Careers before applying or publishing 
 
 ## Primary Target
 
-The strongest fit is the Codex product and engineering lane.
+The strongest first application target is:
+
+- [AI Deployment Engineer - Codex](https://openai.com/careers/ai-deployment-engineer-codex-remote-us/)
+
+The broader fit is the Codex product, deployment, and engineering lane.
 
 This audition is not a generic "AI built my app" project. It is a live use of Codex as an execution partner across strategy, artifact creation, evidence handling, repo work, launch planning, correction, and iteration.
 
@@ -26,6 +30,19 @@ Source:
 - <https://openai.com/careers/search/?q=codex>
 
 ## Best First Fits
+
+### AI Deployment Engineer - Codex
+
+Why this maps:
+
+- The role is about helping engineering teams adopt Codex across their software development lifecycle.
+- It asks for a technically deep Codex power user who can design, validate, and scale advanced AI coding workflows.
+- It values scrappy demos, reference implementations, workflow automations, workshops, public technical guidance, and high-fidelity product feedback.
+- This audition is exactly that pattern in public: use Codex to create a real workflow, record where it helps, catch where it drifts, and package the result into a repeatable adoption story.
+
+Source:
+
+- <https://openai.com/careers/ai-deployment-engineer-codex-remote-us/>
 
 ### Software Engineer, Codex App
 
@@ -69,8 +86,28 @@ I am not applying as someone who used Codex once and liked it.
 
 I am applying as someone who can push Codex through real work, catch its drift, package the evidence, and translate rough agent behavior into product insight.
 
+## Candidate Background
+
+Previous OpenAI application surface:
+
+- <https://noahkuhn.com/openai/>
+
+Public profile:
+
+- X: <https://x.com/noahbkuhn>
+- LinkedIn: <https://www.linkedin.com/in/noahkuhn>
+- Email: <mailto:hey@noahkuhn.com>
+
+Useful baseline from the previous page:
+
+- Full-stack product engineer.
+- Internal tools and workflow systems.
+- TypeScript, React, Python, SQL, and LLM integrations.
+- Experience turning messy inputs into structured, reviewable outputs.
+- Long-running products with real users and maintenance burden.
+
 ## Direct Ask
 
-Start with a conversation for a Codex role where product judgment, engineering execution, and hands-on agent supervision matter.
+Start with a conversation for the AI Deployment Engineer - Codex role, or another Codex role where product judgment, engineering execution, and hands-on agent supervision matter.
 
 If the right fit is not one of the named roles above, route this to the person who owns Codex product quality, agent workflows, or developer-facing execution.

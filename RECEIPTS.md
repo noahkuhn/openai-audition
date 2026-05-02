@@ -187,6 +187,43 @@ Public artifact:
 - [OPENAI_FIT.md](OPENAI_FIT.md)
 - [launch/openai-outreach.md](launch/openai-outreach.md)
 
+## Receipt 005 - Primary Role And Contact Inputs
+
+Date: 2026-05-02
+
+Type: Launch input update
+
+Claim:
+
+- The audition now has a concrete first role target and contact layer.
+
+Why it matters:
+
+- The campaign cannot convert without a specific role, public contact path, and route from attention to application.
+
+Evidence:
+
+- Noah provided X, LinkedIn, email, a previous OpenAI application page, and the AI Deployment Engineer - Codex role link.
+- Codex verified the role page on OpenAI Careers before treating it as the primary target.
+
+Human role:
+
+- Noah supplied the public identity and likely role target.
+
+Codex role:
+
+- Codex mapped the role to the campaign and updated the case file, application, fit document, outreach plan, launch copy, and public homepage.
+
+Outcome:
+
+- Only two launch inputs remain unresolved: public GitHub repo URL and deployed audition URL.
+
+Public artifact:
+
+- [OPENAI_FIT.md](OPENAI_FIT.md)
+- [APPLICATION.md](APPLICATION.md)
+- [launch/openai-outreach.md](launch/openai-outreach.md)
+
 ## Receipt Template
 
 ```text

@@ -117,3 +117,29 @@ Next session:
 - Publish the repo and site.
 - Apply to the strongest Codex role.
 - Send direct outreach using `launch/openai-outreach.md`.
+
+## 2026-05-02 - Session 4: Contact And Primary Role Filled
+
+Context:
+
+- Noah provided X, LinkedIn, email, a prior OpenAI application page, and a likely primary role.
+- Codex verified the AI Deployment Engineer - Codex role on OpenAI Careers.
+- The previous OpenAI page is useful as supporting background, but the new audition remains the attention object.
+
+Decisions:
+
+- Treat AI Deployment Engineer - Codex as the first application target.
+- Treat `https://noahkuhn.com/openai/` as prior application context, not the new campaign URL.
+- Fill known launch/contact inputs while leaving only deployed audition URL and public GitHub repo URL unresolved.
+
+Learnings:
+
+- The deployment role is especially strong because it asks for Codex power usage, customer-facing workflow design, demos, technical guidance, and product feedback.
+- Noah's prior page supports the baseline story: full-stack product engineering, internal tools, Python/SQL/data workflows, LLM integrations, and durable products.
+
+Next session:
+
+- Create or choose the public GitHub repo URL.
+- Deploy the audition page.
+- Replace final URL placeholders.
+- Apply to AI Deployment Engineer - Codex.

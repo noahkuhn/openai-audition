@@ -11,7 +11,7 @@ I asked Codex to get me hired at OpenAI, and it helped turn that ambition into a
 - Agent: Codex
 - Status: Public draft
 - Started: 2026-05-01
-- Desired conversion: a serious OpenAI conversation for a Codex role
+- Desired conversion: a serious OpenAI conversation for the AI Deployment Engineer - Codex role or adjacent Codex roles
 - First proof: repo, site, mission, scorecard, case file, lifecycle, artifact ledger, launch assets, receipts, and evidence architecture
 
 ## Why This Should Matter To OpenAI
@@ -46,8 +46,9 @@ That maps directly to the product direction: long-running work, tool use, memory
 
 ## Target Fit
 
-The first serious lane is Codex product and engineering work:
+The first serious lane is Codex deployment, product, and engineering work:
 
+- AI Deployment Engineer - Codex
 - Codex App
 - Codex Cloud
 - Codex Core Agents
@@ -61,6 +62,13 @@ Why:
 - It produces product insight about agent workflows, evidence, memory, approvals, and long-running execution.
 
 See [OPENAI_FIT.md](OPENAI_FIT.md).
+
+## Candidate Background Links
+
+- Previous OpenAI application surface: <https://noahkuhn.com/openai/>
+- X: <https://x.com/noahbkuhn>
+- LinkedIn: <https://www.linkedin.com/in/noahkuhn>
+- Email: <mailto:hey@noahkuhn.com>
 
 ## Current Evidence
 
@@ -98,7 +106,7 @@ If this works, the story is simple:
 
 Start the conversation.
 
-If the work is useful, route Noah toward the Codex role or team where hands-on agent supervision, product judgment, and execution taste create the most leverage.
+If the work is useful, route Noah toward the AI Deployment Engineer - Codex role or the Codex team where hands-on agent supervision, product judgment, and execution taste create the most leverage.
 
 ## What Still Needs To Become Stronger
 

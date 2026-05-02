@@ -73,7 +73,7 @@ And can that process reveal what Codex is becoming: an execution partner, not ju
 
 This is my OpenAI audition.
 
-I am aiming at Codex roles where product judgment, agent workflows, reliability, and execution taste matter.
+I am aiming first at AI Deployment Engineer - Codex, and more broadly at Codex roles where product judgment, agent workflows, reliability, and execution taste matter.
 
 If it works, it starts the conversation.
 

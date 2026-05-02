@@ -73,12 +73,13 @@ The site is static. Open [index.html](index.html) in a browser.
 The only missing launch inputs are:
 
 ```text
-PUBLIC_SITE_URL=
-PUBLIC_REPO_URL=
-NOAH_X_HANDLE=
-NOAH_LINKEDIN_URL=
-NOAH_EMAIL=
-PRIMARY_ROLE_URL=
+PUBLIC_SITE_URL=[DEPLOYED_AUDITION_URL]
+PUBLIC_REPO_URL=[PUBLIC_GITHUB_REPO_URL]
+NOAH_X_HANDLE=@noahbkuhn
+NOAH_LINKEDIN_URL=https://www.linkedin.com/in/noahkuhn
+NOAH_EMAIL=hey@noahkuhn.com
+PRIMARY_ROLE_URL=https://openai.com/careers/ai-deployment-engineer-codex-remote-us/
+PRIOR_OPENAI_SITE_URL=https://noahkuhn.com/openai/
 ```
 
 Everything else should keep moving without waiting.

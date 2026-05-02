@@ -43,3 +43,13 @@
 - Refactor backlog: Replace launch placeholders once public site, repo, X, LinkedIn, and primary role URLs are chosen.
 - Reliability backlog: Re-check OpenAI Careers before publishing any role-specific public claims.
 - Next session: Publish, apply to the strongest Codex role, and send direct outreach.
+
+## 2026-05-02 - Contact And Primary Role Inputs
+
+- Decisions: Treat AI Deployment Engineer - Codex as the first application target after verifying the live OpenAI Careers page.
+- Decisions: Use `https://noahkuhn.com/openai/` as prior OpenAI application context, not as the new public audition URL.
+- Decisions: Fill known identity/contact inputs: X `@noahbkuhn`, LinkedIn `https://www.linkedin.com/in/noahkuhn`, email `hey@noahkuhn.com`.
+- Learnings: The deployment role maps strongly because it asks for Codex power usage, workflow adoption, demos, technical enablement, public guidance, and product feedback.
+- Refactor backlog: Replace deployed audition URL and public GitHub repo URL once hosting/repo are created.
+- Reliability backlog: Do not push or publish the repo with contact details until Noah confirms the public destination.
+- Next session: Create/push the GitHub repo and deploy the static site after explicit confirmation.
