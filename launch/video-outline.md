@@ -12,6 +12,11 @@ Voice:
 
 > Not to write a resume. To figure out what proof would actually get attention.
 
+Visual:
+
+- Start on the homepage hero.
+- Cut quickly to the original prompt excerpt.
+
 ## Setup 5-15s
 
 Show:
@@ -51,6 +56,12 @@ Voice:
 
 > The application is the trail: what Codex suggested, what I rejected, what got built, and what shipped.
 
+Visual:
+
+- Show commit history for one second.
+- Show `RECEIPTS.md` for one second.
+- Show `CASE_FILE.md` for one second.
+
 ## Close 55-90s
 
 Show:
@@ -63,3 +74,6 @@ Voice:
 
 > This is my OpenAI application. A public test of whether Codex can turn ambition into proof.
 
+End card:
+
+> X gets the story. GitHub gets the proof. OpenAI gets the case file.

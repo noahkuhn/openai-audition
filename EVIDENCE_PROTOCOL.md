@@ -18,7 +18,7 @@ Purpose:
 
 Artifacts:
 
-- `site/index.html`
+- `index.html`
 - `launch/x-thread-draft.md`
 - `launch/video-outline.md`
 
@@ -119,4 +119,3 @@ Source material:
 - huge tool dumps,
 - system/developer instruction noise,
 - anything that makes the project harder to understand.
-

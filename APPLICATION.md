@@ -25,6 +25,12 @@ This is what I think Codex is becoming: not just a coding assistant, but an exec
 
 That is why this repo is my application.
 
+## Why OpenAI Should Care
+
+This is a small public test of a large product promise.
+
+People do not only want faster code. They want help turning unclear ambition into shipped work, public proof, and better decisions. Codex is close enough to that future that the right application is not a resume; it is an inspectable collaboration trail.
+
 ## What This Should Prove
 
 - I understand the product direction Codex is moving toward.
@@ -33,9 +39,14 @@ That is why this repo is my application.
 - I can turn an abstract goal into shipped artifacts.
 - I can communicate the work in a way builders and non-builders understand.
 
+## What I Am Asking For
+
+Start the conversation.
+
+Evaluate the repo, the launch artifact, the correction history, and the human-agent collaboration pattern. If the work is useful, talk to me about where this taste and execution would create leverage inside OpenAI.
+
 ## Open Questions
 
 - What final proof object, if any, should sit inside the audition?
 - Which artifacts are most persuasive to OpenAI specifically?
 - What should be launched on X first: the repo, the site, or a short video?
-

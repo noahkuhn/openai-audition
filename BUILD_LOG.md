@@ -62,3 +62,30 @@ Next session:
 - Fill the case file and launch assets before adding product depth.
 - Use raw capture only to preserve source material.
 - Promote only the strongest excerpts into evidence.
+
+## 2026-05-02 - Session 2: Public Launch Package
+
+Context:
+
+- Noah said to proceed with the plan.
+- The project needed to move from repo scaffold to a public surface that can actually carry attention.
+
+Decisions:
+
+- Make the homepage serve the first-click audience instead of acting as a placeholder.
+- Make `CASE_FILE.md` the OpenAI due-diligence entry point.
+- Add explicit receipts for the first scaffold commit and the evidence-architecture correction.
+- Keep raw captures private and make curated evidence the public path.
+- Add the first curated public decision record.
+
+Learnings:
+
+- The launch sequence needs a strong first screen, not a comprehensive archive.
+- The repo should be navigable by audience: public, OpenAI, builders, private source material.
+- Each artifact needs a single job.
+
+Next session:
+
+- Deploy the static site or choose the public host.
+- Create the next curated transcript excerpt from the repo-setup session.
+- Record or assemble the 60-90 second launch video.

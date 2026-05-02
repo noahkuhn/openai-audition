@@ -9,8 +9,9 @@ I asked Codex to get me hired at OpenAI, and it helped turn that ambition into a
 - Candidate: Noah Kuhn
 - Target: OpenAI
 - Agent: Codex
-- Status: Public audition scaffold created
-- First proof: repo, site, mission, scorecard, build log, and evidence architecture
+- Status: Public draft
+- Started: 2026-05-01
+- First proof: repo, site, mission, scorecard, case file, lifecycle, artifact ledger, launch assets, receipts, and evidence architecture
 
 ## Why This Should Matter To OpenAI
 
@@ -28,15 +29,28 @@ That maps directly to the product direction: long-running work, tool use, memory
 4. The direction sharpened: the public audition process is the project.
 5. A new Labs repo was created to preserve and present the process.
 6. The storage model was corrected so the repo serves attention first, due diligence second, and raw capture last.
+7. The homepage, launch thread, video outline, receipts, and case-file path were tightened for public launch.
 
 ## What To Inspect First
 
+- [index.html](index.html)
 - [PROJECT_LIFECYCLE.md](PROJECT_LIFECYCLE.md)
 - [ARTIFACT_LEDGER.md](ARTIFACT_LEDGER.md)
 - [MISSION.md](MISSION.md)
 - [SCORECARD.md](SCORECARD.md)
 - [BUILD_LOG.md](BUILD_LOG.md)
+- [RECEIPTS.md](RECEIPTS.md)
 - [APPLICATION.md](APPLICATION.md)
+
+## Current Evidence
+
+- Commit `47b2483`: initial public audition scaffold.
+- Commit `7792a53`: lifecycle-first evidence architecture.
+- Receipt 000: planning chat and project direction.
+- Receipt 001: repo scaffold.
+- Receipt 002: evidence architecture correction.
+- Receipt 003: public launch package.
+- Decision Record 001: [The project is the public audition](evidence/decision-record-001-public-audition.md).
 
 ## What This Is Not
 
@@ -60,3 +74,9 @@ If this works, the story is simple:
 
 > A person asked Codex to help change his career, and Codex helped produce the proof.
 
+## What Still Needs To Become Stronger
+
+- A polished public deployment URL.
+- One short launch video.
+- More curated transcript excerpts.
+- A post-launch postmortem once real attention or feedback exists.

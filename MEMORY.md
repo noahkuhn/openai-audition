@@ -21,3 +21,14 @@
 - Refactor backlog: Add a summarizer later if raw transcripts become too long to review manually.
 - Reliability backlog: Review every public evidence artifact for secrets, personal data, noisy tool output, and unrelated private context before committing.
 - Next session: Fill the case file, launch thread, and video outline.
+
+## 2026-05-02 - Public Launch Package
+
+- Decisions: Upgrade the root homepage from scaffold to the first-click attention surface.
+- Decisions: Make `CASE_FILE.md` the OpenAI due-diligence entry point and update it with current proof.
+- Decisions: Add receipts for the initial scaffold, lifecycle evidence architecture, and launch-package pass.
+- Decisions: Add the first curated public decision record under `evidence/`.
+- Learnings: The launch path is layered: X gets the story, the site gets the click, the case file gets OpenAI, and evidence gets serious readers.
+- Refactor backlog: Add a deploy target once hosting is chosen.
+- Reliability backlog: Add one more curated excerpt from the repo-setup/build session before public launch.
+- Next session: Deploy the static site and create the first launch video asset.

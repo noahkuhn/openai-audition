@@ -17,7 +17,7 @@ Goal:
 
 Primary artifact:
 
-- `site/index.html`
+- `index.html`
 - `launch/x-thread-draft.md`
 - `launch/video-outline.md`
 
@@ -109,4 +109,3 @@ They are source material used to produce:
 - selected transcript excerpts,
 - launch clips,
 - build-log updates.
-

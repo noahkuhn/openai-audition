@@ -52,7 +52,8 @@ If yes, the application is not a PDF. The application is the trail.
 - [evidence](evidence) - curated evidence safe for public readers.
 - [source-material](source-material) - raw/private source capture rules.
 - [prompts](prompts) - prompt artifacts worth publishing.
-- [site](site) - static public site.
+- [index.html](index.html) - static public homepage.
+- [site](site) - site assets.
 
 ## Operating Rule
 
@@ -64,7 +65,7 @@ If not, cut it.
 
 ## Local Preview
 
-The site is static. Open [site/index.html](site/index.html) in a browser.
+The site is static. Open [index.html](index.html) in a browser.
 
 ## Session Capture
 

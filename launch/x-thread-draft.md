@@ -4,7 +4,7 @@
 
 I asked Codex to get me hired at OpenAI.
 
-It told me not to write a cover letter.
+It did not start with a cover letter.
 
 It helped me build a public audition instead.
 
@@ -43,12 +43,15 @@ We rejected:
 - a fake autonomous startup,
 - and raw transcript dumping.
 
-The public story needs to be clean. The evidence needs to be inspectable.
+The public story needs to be clean.
+
+The evidence needs to survive inspection.
 
 ## Post 5
 
 The repo has:
 
+- a landing page,
 - a case file,
 - project lifecycle,
 - artifact ledger,
@@ -74,4 +77,3 @@ If it fails, the public record should still be useful to anyone trying to use ag
 
 Repo:
 Site:
-
