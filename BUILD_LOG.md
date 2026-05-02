@@ -34,3 +34,31 @@ Next session:
 - Publish the initial mission, scorecard, candidates, and static site.
 - Decide whether the first public launch is the process itself or a process plus one proof object.
 
+## 2026-05-01 - Session 1: Storage Model Corrected For The Project Lifecycle
+
+Context:
+
+- Noah asked how useful Codex discussions could be stored without manually recording every screen.
+- The first answer over-indexed on transcript export.
+- Noah corrected the framing: the lifecycle is unknown audience -> viral attention -> OpenAI due diligence -> clean historical artifacts.
+
+Decisions:
+
+- Add `CASE_FILE.md` as the first file an OpenAI person should read.
+- Add `PROJECT_LIFECYCLE.md` to define what each phase needs.
+- Add `ARTIFACT_LEDGER.md` so every public and proof artifact has a role.
+- Add `EVIDENCE_PROTOCOL.md`.
+- Treat raw Codex session export as private source material, not the public product.
+- Put curated evidence in `evidence/` only after review.
+
+Learnings:
+
+- Git commits prove work changed, but conversation captures explain why.
+- The public needs selected evidence, not a raw conversation dump.
+- The repo needs an artifact hierarchy, not a pile of logs.
+
+Next session:
+
+- Fill the case file and launch assets before adding product depth.
+- Use raw capture only to preserve source material.
+- Promote only the strongest excerpts into evidence.

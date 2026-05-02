@@ -10,7 +10,9 @@ The premise is simple:
 
 This is not a resume generator. It is not a cover letter. It is not a generic AI app.
 
-The process is the point: strategy, rejected ideas, scoring, build logs, prompts, artifacts, failures, receipts, and the final application all live in public.
+The process is the point, but the process has to be packaged cleanly.
+
+Strangers should see a simple story. OpenAI people should find a clean case file. Builders should be able to inspect the evidence.
 
 ## Current Status
 
@@ -35,13 +37,20 @@ If yes, the application is not a PDF. The application is the trail.
 
 ## Repo Map
 
+- [CASE_FILE.md](CASE_FILE.md) - the first file an OpenAI person should read.
+- [PROJECT_LIFECYCLE.md](PROJECT_LIFECYCLE.md) - how the project moves from unknown to viral to due diligence.
+- [ARTIFACT_LEDGER.md](ARTIFACT_LEDGER.md) - the index of public surfaces, proof artifacts, and source material.
 - [MISSION.md](MISSION.md) - the rules and objective.
 - [SCORECARD.md](SCORECARD.md) - how candidate projects are judged.
 - [CANDIDATES.md](CANDIDATES.md) - possible proof objects and current scoring.
 - [BUILD_LOG.md](BUILD_LOG.md) - chronological public build record.
 - [RECEIPTS.md](RECEIPTS.md) - evidence that work happened and what Codex did.
+- [EVIDENCE_PROTOCOL.md](EVIDENCE_PROTOCOL.md) - how raw source material becomes clean public proof.
 - [APPLICATION.md](APPLICATION.md) - the final OpenAI-facing pitch as it evolves.
 - [auditions/openai](auditions/openai) - the OpenAI-specific audition lane.
+- [launch](launch) - public launch assets.
+- [evidence](evidence) - curated evidence safe for public readers.
+- [source-material](source-material) - raw/private source capture rules.
 - [prompts](prompts) - prompt artifacts worth publishing.
 - [site](site) - static public site.
 
@@ -57,3 +66,18 @@ If not, cut it.
 
 The site is static. Open [site/index.html](site/index.html) in a browser.
 
+## Session Capture
+
+Codex Desktop stores raw session logs locally under `~/.codex/sessions`.
+
+Capture the latest session for this repo as private source material:
+
+```bash
+make capture-source
+```
+
+Create a public transcript draft only after review:
+
+```bash
+make capture-public
+```
