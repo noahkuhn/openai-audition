@@ -64,3 +64,13 @@
 - Refactor backlog: Add a short launch video or screenshot-based proof artifact next.
 - Reliability backlog: Re-run public link and Pages checks after pushing these hardening changes.
 - Next session: Launch distribution and direct routing to OpenAI/Codex people.
+
+## 2026-05-03 - Public Repo Pruning
+
+- Decisions: Remove duplicated `auditions/openai` lane, lifecycle/artifact/protocol scaffolding, source-capture tooling, and extra prompt templates from the public repo.
+- Decisions: Keep the public path focused on homepage, README, case file, OpenAI fit, application, build log, receipts, evidence, and launch/outreach copy.
+- Learnings: "Process is the point" does not mean every internal process artifact belongs in the public first impression.
+- Learnings: The repo should feel like a sharp public case file, not a miniature project-management system.
+- Refactor backlog: Reassess whether `MEMORY.md` should stay tracked after launch if it starts adding noise.
+- Reliability backlog: Verify no live links point to removed files before pushing.
+- Next session: Launch distribution using the canonical thread.

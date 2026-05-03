@@ -35,8 +35,8 @@ Point:
 Show:
 
 - `CASE_FILE.md`,
-- `PROJECT_LIFECYCLE.md`,
-- `ARTIFACT_LEDGER.md`.
+- `OPENAI_FIT.md`,
+- `RECEIPTS.md`.
 
 Voice:
 

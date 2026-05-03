@@ -16,7 +16,7 @@ That is why this should matter to OpenAI: it shows what Codex looks like when it
 - Status: Live public audition
 - Started: 2026-05-01
 - Desired conversion: a serious OpenAI conversation for the AI Deployment Engineer - Codex role or adjacent Codex roles
-- First proof: repo, site, mission, scorecard, case file, lifecycle, artifact ledger, launch assets, receipts, and evidence architecture
+- First proof: repo, site, case file, scorecard, receipts, evidence, launch assets, and correction history
 
 ## What Happened So Far
 
@@ -35,12 +35,11 @@ That is why this should matter to OpenAI: it shows what Codex looks like when it
 - [index.html](index.html)
 - [OPENAI_FIT.md](OPENAI_FIT.md)
 - [APPLICATION.md](APPLICATION.md)
-- [PROJECT_LIFECYCLE.md](PROJECT_LIFECYCLE.md)
-- [ARTIFACT_LEDGER.md](ARTIFACT_LEDGER.md)
 - [MISSION.md](MISSION.md)
 - [SCORECARD.md](SCORECARD.md)
 - [BUILD_LOG.md](BUILD_LOG.md)
 - [RECEIPTS.md](RECEIPTS.md)
+- [evidence/README.md](evidence/README.md)
 
 ## Target Fit
 
@@ -115,4 +114,4 @@ If this is the kind of user behavior Codex should enable, I want to talk to the 
 
 - One short launch video.
 - More curated transcript excerpts.
-- A post-launch postmortem once real attention or feedback exists.
+- A post-launch note once real attention or feedback exists.

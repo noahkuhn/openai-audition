@@ -37,19 +37,18 @@ The correction was that each phase needs a different artifact: viral surface, la
 
 ## Codex Contribution
 
-Codex translated the correction into a repo structure:
+Codex translated the correction into a public repo structure:
 
 - `CASE_FILE.md`
-- `PROJECT_LIFECYCLE.md`
-- `ARTIFACT_LEDGER.md`
-- `EVIDENCE_PROTOCOL.md`
 - `launch/`
 - `evidence/`
-- `source-material/private/`
+- `RECEIPTS.md`
+- `BUILD_LOG.md`
+
+Later pruning removed internal planning scaffolding so the public path stayed focused.
 
 ## Outcome
 
 The public audition became the selected top-level project.
 
 Existing projects remain candidate proof objects only if they strengthen the central story.
-

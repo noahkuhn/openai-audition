@@ -157,7 +157,7 @@ Decisions:
 - Rewrite top surfaces around a "career-changing objective" and user-side Codex evaluation under real pressure.
 - Route homepage artifact links to GitHub-rendered documents instead of raw GitHub Pages Markdown.
 - Keep `launch/x-thread-draft.md` as the canonical public thread.
-- Replace `auditions/openai/launch-thread.md` with a pointer.
+- Remove the duplicate `auditions/openai` launch lane after canonicalizing `launch/x-thread-draft.md`.
 - Add curated public evidence artifacts for the overbuilding correction, subagent review, and launch-surface hardening.
 - Preserve the useful correction from Session 0 without publishing rough private-chat phrasing as the main public quote.
 
@@ -171,3 +171,27 @@ Next session:
 
 - Record or assemble the short launch video.
 - Start targeted distribution to Codex/OpenAI people and builder amplifiers.
+
+## 2026-05-03 - Session 6: Repo Pruned To The Public Case File
+
+Context:
+
+- Noah challenged whether every file was necessary and whether the repo still made sense.
+- The repo had started to look like a mini operating system instead of a clean public case file.
+
+Decisions:
+
+- Remove duplicated OpenAI audition lane files.
+- Remove internal lifecycle, artifact-ledger, evidence-protocol, source-capture, and extra prompt-template scaffolding.
+- Keep the public path focused on homepage, case file, role fit, application, build log, receipts, evidence, and launch/outreach copy.
+- Update the homepage and README so readers see fewer choices and no dead internal architecture.
+
+Learnings:
+
+- Process is the artifact, but too much process architecture weakens the first impression.
+- A public repo for attention should feel like a sharp case file, not a project-management system.
+
+Next session:
+
+- Use the canonical launch thread.
+- Route attention to Codex/OpenAI people and builder amplifiers.

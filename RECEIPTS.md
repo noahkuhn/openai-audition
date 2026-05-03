@@ -91,7 +91,8 @@ Why it matters:
 Evidence:
 
 - Commit `46ab3ed` - `Add lifecycle-first evidence architecture`
-- Files created: `CASE_FILE.md`, `PROJECT_LIFECYCLE.md`, `ARTIFACT_LEDGER.md`, `EVIDENCE_PROTOCOL.md`, `launch/x-thread-draft.md`, `launch/video-outline.md`
+- Files created in that pass included `CASE_FILE.md`, lifecycle/evidence planning docs, `launch/x-thread-draft.md`, and `launch/video-outline.md`.
+- Later pruning removed the extra planning docs from the public launch path.
 
 Human role:
 
@@ -107,8 +108,8 @@ Outcome:
 
 Public artifact:
 
-- [PROJECT_LIFECYCLE.md](PROJECT_LIFECYCLE.md)
-- [ARTIFACT_LEDGER.md](ARTIFACT_LEDGER.md)
+- [CASE_FILE.md](CASE_FILE.md)
+- [evidence/decision-record-001-public-audition.md](evidence/decision-record-001-public-audition.md)
 
 ## Receipt 003 - Public Launch Package
 
