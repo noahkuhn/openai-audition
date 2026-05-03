@@ -13,9 +13,15 @@
     <meta property="og:description" content="A public Codex audition: objective, strategy, rejected ideas, human corrections, receipts, and the OpenAI-facing application.">
     <meta property="og:url" content="https://noahkuhn.github.io/openai-audition/">
     <meta property="og:type" content="website">
-    <meta name="twitter:card" content="summary">
+    <meta property="og:image" content="https://noahkuhn.github.io/openai-audition/assets/og/openai-audition-og.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="I asked Codex to get me hired at OpenAI. A public Codex audition.">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="I Asked Codex To Get Me Hired At OpenAI">
     <meta name="twitter:description" content="A public Codex audition built to turn an impossible-sounding objective into inspectable proof.">
+    <meta name="twitter:image" content="https://noahkuhn.github.io/openai-audition/assets/og/openai-audition-og.png">
+    <meta name="twitter:image:alt" content="I asked Codex to get me hired at OpenAI. A public Codex audition.">
     <link rel="stylesheet" href="site/styles.css">
   </head>
   <body>
@@ -27,42 +33,101 @@
         <a href="https://github.com/noahkuhn/openai-audition">GitHub</a>
       </nav>
 
-      <p class="kicker">Public audition / live on GitHub / May 2026</p>
-      <h1>I asked Codex to get me hired at OpenAI.</h1>
-      <p class="lede">
-        I gave Codex a career-changing objective, not a coding ticket. This is
-        the result: planning, project selection, drafting, critique, evidence
-        handling, launch, and the human correction loop left visible.
-      </p>
+      <div class="hero-layout">
+        <div class="hero-copy">
+          <p class="kicker">Public Codex audition / May 2026</p>
+          <h1>
+            <span>I asked Codex</span>
+            <span>to get me hired</span>
+            <span>at OpenAI.</span>
+          </h1>
+          <p class="lede">
+            Not a demo. A public record of human-agent work under a
+            career-changing objective: plan, drift, correction, receipts, and a
+            direct OpenAI ask.
+          </p>
+          <p class="objective-strip">
+            Objective: get Noah an OpenAI/Codex conversation through inspectable
+            work.
+          </p>
+        </div>
 
-      <div class="status-panel" aria-label="Audition status">
-        <div>
-          <span>Target</span>
-          <strong>OpenAI</strong>
-        </div>
-        <div>
-          <span>Candidate</span>
-          <strong>Noah Kuhn</strong>
-        </div>
-        <div>
-          <span>Agent</span>
-          <strong>Codex</strong>
-        </div>
-        <div>
-          <span>Status</span>
-          <strong>Live audition</strong>
-        </div>
+        <aside class="case-panel" aria-label="Audition case panel">
+          <div class="case-panel-header">
+            <span>Case #OPENAI-CODEX</span>
+            <strong>Live</strong>
+          </div>
+          <dl>
+            <div>
+              <dt>Target</dt>
+              <dd>OpenAI</dd>
+            </div>
+            <div>
+              <dt>Candidate</dt>
+              <dd>Noah Kuhn</dd>
+            </div>
+            <div>
+              <dt>Agent</dt>
+              <dd>Codex</dd>
+            </div>
+            <div>
+              <dt>Status</dt>
+              <dd>Public audition</dd>
+            </div>
+          </dl>
+          <div class="correction-note">
+            <span>Human correction</span>
+            <p>
+              Codex drifted into repo polish. Noah forced the objective back
+              into view: get noticed by OpenAI.
+            </p>
+          </div>
+          <div class="case-actions">
+            <a href="https://github.com/noahkuhn/openai-audition/blob/main/CASE_FILE.md">Open Case File</a>
+            <a href="https://github.com/noahkuhn/openai-audition/blob/main/RECEIPTS.md">See Receipts</a>
+          </div>
+        </aside>
       </div>
 
-      <div class="hero-actions" aria-label="Primary artifacts">
-        <a class="primary-action" href="https://github.com/noahkuhn/openai-audition/blob/main/CASE_FILE.md">Read the Case File</a>
-        <a href="https://github.com/noahkuhn/openai-audition">GitHub Repo</a>
-        <a href="https://github.com/noahkuhn/openai-audition/blob/main/OPENAI_FIT.md">OpenAI Fit</a>
-        <a href="https://github.com/noahkuhn/openai-audition/blob/main/launch/x-thread-draft.md">Launch Thread</a>
+      <div class="evidence-tabs" aria-label="Primary evidence tabs">
+        <a href="https://github.com/noahkuhn/openai-audition/blob/main/CASE_FILE.md">
+          <span>01</span>
+          Case File
+        </a>
+        <a href="#correction">
+          <span>02</span>
+          Correction
+        </a>
+        <a href="https://github.com/noahkuhn/openai-audition/blob/main/APPLICATION.md">
+          <span>03</span>
+          Direct Ask
+        </a>
       </div>
     </header>
 
     <main>
+      <section id="correction" class="band correction-band">
+        <div class="section-copy">
+          <p class="kicker">The eyebrow moment</p>
+          <h2>The correction is the signal.</h2>
+          <p>
+            The first review pass started acting like this was a normal repo.
+            Noah corrected the agent back to the actual job: make the public
+            artifact sharp enough to create an OpenAI conversation.
+          </p>
+        </div>
+        <div class="review-board" aria-label="Correction review board">
+          <div>
+            <span>What Codex optimized for first</span>
+            <p>Launch hygiene, broken links, receipt structure, and repo polish.</p>
+          </div>
+          <div class="marked">
+            <span>What the objective required</span>
+            <p>Attention, credibility, a direct ask, and a reason for Codex people to inspect the work.</p>
+          </div>
+        </div>
+      </section>
+
       <section id="case-file" class="band">
         <div class="section-copy">
           <p class="kicker">The case file</p>
@@ -80,33 +145,6 @@
           <a href="https://github.com/noahkuhn/openai-audition/blob/main/APPLICATION.md">Application</a>
           <a href="https://github.com/noahkuhn/openai-audition/blob/main/RECEIPTS.md">Receipts</a>
           <a href="https://github.com/noahkuhn/openai-audition/tree/main/evidence">Evidence</a>
-        </div>
-      </section>
-
-      <section id="correction" class="band muted">
-        <div class="section-copy">
-          <p class="kicker">The eyebrow moment</p>
-          <h2>Codex drifted. Noah corrected it.</h2>
-          <p>
-            The first review pass started treating this like a normal repo:
-            broken links, receipts, launch readiness. Noah forced the objective
-            back into view: get noticed by OpenAI. That correction became the
-            product signal.
-          </p>
-        </div>
-        <div class="proof-stack" aria-label="Human correction evidence">
-          <a href="https://github.com/noahkuhn/openai-audition/blob/main/RECEIPTS.md#receipt-004---recentered-on-getting-the-openai-conversation">
-            <span>Receipt 004</span>
-            The project was recentered from repo polish to an OpenAI conversation.
-          </a>
-          <a href="https://github.com/noahkuhn/openai-audition/blob/main/BUILD_LOG.md#2026-05-02---session-3-recentered-on-getting-the-job">
-            <span>Build Log</span>
-            The correction is preserved instead of hidden.
-          </a>
-          <a href="https://github.com/noahkuhn/openai-audition/blob/main/launch/openai-outreach.md">
-            <span>Outreach Layer</span>
-            The public artifact now has a conversion path.
-          </a>
         </div>
       </section>
 

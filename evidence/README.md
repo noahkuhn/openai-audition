@@ -27,3 +27,4 @@ Examples:
 - [Evidence 002: The overbuilding correction](correction-002-overbuilding.md)
 - [Evidence 003: Subagent launch review](subagent-review-2026-05-02.md)
 - [Evidence 004: Launch surface hardening](launch-surface-2026-05-02.md)
+- [Evidence 005: Design direction review](design-directions-2026-05-03.md)

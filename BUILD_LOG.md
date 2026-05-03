@@ -195,3 +195,29 @@ Next session:
 
 - Use the canonical launch thread.
 - Route attention to Codex/OpenAI people and builder amplifiers.
+
+## 2026-05-03 - Session 7: Share Image And Case-File Design Pass
+
+Context:
+
+- Noah said the site felt serviceable but generic.
+- Noah asked Codex to create a compelling `og:image` for X shares using `imagegen`.
+- Noah also asked for five subagent design directions, saved in the repo, before deciding whether to redesign.
+
+Decisions:
+
+- Generate a real bitmap desk/case-file visual and save it as a project asset.
+- Compose a deterministic 1200x630 Open Graph image so X shares do not depend on AI-rendered text.
+- Save the five design directions in `evidence/design-directions-2026-05-03.md`.
+- Adopt the shared direction: a review packet / annotated case file rather than a generic portfolio page.
+- Move the correction moment ahead of broad OpenAI fit copy on the homepage.
+
+Learnings:
+
+- The design reviewers converged on the same signal: the public artifact should show objective, drift, correction, and receipts immediately.
+- The page should make the human-agent loop legible before asking anyone to read deeper documents.
+
+Next session:
+
+- Verify the live X-card image after GitHub Pages rebuilds.
+- Use the redesigned page as the public launch surface for targeted OpenAI/Codex outreach.

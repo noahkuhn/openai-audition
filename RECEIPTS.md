@@ -259,6 +259,39 @@ Outcome:
 
 - The repo and site are live public surfaces for launch and outreach.
 
+## Receipt 007 - Share Image And Review-Packet Redesign
+
+Date: 2026-05-03
+
+Type: Design direction and public site update
+
+Claim:
+
+- The public site was redesigned away from a generic landing page and toward an active case file.
+
+Why it matters:
+
+- The first click has to make an OpenAI/Codex person pause before they read the deeper repo. The design now foregrounds objective, drift, correction, and receipts.
+
+Evidence:
+
+- Five subagent directions were saved in [evidence/design-directions-2026-05-03.md](evidence/design-directions-2026-05-03.md).
+- The generated base image is saved at [assets/og/codex-audition-base.png](assets/og/codex-audition-base.png).
+- The final Open Graph image is saved at [assets/og/openai-audition-og.png](assets/og/openai-audition-og.png).
+- The homepage now declares `summary_large_image` metadata and routes Open Graph/Twitter previews to the 1200x630 PNG.
+
+Human role:
+
+- Noah identified that the previous page looked too generic and asked for a stronger share image and design pass.
+
+Codex role:
+
+- Codex generated the image asset, collected the design directions, chose the convergent review-packet direction, updated the homepage, and preserved the decision trail.
+
+Outcome:
+
+- The public site now presents the audition as inspectable human-agent work instead of a standard portfolio page.
+
 Public artifact:
 
 - <https://github.com/noahkuhn/openai-audition>

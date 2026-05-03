@@ -74,3 +74,14 @@
 - Refactor backlog: Reassess whether `MEMORY.md` should stay tracked after launch if it starts adding noise.
 - Reliability backlog: Verify no live links point to removed files before pushing.
 - Next session: Launch distribution using the canonical thread.
+
+## 2026-05-03 - OG Image And Review Packet Redesign
+
+- Decisions: Use the generated desk/case-file bitmap as the visual foundation for both the hero and the Open Graph asset.
+- Decisions: Use deterministic text composition for `assets/og/openai-audition-og.png` so X shares have crisp readable copy.
+- Decisions: Save the five subagent design directions in `evidence/design-directions-2026-05-03.md`.
+- Decisions: Redesign the homepage around the shared case-file/review-packet direction and move the human correction moment above general OpenAI fit copy.
+- Learnings: The design directions independently converged on the same point: the page must show objective, drift, correction, and receipts immediately.
+- Refactor backlog: If the homepage gets another pass, consider adding real cropped screenshots of receipts or build-log excerpts as evidence thumbnails.
+- Reliability backlog: Verify GitHub Pages serves the PNG and the `summary_large_image` metadata after push.
+- Next session: Launch and route the redesigned page to targeted Codex/OpenAI people.
