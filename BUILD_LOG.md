@@ -221,3 +221,27 @@ Next session:
 
 - Verify the live X-card image after GitHub Pages rebuilds.
 - Use the redesigned page as the public launch surface for targeted OpenAI/Codex outreach.
+
+## 2026-05-03 - Session 8: Synthetic Image Corrected To Real Codex Instance
+
+Context:
+
+- Noah reviewed the share image and pointed out that the generated laptop scene did not show an actual Codex instance.
+- The project premise depends on visible reality: Codex doing the work, not a generic AI-themed scene.
+
+Decisions:
+
+- Use Noah's real Codex Desktop screenshot as the source image for the hero and Open Graph card.
+- Create new cache-busting assets: `assets/og/codex-instance-base.png` and `assets/og/openai-audition-og-codex.png`.
+- Update homepage metadata to point to the new Open Graph image path.
+- Remove the old generated image assets from the repo.
+
+Learnings:
+
+- The public surface should not use synthetic imagery when an actual Codex work artifact exists.
+- A less polished real screenshot is stronger than a prettier fake image because the claim is about inspectable process.
+
+Next session:
+
+- Verify the live Pages image URL and metadata after push.
+- Use the actual-Codex share card for X launch.

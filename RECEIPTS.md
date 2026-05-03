@@ -276,8 +276,8 @@ Why it matters:
 Evidence:
 
 - Five subagent directions were saved in [evidence/design-directions-2026-05-03.md](evidence/design-directions-2026-05-03.md).
-- The generated base image is saved at [assets/og/codex-audition-base.png](assets/og/codex-audition-base.png).
-- The final Open Graph image is saved at [assets/og/openai-audition-og.png](assets/og/openai-audition-og.png).
+- The real Codex screenshot base image is saved at [assets/og/codex-instance-base.png](assets/og/codex-instance-base.png).
+- The final Open Graph image is saved at [assets/og/openai-audition-og-codex.png](assets/og/openai-audition-og-codex.png).
 - The homepage now declares `summary_large_image` metadata and routes Open Graph/Twitter previews to the 1200x630 PNG.
 
 Human role:
@@ -286,11 +286,44 @@ Human role:
 
 Codex role:
 
-- Codex generated the image asset, collected the design directions, chose the convergent review-packet direction, updated the homepage, and preserved the decision trail.
+- Codex created the first image asset, collected the design directions, chose the convergent review-packet direction, updated the homepage, and preserved the decision trail. Receipt 008 records Noah's correction that the final image needed to show a real Codex instance.
 
 Outcome:
 
 - The public site now presents the audition as inspectable human-agent work instead of a standard portfolio page.
+
+## Receipt 008 - Synthetic Image Replaced With Actual Codex Instance
+
+Date: 2026-05-03
+
+Type: Human correction and public asset update
+
+Claim:
+
+- The share image and hero background now use a real Codex instance instead of a generated scene.
+
+Why it matters:
+
+- The audition depends on inspectable reality. A synthetic laptop/case-file image looked polished, but it weakened the claim by making the public surface feel staged.
+
+Evidence:
+
+- Noah provided an actual Codex Desktop screenshot from the running audition session.
+- The homepage hero background now uses [assets/og/codex-instance-base.png](assets/og/codex-instance-base.png).
+- Open Graph and Twitter metadata now point to [assets/og/openai-audition-og-codex.png](assets/og/openai-audition-og-codex.png).
+- The earlier generated image assets were removed from the repo.
+
+Human role:
+
+- Noah caught the mismatch and required the image to show an actual Codex instance.
+
+Codex role:
+
+- Codex cropped and composed the real screenshot into the hero and OG assets, updated metadata, and removed the synthetic image files.
+
+Outcome:
+
+- The public share image is now aligned with the premise: this is a live Codex audition, not a staged AI-themed graphic.
 
 Public artifact:
 

@@ -91,8 +91,8 @@ Why it could raise an eyebrow:
 
 The site now uses the shared review-packet direction:
 
-- Generated a real bitmap hero/OG asset using the `imagegen` skill.
-- Added a deterministic 1200x630 Open Graph image for X shares.
+- Replaced the generated image concept with a real screenshot of an active Codex instance.
+- Added a deterministic 1200x630 Open Graph image for X shares using the actual Codex UI as the source.
 - Rebuilt the first viewport around a case panel, raw objective strip, and three evidence tabs.
 - Moved the correction moment ahead of general OpenAI fit copy.
 - Preserved stable GitHub links for readers who want to inspect the underlying case file, receipts, fit, and application.

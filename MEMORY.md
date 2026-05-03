@@ -77,11 +77,21 @@
 
 ## 2026-05-03 - OG Image And Review Packet Redesign
 
-- Decisions: Use the generated desk/case-file bitmap as the visual foundation for both the hero and the Open Graph asset.
-- Decisions: Use deterministic text composition for `assets/og/openai-audition-og.png` so X shares have crisp readable copy.
+- Decisions: The initial pass used a generated desk/case-file bitmap for the hero and Open Graph asset; this was superseded by the real Codex image correction below.
+- Decisions: Use deterministic text composition for the Open Graph card so X shares have crisp readable copy.
 - Decisions: Save the five subagent design directions in `evidence/design-directions-2026-05-03.md`.
 - Decisions: Redesign the homepage around the shared case-file/review-packet direction and move the human correction moment above general OpenAI fit copy.
 - Learnings: The design directions independently converged on the same point: the page must show objective, drift, correction, and receipts immediately.
 - Refactor backlog: If the homepage gets another pass, consider adding real cropped screenshots of receipts or build-log excerpts as evidence thumbnails.
 - Reliability backlog: Verify GitHub Pages serves the PNG and the `summary_large_image` metadata after push.
 - Next session: Launch and route the redesigned page to targeted Codex/OpenAI people.
+
+## 2026-05-03 - Real Codex Image Correction
+
+- Decisions: Replace the generated desk/laptop imagery with Noah's actual Codex Desktop screenshot.
+- Decisions: Use new cache-busting asset names: `codex-instance-base.png` for the hero and `openai-audition-og-codex.png` for Open Graph/Twitter.
+- Decisions: Remove the old generated OG and base images so the repo no longer carries the fake visual source.
+- Learnings: For this audition, actual process evidence beats polished synthetic imagery.
+- Refactor backlog: Consider using real screenshot thumbnails elsewhere if they strengthen evidence without making the page noisy.
+- Reliability backlog: Verify the new live image URL returns 200 after GitHub Pages rebuilds.
+- Next session: Launch with the actual-Codex image, not the generated one.
