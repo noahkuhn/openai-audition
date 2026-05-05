@@ -71,18 +71,29 @@ See [OPENAI_FIT.md](OPENAI_FIT.md).
 
 - Public repo: <https://github.com/noahkuhn/openai-audition>
 - Public site: <https://noahkuhn.github.io/openai-audition/>
+- Live verification on 2026-05-05: repo, GitHub Pages site, Open Graph image, and primary OpenAI Codex role page were reachable.
 - Commit `4ec87e2`: initial public audition scaffold.
 - Commit `46ab3ed`: lifecycle-first evidence architecture.
 - Commit `ef6c343`: recentered audition around OpenAI outreach.
 - Commit `7a7f396`: targeted Codex deployment role.
 - Commit `4dc0cd2`: set public audition site URL.
+- Commit `25ab5c5`: hardened public launch surface.
+- Commit `389d7e0`: pruned the repo back to the public case-file path.
+- Commit `acda525`: added share image and review-packet redesign.
+- Commit `285eeeb`: replaced synthetic imagery with a real Codex screenshot.
 - Receipt 000: planning chat and project direction.
 - Receipt 001: repo scaffold.
 - Receipt 002: evidence architecture correction.
 - Receipt 003: public launch package.
 - Receipt 004: recentered on getting the OpenAI conversation.
 - Receipt 005: primary role and contact inputs.
+- Receipt 006: public repo and site published.
+- Receipt 007: launch readiness review integrated.
+- Receipt 008: share image and review-packet redesign.
+- Receipt 009: synthetic image replaced with an actual Codex instance.
+- Receipt 010: live launch surface and role verification.
 - Decision Record 001: [The project is the public audition](evidence/decision-record-001-public-audition.md).
+- Evidence 006: [Live launch verification](evidence/live-launch-verification-2026-05-05.md).
 
 ## What This Is Not
 

@@ -20,6 +20,13 @@ PRIOR_OPENAI_SITE_URL=https://noahkuhn.com/openai/
 
 No unresolved launch URL placeholders remain.
 
+Last verified on 2026-05-05:
+
+- Public site returned HTTP 200.
+- Public repo returned HTTP 200.
+- Open Graph image returned HTTP 200 as a PNG.
+- Primary OpenAI role page was live with an apply link.
+
 ## Sequence
 
 ### 1. Verify

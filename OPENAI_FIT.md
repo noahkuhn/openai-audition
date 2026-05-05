@@ -1,6 +1,6 @@
 # OpenAI Fit
 
-Current as of 2026-05-02. Re-check OpenAI Careers before applying or publishing role-specific claims.
+Current as of 2026-05-05. Re-check OpenAI Careers before applying or publishing role-specific claims.
 
 ## Primary Target
 
@@ -20,16 +20,22 @@ This audition is not a generic "AI built my app" project. It is a live use of Co
 
 ## Current Role Surfaces
 
-OpenAI's careers site currently lists multiple Codex roles, including:
+OpenAI's careers site showed 23 Codex-related roles on 2026-05-05, including:
 
+- AI Deployment Engineer - Codex Technical Success
+- Applied AI Engineer, Codex Core Agent
+- Frontend Software Engineer, Codex App
 - Software Engineer, Codex App
 - Software Engineer, Codex Cloud
 - Software Engineer, Codex Core Agents
 - Software Engineer, Codex Ecosystem & Enterprise
-- Performance & Systems Engineer, Codex
-- Applied AI Engineer, Codex Core Agent
-- AI Deployment Engineer, Codex Technical Success
 - Deployed Product Manager, Codex
+- Performance & Systems Engineer, Codex
+- Research Engineer, Codex
+- Data Scientist, Codex
+- GTM Business Strategy & Growth Lead, Codex
+- Product Marketing Manager, Codex
+- Security Researcher, Codex
 
 Source:
 

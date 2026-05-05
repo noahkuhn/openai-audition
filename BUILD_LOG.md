@@ -245,3 +245,30 @@ Next session:
 
 - Verify the live Pages image URL and metadata after push.
 - Use the actual-Codex share card for X launch.
+
+## 2026-05-05 - Session 9: Live Evidence Audit Before Distribution
+
+Context:
+
+- The next useful move was not another concept pass; it was checking whether the public launch surface and role claims still held up.
+- The live GitHub Pages site, Open Graph image, public repo, and official OpenAI Codex role pages were checked.
+- The audit found two public-proof hygiene issues: `CASE_FILE.md` had stale commit and receipt coverage, and `RECEIPTS.md` carried duplicate `Receipt 007` headings.
+
+Decisions:
+
+- Treat live verification as a public evidence artifact because the repo is supposed to be inspectable.
+- Update `CASE_FILE.md` so the due-diligence path reflects the actual published commits and receipts.
+- Fix receipt numbering before sending the repo to OpenAI/Codex readers.
+- Keep the next action pointed at distribution, application, and direct outreach instead of adding more internal scaffolding.
+
+Learnings:
+
+- Launch-ready is not just "the page renders"; it means the public evidence path is current enough for a serious reader.
+- Small evidence mismatches undermine the premise more than missing app depth does.
+
+Next session:
+
+- Publish the canonical X thread.
+- Apply through the official AI Deployment Engineer - Codex role page.
+- Send targeted notes using `launch/openai-outreach.md`.
+- Create the launch video only if it materially improves distribution.

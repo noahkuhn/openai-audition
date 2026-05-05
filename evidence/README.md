@@ -28,3 +28,4 @@ Examples:
 - [Evidence 003: Subagent launch review](subagent-review-2026-05-02.md)
 - [Evidence 004: Launch surface hardening](launch-surface-2026-05-02.md)
 - [Evidence 005: Design direction review](design-directions-2026-05-03.md)
+- [Evidence 006: Live launch verification](live-launch-verification-2026-05-05.md)

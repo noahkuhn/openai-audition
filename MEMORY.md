@@ -95,3 +95,13 @@
 - Refactor backlog: Consider using real screenshot thumbnails elsewhere if they strengthen evidence without making the page noisy.
 - Reliability backlog: Verify the new live image URL returns 200 after GitHub Pages rebuilds.
 - Next session: Launch with the actual-Codex image, not the generated one.
+
+## 2026-05-05 - Live Evidence Audit
+
+- Decisions: Treat launch verification as public evidence and add `evidence/live-launch-verification-2026-05-05.md`.
+- Decisions: Update `CASE_FILE.md` so OpenAI due-diligence readers see the current public repo/site status, latest meaningful commits, and full receipt sequence.
+- Decisions: Fix duplicate `Receipt 007` numbering and add a live verification receipt before distribution.
+- Learnings: The repo was live, the OG image returned 200 as PNG, the public repo returned 200, and the primary OpenAI Codex role page was still live with an apply link on 2026-05-05.
+- Refactor backlog: None for this pass; avoid adding more scaffolding before outreach.
+- Reliability backlog: Re-check OpenAI Careers immediately before submitting the actual application because role pages can change.
+- Next session: Publish the X thread, apply, and send targeted direct notes using `launch/openai-outreach.md`.

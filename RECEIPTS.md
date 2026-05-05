@@ -259,7 +259,44 @@ Outcome:
 
 - The repo and site are live public surfaces for launch and outreach.
 
-## Receipt 007 - Share Image And Review-Packet Redesign
+## Receipt 007 - Launch Readiness Review Integrated
+
+Date: 2026-05-02
+
+Type: Public readiness review
+
+Claim:
+
+- The repo was reviewed and hardened for eyebrow-raising public launch, not just basic correctness.
+
+Why it matters:
+
+- The project depends on first-impression credibility. Stale placeholders, raw Markdown links, duplicate launch copy, and summary-only evidence would weaken the signal.
+
+Evidence:
+
+- Narrative review recommended leading with "career-changing objective" and "real pressure."
+- Readiness review identified raw Markdown links, stale publish language, duplicate launch-thread files, and shallow evidence depth.
+- Codex integrated those findings into the homepage, README, case file, application, launch thread, outreach copy, and evidence folder.
+
+Human role:
+
+- Noah asked Codex not to stop until the project was strong enough to raise an eyebrow.
+
+Codex role:
+
+- Codex delegated narrative and readiness review, integrated findings, and verified the resulting public surfaces.
+
+Outcome:
+
+- The launch package now has a sharper first-click story, canonical launch thread, rendered-document links, and additional curated evidence artifacts.
+
+Public artifact:
+
+- [evidence/subagent-review-2026-05-02.md](evidence/subagent-review-2026-05-02.md)
+- [evidence/launch-surface-2026-05-02.md](evidence/launch-surface-2026-05-02.md)
+
+## Receipt 008 - Share Image And Review-Packet Redesign
 
 Date: 2026-05-03
 
@@ -286,13 +323,13 @@ Human role:
 
 Codex role:
 
-- Codex created the first image asset, collected the design directions, chose the convergent review-packet direction, updated the homepage, and preserved the decision trail. Receipt 008 records Noah's correction that the final image needed to show a real Codex instance.
+- Codex created the first image asset, collected the design directions, chose the convergent review-packet direction, updated the homepage, and preserved the decision trail. Receipt 009 records Noah's correction that the final image needed to show a real Codex instance.
 
 Outcome:
 
 - The public site now presents the audition as inspectable human-agent work instead of a standard portfolio page.
 
-## Receipt 008 - Synthetic Image Replaced With Actual Codex Instance
+## Receipt 009 - Synthetic Image Replaced With Actual Codex Instance
 
 Date: 2026-05-03
 
@@ -330,42 +367,43 @@ Public artifact:
 - <https://github.com/noahkuhn/openai-audition>
 - <https://noahkuhn.github.io/openai-audition/>
 
-## Receipt 007 - Launch Readiness Review Integrated
+## Receipt 010 - Live Launch Surface And Role Verification
 
-Date: 2026-05-02
+Date: 2026-05-05
 
-Type: Public readiness review
+Type: Launch verification and evidence hygiene
 
 Claim:
 
-- The repo was reviewed and hardened for eyebrow-raising public launch, not just basic correctness.
+- The public audition surfaces and primary OpenAI Codex role target were re-checked before further launch/outreach.
 
 Why it matters:
 
-- The project depends on first-impression credibility. Stale placeholders, raw Markdown links, duplicate launch copy, and summary-only evidence would weaken the signal.
+- The project cannot route attention into a hiring conversation if public links, share metadata, or role-specific claims are stale.
 
 Evidence:
 
-- Narrative review recommended leading with "career-changing objective" and "real pressure."
-- Readiness review identified raw Markdown links, stale publish language, duplicate launch-thread files, and shallow evidence depth.
-- Codex integrated those findings into the homepage, README, case file, application, launch thread, outreach copy, and evidence folder.
+- GitHub Pages returned HTTP 200 for <https://noahkuhn.github.io/openai-audition/>.
+- The Open Graph PNG returned HTTP 200 with `content-type: image/png`.
+- The public GitHub repo returned HTTP 200.
+- OpenAI Careers still listed AI Deployment Engineer - Codex as an applyable role and showed multiple current Codex role surfaces.
+- The audit found and fixed stale case-file commit coverage and duplicate receipt numbering.
 
 Human role:
 
-- Noah asked Codex not to stop until the project was strong enough to raise an eyebrow.
+- Noah's standing instruction is that the process is the point, but claims must stay honest and verifiable.
 
 Codex role:
 
-- Codex delegated narrative and readiness review, integrated findings, and verified the resulting public surfaces.
+- Codex verified the live public surfaces, checked the official OpenAI role pages, updated the case file and receipts, and added a concise public verification artifact.
 
 Outcome:
 
-- The launch package now has a sharper first-click story, canonical launch thread, rendered-document links, and additional curated evidence artifacts.
+- The public case file now reflects the actual launch state instead of stopping at older commits or carrying duplicate receipt numbers.
 
 Public artifact:
 
-- [evidence/subagent-review-2026-05-02.md](evidence/subagent-review-2026-05-02.md)
-- [evidence/launch-surface-2026-05-02.md](evidence/launch-surface-2026-05-02.md)
+- [evidence/live-launch-verification-2026-05-05.md](evidence/live-launch-verification-2026-05-05.md)
 
 ## Receipt Template
 
