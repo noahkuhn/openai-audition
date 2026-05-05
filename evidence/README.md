@@ -29,3 +29,4 @@ Examples:
 - [Evidence 004: Launch surface hardening](launch-surface-2026-05-02.md)
 - [Evidence 005: Design direction review](design-directions-2026-05-03.md)
 - [Evidence 006: Live launch verification](live-launch-verification-2026-05-05.md)
+- [Evidence 007: Post-application distribution state](post-application-distribution-2026-05-05.md)

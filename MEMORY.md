@@ -105,3 +105,12 @@
 - Refactor backlog: None for this pass; avoid adding more scaffolding before outreach.
 - Reliability backlog: Re-check OpenAI Careers immediately before submitting the actual application because role pages can change.
 - Next session: Publish the X thread, apply, and send targeted direct notes using `launch/openai-outreach.md`.
+
+## 2026-05-05 - Post-Application State Correction
+
+- Decisions: Treat application and first-wave distribution as already started based on Noah's update.
+- Decisions: Add `launch/follow-up-tracker.md` and `evidence/post-application-distribution-2026-05-05.md` so next work starts from response tracking.
+- Learnings: Noah reported he already applied, sent two DMs, published one LinkedIn post, and posted an X thread for the original project.
+- Refactor backlog: Replace this user-reported state with exact links/timestamps if Noah supplies them.
+- Reliability backlog: Do not claim public verification for the application, DMs, LinkedIn post, or X thread until receipts are captured.
+- Next session: Check replies/signals and decide whether to send a targeted second wave or produce one follow-up artifact.

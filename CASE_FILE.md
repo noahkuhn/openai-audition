@@ -13,7 +13,7 @@ That is why this should matter to OpenAI: it shows what Codex looks like when it
 - Candidate: Noah Kuhn
 - Target: OpenAI
 - Agent: Codex
-- Status: Live public audition
+- Status: Post-application public audition
 - Started: 2026-05-01
 - Desired conversion: a serious OpenAI conversation for the AI Deployment Engineer - Codex role or adjacent Codex roles
 - First proof: repo, site, case file, scorecard, receipts, evidence, launch assets, and correction history
@@ -29,6 +29,7 @@ That is why this should matter to OpenAI: it shows what Codex looks like when it
 7. The homepage, launch thread, video outline, receipts, and case-file path were tightened for public launch.
 8. The repo was published under Noah's GitHub account and deployed through GitHub Pages.
 9. Noah challenged Codex for overbuilding; that correction became a central proof point.
+10. Noah applied to the first Codex role and started distribution through DMs, LinkedIn, and an existing X thread.
 
 ## What To Inspect First
 
@@ -92,8 +93,10 @@ See [OPENAI_FIT.md](OPENAI_FIT.md).
 - Receipt 008: share image and review-packet redesign.
 - Receipt 009: synthetic image replaced with an actual Codex instance.
 - Receipt 010: live launch surface and role verification.
+- Receipt 011: post-application distribution state.
 - Decision Record 001: [The project is the public audition](evidence/decision-record-001-public-audition.md).
 - Evidence 006: [Live launch verification](evidence/live-launch-verification-2026-05-05.md).
+- Evidence 007: [Post-application distribution state](evidence/post-application-distribution-2026-05-05.md).
 
 ## What This Is Not
 
@@ -123,6 +126,6 @@ If this is the kind of user behavior Codex should enable, I want to talk to the 
 
 ## What Still Needs To Become Stronger
 
-- One short launch video.
-- More curated transcript excerpts.
-- A post-launch note once real attention or feedback exists.
+- Capture the application confirmation, LinkedIn post URL, X thread URL, and DM recipients if Noah wants them in the public or private evidence trail.
+- Track replies and route any warm signal into the shortest next conversation.
+- Add a follow-up artifact only if the first distribution wave gets no signal or someone asks for deeper proof.

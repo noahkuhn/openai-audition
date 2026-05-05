@@ -30,7 +30,6 @@ Purpose: confirm the public audition is still inspectable before the next distri
 
 ## Next Action
 
-- Use the canonical X thread and outreach copy.
-- Apply through the official role page.
-- Send targeted notes to Codex/OpenAI people and builder amplifiers.
-- Record or assemble the 60-90 second launch video only if it helps distribution now.
+- Superseded by Noah's later 2026-05-05 update: application submitted, two DMs sent, one LinkedIn post published, and an X thread for the original project already posted.
+- Track response signal in [../launch/follow-up-tracker.md](../launch/follow-up-tracker.md).
+- Add a follow-up artifact only if the first distribution wave gets no signal or asks for deeper proof.

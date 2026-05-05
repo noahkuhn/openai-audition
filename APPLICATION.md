@@ -56,6 +56,7 @@ The most direct targets are tracked in [OPENAI_FIT.md](OPENAI_FIT.md).
 ## Current Action
 
 - Site and repo are live.
-- Get the public artifact in front of OpenAI/Codex people and builder amplifiers.
-- Apply to AI Deployment Engineer - Codex as the formal routing path, not the main attention strategy.
-- Use public response as the signal for whether to add a deeper proof object.
+- Application submitted to AI Deployment Engineer - Codex, per Noah's 2026-05-05 update.
+- Initial distribution started: two DMs sent, one LinkedIn post published, and an X thread for the original project already posted.
+- Track replies, profile visits, shares, recruiter responses, and warm-routing offers before building more.
+- Use actual response as the signal for whether to add a deeper proof object or a tighter follow-up thread.

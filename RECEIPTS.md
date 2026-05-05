@@ -405,6 +405,45 @@ Public artifact:
 
 - [evidence/live-launch-verification-2026-05-05.md](evidence/live-launch-verification-2026-05-05.md)
 
+## Receipt 011 - Post-Application Distribution State
+
+Date: 2026-05-05
+
+Type: User-reported distribution update
+
+Claim:
+
+- The project has moved past launch preparation into active application and outreach.
+
+Why it matters:
+
+- Repeating the initial launch checklist would waste the moment. The next useful work is response tracking, warm follow-up, and deciding whether the market wants a deeper proof artifact.
+
+Evidence:
+
+- Noah reported that he already applied.
+- Noah reported that he already sent two DMs.
+- Noah reported that he already published one LinkedIn post.
+- Noah reported that he already posted an X thread for the original project.
+- Public URLs, application confirmation, and DM recipient details have not yet been captured in this repo.
+
+Human role:
+
+- Noah executed the actual distribution and corrected Codex when it started from stale next steps.
+
+Codex role:
+
+- Codex updated the repo state and next-step plan so future work starts from the actual post-application status.
+
+Outcome:
+
+- The repo now treats application/outreach as started and shifts the next action to follow-up tracking.
+
+Public artifact:
+
+- [evidence/post-application-distribution-2026-05-05.md](evidence/post-application-distribution-2026-05-05.md)
+- [launch/follow-up-tracker.md](launch/follow-up-tracker.md)
+
 ## Receipt Template
 
 ```text

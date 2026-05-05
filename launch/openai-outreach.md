@@ -27,13 +27,24 @@ Last verified on 2026-05-05:
 - Open Graph image returned HTTP 200 as a PNG.
 - Primary OpenAI role page was live with an apply link.
 
+## Current State
+
+As of Noah's 2026-05-05 update:
+
+- Application submitted.
+- Two DMs sent.
+- One LinkedIn post published.
+- One X thread for the original project already posted.
+
+These are user-reported until exact links, timestamps, or screenshots are captured.
+
+The active file is now [follow-up-tracker.md](follow-up-tracker.md).
+
 ## Sequence
 
 ### 1. Verify
 
-- Confirm the GitHub repo is public.
-- Confirm GitHub Pages returns HTTP 200.
-- Confirm `CASE_FILE.md`, `OPENAI_FIT.md`, and `APPLICATION.md` are one click from the homepage.
+- Done on 2026-05-05.
 
 ### 2. Get Noticed
 
@@ -41,13 +52,15 @@ The primary move is not the application form.
 
 The primary move is to get the artifact in front of OpenAI/Codex people and builder amplifiers.
 
-Use the X thread and short direct notes first. The formal application is the receipt that makes the project easy to route internally once someone cares.
+Status: started. Noah has already sent two DMs, posted on LinkedIn, and posted an X thread for the original project.
 
 ### 3. Apply
 
 <https://openai.com/careers/ai-deployment-engineer-codex-remote-us/>
 
-Use the normal application path, but make the public audition the top artifact:
+Status: submitted, per Noah's 2026-05-05 update.
+
+The submitted application should have made the public audition the top artifact:
 
 ```text
 I built my OpenAI application as a public Codex audition:
@@ -61,9 +74,9 @@ The role fit is AI Deployment Engineer - Codex: I am already using Codex as a po
 
 ### 4. Post
 
-Publish the X thread.
+Status: do not blindly publish another launch thread. Noah has already posted an X thread for the original project.
 
-Pin a reply with:
+If there is a relevant existing thread to pin under, use:
 
 ```text
 For OpenAI/Codex people, start here:
@@ -83,6 +96,8 @@ Send the project to three groups:
 - Codex product and engineering people.
 - OpenAI recruiters or hiring partners for Codex / Applied AI roles.
 - Builder amplifiers who understand developer tools and can route attention.
+
+Status: two DMs sent. Add a second wave only after checking for early signal.
 
 ## Short DM
 

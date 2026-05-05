@@ -272,3 +272,27 @@ Next session:
 - Apply through the official AI Deployment Engineer - Codex role page.
 - Send targeted notes using `launch/openai-outreach.md`.
 - Create the launch video only if it materially improves distribution.
+
+## 2026-05-05 - Session 10: Post-Application State Corrected
+
+Context:
+
+- Noah corrected Codex again: he had already applied, sent two DMs, published one LinkedIn post, and posted an X thread for the original project.
+- The docs still treated application and initial distribution as next steps.
+
+Decisions:
+
+- Update the repo state so future sessions start after application/distribution, not before it.
+- Add a follow-up tracker for replies, warm routing, second-wave notes, and no-signal handling.
+- Preserve the distribution state as user-reported until exact links, screenshots, or recipient details are intentionally captured.
+
+Learnings:
+
+- "Current state" matters more than a tidy launch checklist.
+- The next useful work is response handling and evidence capture, not repeating the first-wave launch.
+
+Next session:
+
+- Check for replies or measurable signal.
+- Capture the application confirmation and public post links if Noah wants them in the evidence trail.
+- Send a second wave only if early signal is weak or absent.
