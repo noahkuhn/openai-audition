@@ -140,3 +140,12 @@
 - Refactor backlog: Re-check OpenAI Careers before using the role-routing map because listings can change.
 - Reliability backlog: Do not apply broadly to every Codex role; pick one adjacent route after checking actual signal.
 - Next session: Use captured signal to decide whether to reply, wait, or apply to one adjacent role.
+
+## 2026-05-05 - Codex Product Feedback Memo
+
+- Decisions: Add `CODEX_FEEDBACK.md` as a direct product/deployment feedback artifact, not another launch artifact.
+- Decisions: Link the memo from README, case file, OpenAI fit, application, receipts, build log, and memory.
+- Learnings: The strongest product signals from the audition are current-state reconciliation, evidence status, objective drift detection, social/application capture, and correction memory.
+- Refactor backlog: If OpenAI asks for more depth, turn one feedback item into a concrete demo or implementation sketch.
+- Reliability backlog: Keep the memo grounded in observed workflow behavior; do not claim broad benchmark results.
+- Next session: Use the memo as the second-wave hook only if external signal remains weak.

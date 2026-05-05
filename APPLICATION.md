@@ -46,6 +46,8 @@ That role maps to this audition because it is about:
 
 The most direct targets are tracked in [OPENAI_FIT.md](OPENAI_FIT.md).
 
+The clearest product feedback from the workflow is tracked in [CODEX_FEEDBACK.md](CODEX_FEEDBACK.md).
+
 ## Contact
 
 - X: <https://x.com/noahbkuhn>

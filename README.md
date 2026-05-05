@@ -42,6 +42,7 @@ If yes, the application is not a PDF. The application is the trail.
 
 - [CASE_FILE.md](CASE_FILE.md) - the serious OpenAI/Codex inspection path.
 - [OPENAI_FIT.md](OPENAI_FIT.md) - why this maps to Codex deployment and product work.
+- [CODEX_FEEDBACK.md](CODEX_FEEDBACK.md) - product/deployment feedback from the workflow.
 - [APPLICATION.md](APPLICATION.md) - the direct OpenAI-facing pitch.
 - [RECEIPTS.md](RECEIPTS.md) - claim-by-claim proof.
 - [evidence](evidence) - curated public evidence.

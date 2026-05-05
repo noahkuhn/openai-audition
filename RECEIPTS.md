@@ -555,6 +555,41 @@ Public artifact:
 
 - [launch/role-routing.md](launch/role-routing.md)
 
+## Receipt 015 - Codex Product Feedback Memo
+
+Date: 2026-05-05
+
+Type: Product feedback artifact
+
+Claim:
+
+- The audition now includes explicit Codex product/deployment feedback, not only campaign artifacts.
+
+Why it matters:
+
+- AI Deployment Engineer - Codex and adjacent Codex product roles value workflow adoption, public guidance, demos, high-fidelity feedback, and translating real usage into product insight.
+
+Evidence:
+
+- The memo distills the actual workflow: ambiguous objective, planning, drift, correction, evidence, application/outreach, signal checks, and capture gaps.
+- It identifies product opportunities around evidence ledgers, current-state reconciliation, objective drift detection, social/application capture, and correction memory.
+
+Human role:
+
+- Noah supplied the real objective, corrections, distribution state, and taste pressure.
+
+Codex role:
+
+- Codex converted the workflow into a concise product-feedback memo linked from the public case file.
+
+Outcome:
+
+- OpenAI readers now have a direct product-insight artifact to inspect in addition to the launch story.
+
+Public artifact:
+
+- [CODEX_FEEDBACK.md](CODEX_FEEDBACK.md)
+
 ## Receipt Template
 
 ```text

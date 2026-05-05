@@ -35,6 +35,7 @@ That is why this should matter to OpenAI: it shows what Codex looks like when it
 
 - [index.html](index.html)
 - [OPENAI_FIT.md](OPENAI_FIT.md)
+- [CODEX_FEEDBACK.md](CODEX_FEEDBACK.md)
 - [APPLICATION.md](APPLICATION.md)
 - [MISSION.md](MISSION.md)
 - [SCORECARD.md](SCORECARD.md)
@@ -100,6 +101,7 @@ See [OPENAI_FIT.md](OPENAI_FIT.md).
 - Decision Record 001: [The project is the public audition](evidence/decision-record-001-public-audition.md).
 - Evidence 006: [Live launch verification](evidence/live-launch-verification-2026-05-05.md).
 - Evidence 007: [Post-application distribution state](evidence/post-application-distribution-2026-05-05.md).
+- Product feedback memo: [CODEX_FEEDBACK.md](CODEX_FEEDBACK.md).
 
 ## What This Is Not
 

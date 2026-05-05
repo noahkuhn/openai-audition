@@ -371,3 +371,25 @@ Learnings:
 Next session:
 
 - Use `launch/role-routing.md` only after checking the actual contact/social surfaces or after a warm reply.
+
+## 2026-05-05 - Session 14: Codex Product Feedback Memo
+
+Context:
+
+- The repo had already covered launch, application, signal checks, contact capture gaps, and adjacent-role routing.
+- The next useful artifact was not more outreach copy. It was product feedback that OpenAI/Codex readers could use.
+
+Decisions:
+
+- Add `CODEX_FEEDBACK.md`.
+- Focus on real workflow behavior: what worked, where Codex drifted, what the human corrected, and what product surfaces would help.
+- Link the memo from README, case file, role fit, application, and receipts.
+
+Learnings:
+
+- The audition's strongest technical value may be the trace of supervision, not the public page alone.
+- Current-state reconciliation, evidence status, objective drift detection, social/application capture, and correction memory are all concrete Codex product opportunities.
+
+Next session:
+
+- If no external signal arrives, use the memo as the second-wave hook instead of adding more generic launch material.

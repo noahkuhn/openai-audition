@@ -18,6 +18,8 @@ The broader fit is the Codex product, deployment, and engineering lane.
 
 This audition is not a generic "AI built my app" project. It is a live use of Codex as an execution partner across strategy, artifact creation, evidence handling, repo work, launch planning, correction, and iteration.
 
+The product/deployment feedback from the workflow is captured in [CODEX_FEEDBACK.md](CODEX_FEEDBACK.md).
+
 ## Current Role Surfaces
 
 OpenAI's careers site showed 23 Codex-related roles on 2026-05-05, including:
