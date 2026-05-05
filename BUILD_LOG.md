@@ -347,3 +347,27 @@ Next session:
 
 - Capture the application confirmation, LinkedIn post URL, X thread URL, and DM recipients or private notes if Noah wants the receipts.
 - Otherwise, wait for actual signal before sending a second wave.
+
+## 2026-05-05 - Session 13: Adjacent Role Routing
+
+Context:
+
+- First-wave application/outreach was already done.
+- Contact and social proof surfaces were not fully accessible from the runtime.
+- The next non-repetitive preparation was deciding what to do only if the first application stalls.
+
+Decisions:
+
+- Add an adjacent role routing map instead of a generic second application plan.
+- Keep AI Deployment Engineer - Codex as the primary submitted target.
+- Rank Deployed Product Manager, Codex and Codex App engineering as the strongest adjacent paths depending on response signal.
+- Treat Core Agents, Performance, Research, Product Marketing, and GTM as lower-priority unless OpenAI routes that way.
+
+Learnings:
+
+- The same public audition can route differently depending on who responds: deployment/product judgment, human-agent UX, product engineering, or platform reliability.
+- Applying everywhere would weaken the signal; choosing one adjacent route after signal is cleaner.
+
+Next session:
+
+- Use `launch/role-routing.md` only after checking the actual contact/social surfaces or after a warm reply.

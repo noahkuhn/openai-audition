@@ -105,6 +105,7 @@ Run a second wave:
 - Send 6-8 more targeted notes, not a generic blast.
 - Publish one tighter follow-up around what Codex got wrong while trying to get Noah hired.
 - Add one stronger proof artifact only if it creates a sharper reply hook.
+- Use [role-routing.md](role-routing.md) before applying to any adjacent role.
 
 ## Second-Wave Note
 

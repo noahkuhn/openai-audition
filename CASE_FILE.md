@@ -41,6 +41,7 @@ That is why this should matter to OpenAI: it shows what Codex looks like when it
 - [BUILD_LOG.md](BUILD_LOG.md)
 - [RECEIPTS.md](RECEIPTS.md)
 - [evidence/README.md](evidence/README.md)
+- [launch/role-routing.md](launch/role-routing.md)
 
 ## Target Fit
 
@@ -132,4 +133,5 @@ If this is the kind of user behavior Codex should enable, I want to talk to the 
 - Check the actual `hey@noahkuhn.com` application/contact inbox before concluding there is no email signal.
 - Treat uncaptured LinkedIn/X/DM/application details as evidence gaps, not completed public receipts.
 - Track replies and route any warm signal into the shortest next conversation.
+- Use [launch/role-routing.md](launch/role-routing.md) before choosing a second application target.
 - Add a follow-up artifact only if the first distribution wave gets no signal or someone asks for deeper proof.

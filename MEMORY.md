@@ -131,3 +131,12 @@
 - Refactor backlog: Add application confirmation, LinkedIn URL, X thread URL, and DM notes only if Noah wants those receipts in the repo.
 - Reliability backlog: Do not publish claims about responses or post performance without actual URLs/screenshots/private notes.
 - Next session: Use real captured links/signals to decide whether to reply, route, or send a second wave.
+
+## 2026-05-05 - Adjacent Role Routing
+
+- Decisions: Add `launch/role-routing.md` so any second application is deliberate and current-role-aware.
+- Decisions: Keep AI Deployment Engineer - Codex as the submitted primary; route next toward Deployed Product Manager, Codex or Codex App only if first-wave signal supports it.
+- Learnings: The public audition is strongest for deployment/product/operator evidence first, human-agent UX/product engineering second, and heavier Codex infrastructure/research only if OpenAI asks for deeper technical proof.
+- Refactor backlog: Re-check OpenAI Careers before using the role-routing map because listings can change.
+- Reliability backlog: Do not apply broadly to every Codex role; pick one adjacent route after checking actual signal.
+- Next session: Use captured signal to decide whether to reply, wait, or apply to one adjacent role.

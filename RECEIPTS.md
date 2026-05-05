@@ -519,6 +519,42 @@ Public artifact:
 - [launch/follow-up-tracker.md](launch/follow-up-tracker.md)
 - [evidence/post-application-distribution-2026-05-05.md](evidence/post-application-distribution-2026-05-05.md)
 
+## Receipt 014 - Adjacent Role Routing Map
+
+Date: 2026-05-05
+
+Type: Post-application routing plan
+
+Claim:
+
+- If the first Codex Deployment application stalls, the next move should be a deliberate adjacent route, not a broad application spray.
+
+Why it matters:
+
+- The objective is to start the right OpenAI conversation. Adjacent applications should strengthen that path, not dilute it.
+
+Evidence:
+
+- OpenAI Careers still showed multiple Codex surfaces on 2026-05-05.
+- The first submitted target remains AI Deployment Engineer - Codex.
+- The strongest adjacent routes are Deployed Product Manager, Codex and Codex App engineering, depending on whether the response signal is product/deployment or human-agent UX/product engineering.
+
+Human role:
+
+- Noah supplied the current state: first application and first-wave distribution are already done.
+
+Codex role:
+
+- Codex mapped the current official role surfaces into a constrained second-wave routing decision.
+
+Outcome:
+
+- `launch/role-routing.md` now gives a one-role-at-a-time decision rule before applying elsewhere.
+
+Public artifact:
+
+- [launch/role-routing.md](launch/role-routing.md)
+
 ## Receipt Template
 
 ```text

@@ -123,3 +123,9 @@ Useful baseline from the previous page:
 Start with a conversation for the AI Deployment Engineer - Codex role, or another Codex role where product judgment, engineering execution, and hands-on agent supervision matter.
 
 If the right fit is not one of the named roles above, route this to the person who owns Codex product quality, agent workflows, or developer-facing execution.
+
+## Post-Application Routing
+
+The first application is already submitted, per Noah's 2026-05-05 update.
+
+If that path stalls, use [launch/role-routing.md](launch/role-routing.md) to choose one adjacent route instead of applying everywhere.
