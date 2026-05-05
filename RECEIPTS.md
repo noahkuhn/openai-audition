@@ -481,6 +481,44 @@ Public artifact:
 
 - [launch/follow-up-tracker.md](launch/follow-up-tracker.md)
 
+## Receipt 013 - Contact Surface Availability Check
+
+Date: 2026-05-05
+
+Type: Evidence-capture boundary check
+
+Claim:
+
+- The remaining first-wave proof gap is access to the actual application/contact/social surfaces, not another repo launch task.
+
+Why it matters:
+
+- The repo should not claim verified application, LinkedIn, X, or DM evidence until the specific URLs, screenshots, timestamps, or private notes are captured.
+
+Evidence:
+
+- Gmail alias searches for `hey@noahkuhn.com` returned no results in the connected `noah@pilotmade.com` account.
+- Public search did not locate the reported X or LinkedIn post URLs.
+- Direct X profile fetch confirmed <https://x.com/noahbkuhn>, but did not expose recent thread content.
+- LinkedIn recent activity was not fetchable from the current runtime.
+
+Human role:
+
+- Noah controls the actual application confirmation, social posts, and DM surfaces.
+
+Codex role:
+
+- Codex checked the accessible surfaces and converted the unknowns into a capture checklist.
+
+Outcome:
+
+- The next step is to capture real URLs/screenshots/private notes or wait for signal, not to repeat application or launch.
+
+Public artifact:
+
+- [launch/follow-up-tracker.md](launch/follow-up-tracker.md)
+- [evidence/post-application-distribution-2026-05-05.md](evidence/post-application-distribution-2026-05-05.md)
+
 ## Receipt Template
 
 ```text

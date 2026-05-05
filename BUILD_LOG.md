@@ -322,3 +322,28 @@ Next session:
 - Check `hey@noahkuhn.com`, LinkedIn, X, and DMs directly.
 - Capture exact public post URLs or application confirmation only if Noah wants them recorded.
 - Decide on second-wave outreach only after that signal check.
+
+## 2026-05-05 - Session 12: Contact Surface Availability
+
+Context:
+
+- The tracker still needed to know whether the public contact inbox and social posts were visible from available tools.
+- The connected Gmail account is not necessarily the public application inbox.
+
+Decisions:
+
+- Search the connected Gmail account for `hey@noahkuhn.com` delivery/addressing and OpenAI/Ashby sender patterns.
+- Search public web surfaces for the reported X/LinkedIn post URLs.
+- Record the inability to verify those surfaces as a capture gap, not as evidence of no response.
+
+Learnings:
+
+- `hey@noahkuhn.com` did not appear in the connected Gmail account searches.
+- Public search did not locate the reported post URLs.
+- X profile fetch confirmed `@noahbkuhn`, but not recent thread content.
+- LinkedIn recent activity was not fetchable from the current runtime.
+
+Next session:
+
+- Capture the application confirmation, LinkedIn post URL, X thread URL, and DM recipients or private notes if Noah wants the receipts.
+- Otherwise, wait for actual signal before sending a second wave.

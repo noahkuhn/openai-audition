@@ -42,6 +42,20 @@ Interpretation:
 - No verified warm signal has been captured in this repo yet.
 - The correct next step is to check the actual application/contact inbox, public post links, and social/DM replies before deciding whether a second-wave follow-up is needed.
 
+## Contact Surface Availability - 2026-05-05
+
+Additional checks:
+
+- The connected Gmail account did not expose messages delivered to or addressed to `hey@noahkuhn.com`.
+- Public search did not locate the reported X or LinkedIn post URLs.
+- Direct X profile fetch confirmed <https://x.com/noahbkuhn>, but did not expose recent thread content.
+- LinkedIn recent activity was not fetchable from the current runtime.
+
+Interpretation:
+
+- The remaining gap is evidence capture, not a reason to re-launch.
+- Noah needs to provide or capture the application confirmation, public post URLs, DM recipients or private notes, and any response signal if those should become part of the trail.
+
 ## Planning Implication
 
 The next move is not "publish the launch thread" or "apply." Those actions are already in motion.

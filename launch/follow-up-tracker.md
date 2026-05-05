@@ -35,6 +35,34 @@ Interpretation:
 - Do not treat this as proof that there are no email, LinkedIn, X, or DM responses.
 - Next highest-leverage check is the actual application/contact inbox and the public post URLs.
 
+### 2026-05-05 Contact Surface Availability
+
+Gmail alias checks:
+
+- `deliveredto:hey@noahkuhn.com newer_than:30d`: no results in the connected Gmail account.
+- `to:hey@noahkuhn.com newer_than:30d`: no results in the connected Gmail account.
+- `(openai OR ashby OR codex) (to:hey@noahkuhn.com OR deliveredto:hey@noahkuhn.com)`: no results in the connected Gmail account.
+- `from:(openai.com OR jobs.ashbyhq.com OR ashbyhq.com) newer_than:30d`: no results in the connected Gmail account.
+
+Public post checks:
+
+- Public search did not find a matching `openai-audition`, `I asked Codex`, or `noahkuhn.github.io/openai-audition` post URL.
+- Direct fetch confirmed the public X profile exists at <https://x.com/noahbkuhn>, but the fetched page did not expose recent post/thread content.
+- LinkedIn recent activity was not fetchable from the current runtime.
+
+Interpretation:
+
+- The accessible tools still cannot verify the application confirmation, the LinkedIn post, the X thread, or DMs.
+- This is a capture gap, not a failure signal.
+
+Fast capture checklist:
+
+- Application confirmation timestamp or screenshot.
+- LinkedIn post URL.
+- X thread URL.
+- Names or categories for the two DMs, kept private if needed.
+- Any replies, reactions, profile visits, intro offers, or recruiter messages.
+
 ## What To Watch
 
 - OpenAI recruiter reply.

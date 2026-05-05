@@ -123,3 +123,11 @@
 - Refactor backlog: Add real public post URLs or private recipient notes only if Noah wants them recorded.
 - Reliability backlog: Do not interpret the narrow no-hit check as evidence that the outreach failed.
 - Next session: Check the actual contact inbox plus LinkedIn/X/DMs before sending a second wave.
+
+## 2026-05-05 - Contact Surface Availability
+
+- Decisions: Treat inaccessible application/social proof as a capture gap, not as a reason to redo launch.
+- Learnings: `hey@noahkuhn.com` did not appear in the connected Gmail account searches; public search did not locate the reported X/LinkedIn post URLs; X profile fetch confirmed `@noahbkuhn` but did not expose recent thread content; LinkedIn recent activity was not fetchable.
+- Refactor backlog: Add application confirmation, LinkedIn URL, X thread URL, and DM notes only if Noah wants those receipts in the repo.
+- Reliability backlog: Do not publish claims about responses or post performance without actual URLs/screenshots/private notes.
+- Next session: Use real captured links/signals to decide whether to reply, route, or send a second wave.
