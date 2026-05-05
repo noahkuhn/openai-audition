@@ -23,6 +23,25 @@ Missing receipts:
 
 Do not invent those details. Add them only if Noah chooses to capture them.
 
+## Signal Check - 2026-05-05
+
+Checked:
+
+- Connected Gmail account: `noah@pilotmade.com`.
+- GitHub repo public counters and traffic API.
+
+Findings:
+
+- No relevant OpenAI/Ashby/Codex application response appeared in the connected Gmail account.
+- This is not a complete email check because the public application/contact artifacts use `hey@noahkuhn.com`.
+- GitHub showed 0 stars, 0 watchers, 0 forks, 0 issues, and 0 pull requests.
+- GitHub traffic showed 48 views from 5 unique visitors and 83 clones from 42 unique cloners in the available window, concentrated on 2026-05-02 and 2026-05-03.
+
+Interpretation:
+
+- No verified warm signal has been captured in this repo yet.
+- The correct next step is to check the actual application/contact inbox, public post links, and social/DM replies before deciding whether a second-wave follow-up is needed.
+
 ## Planning Implication
 
 The next move is not "publish the launch thread" or "apply." Those actions are already in motion.

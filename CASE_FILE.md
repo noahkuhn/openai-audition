@@ -94,6 +94,7 @@ See [OPENAI_FIT.md](OPENAI_FIT.md).
 - Receipt 009: synthetic image replaced with an actual Codex instance.
 - Receipt 010: live launch surface and role verification.
 - Receipt 011: post-application distribution state.
+- Receipt 012: narrow signal check.
 - Decision Record 001: [The project is the public audition](evidence/decision-record-001-public-audition.md).
 - Evidence 006: [Live launch verification](evidence/live-launch-verification-2026-05-05.md).
 - Evidence 007: [Post-application distribution state](evidence/post-application-distribution-2026-05-05.md).
@@ -127,5 +128,6 @@ If this is the kind of user behavior Codex should enable, I want to talk to the 
 ## What Still Needs To Become Stronger
 
 - Capture the application confirmation, LinkedIn post URL, X thread URL, and DM recipients if Noah wants them in the public or private evidence trail.
+- Check the actual `hey@noahkuhn.com` application/contact inbox before concluding there is no email signal.
 - Track replies and route any warm signal into the shortest next conversation.
 - Add a follow-up artifact only if the first distribution wave gets no signal or someone asks for deeper proof.

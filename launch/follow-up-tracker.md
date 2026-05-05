@@ -13,6 +13,28 @@ As of Noah's 2026-05-05 update:
 
 Treat those as user-reported until links or screenshots are captured.
 
+## Signal Checks
+
+### 2026-05-05
+
+Gmail:
+
+- Checked the connected Gmail account: `noah@pilotmade.com`.
+- Searches for `openai newer_than:30d`, `(openai OR ashby OR codex) newer_than:7d`, and `ashby` found no relevant OpenAI/Ashby/Codex application response.
+- Limitation: the public application/contact artifacts use `hey@noahkuhn.com`, so this Gmail check is not comprehensive unless that mailbox forwards into `noah@pilotmade.com`.
+
+GitHub:
+
+- Repo status via GitHub API: 0 stars, 0 watchers, 0 forks, 0 issues, 0 PRs.
+- Traffic API available window: 48 views from 5 unique visitors; 83 clones from 42 unique cloners.
+- Visible traffic was concentrated on 2026-05-02 and 2026-05-03; the API did not show current-day 2026-05-05 traffic yet.
+
+Interpretation:
+
+- No verified warm signal captured yet.
+- Do not treat this as proof that there are no email, LinkedIn, X, or DM responses.
+- Next highest-leverage check is the actual application/contact inbox and the public post URLs.
+
 ## What To Watch
 
 - OpenAI recruiter reply.

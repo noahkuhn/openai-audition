@@ -114,3 +114,12 @@
 - Refactor backlog: Replace this user-reported state with exact links/timestamps if Noah supplies them.
 - Reliability backlog: Do not claim public verification for the application, DMs, LinkedIn post, or X thread until receipts are captured.
 - Next session: Check replies/signals and decide whether to send a targeted second wave or produce one follow-up artifact.
+
+## 2026-05-05 - Narrow Signal Check
+
+- Decisions: Search the connected Gmail account and GitHub public signal surfaces before deciding on second-wave outreach.
+- Learnings: Connected Gmail is `noah@pilotmade.com`, while public application/contact docs use `hey@noahkuhn.com`; no OpenAI/Ashby/Codex response was found in the connected mailbox, but that is not comprehensive.
+- Learnings: GitHub showed 0 stars/watchers/forks/issues/PRs, with historical traffic concentrated on 2026-05-02 and 2026-05-03.
+- Refactor backlog: Add real public post URLs or private recipient notes only if Noah wants them recorded.
+- Reliability backlog: Do not interpret the narrow no-hit check as evidence that the outreach failed.
+- Next session: Check the actual contact inbox plus LinkedIn/X/DMs before sending a second wave.

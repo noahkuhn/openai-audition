@@ -444,6 +444,43 @@ Public artifact:
 - [evidence/post-application-distribution-2026-05-05.md](evidence/post-application-distribution-2026-05-05.md)
 - [launch/follow-up-tracker.md](launch/follow-up-tracker.md)
 
+## Receipt 012 - Narrow Signal Check
+
+Date: 2026-05-05
+
+Type: Response tracking check
+
+Claim:
+
+- No verified warm signal has been captured in the repo yet, but the check is not comprehensive.
+
+Why it matters:
+
+- The next move should depend on real response signal. A narrow no-hit check should not be mistaken for proof that the application or outreach failed.
+
+Evidence:
+
+- Connected Gmail account `noah@pilotmade.com` had no relevant OpenAI/Ashby/Codex application response in the searches performed.
+- The application artifacts list `hey@noahkuhn.com`, so the Gmail check may not cover the actual application inbox.
+- GitHub public counters showed 0 stars, 0 watchers, 0 forks, 0 issues, and 0 pull requests.
+- GitHub traffic API showed historical traffic in the available window, concentrated on 2026-05-02 and 2026-05-03, but did not yet show current-day 2026-05-05 traffic.
+
+Human role:
+
+- Noah provided the corrected current distribution state.
+
+Codex role:
+
+- Codex checked the accessible inbox and GitHub signal surfaces, then recorded the limits instead of overclaiming.
+
+Outcome:
+
+- The follow-up tracker now distinguishes "no verified signal captured" from "no signal exists."
+
+Public artifact:
+
+- [launch/follow-up-tracker.md](launch/follow-up-tracker.md)
+
 ## Receipt Template
 
 ```text

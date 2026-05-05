@@ -296,3 +296,29 @@ Next session:
 - Check for replies or measurable signal.
 - Capture the application confirmation and public post links if Noah wants them in the evidence trail.
 - Send a second wave only if early signal is weak or absent.
+
+## 2026-05-05 - Session 11: Narrow Signal Check
+
+Context:
+
+- The repo had moved into response tracking.
+- Codex could check the connected Gmail account and GitHub repo signals, but not necessarily the actual public contact inbox.
+
+Decisions:
+
+- Search the connected Gmail account for OpenAI/Ashby/Codex responses.
+- Check public GitHub counters and traffic.
+- Record the limits plainly instead of claiming no response exists.
+
+Learnings:
+
+- The connected Gmail account is `noah@pilotmade.com`; the public application/contact artifacts use `hey@noahkuhn.com`.
+- No relevant OpenAI/Ashby/Codex response was found in the connected Gmail account.
+- GitHub public counters were still 0 stars, 0 watchers, 0 forks, 0 issues, and 0 PRs.
+- GitHub traffic showed early historical views/clones but not current-day 2026-05-05 signal.
+
+Next session:
+
+- Check `hey@noahkuhn.com`, LinkedIn, X, and DMs directly.
+- Capture exact public post URLs or application confirmation only if Noah wants them recorded.
+- Decide on second-wave outreach only after that signal check.
