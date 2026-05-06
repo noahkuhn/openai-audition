@@ -590,6 +590,43 @@ Public artifact:
 
 - [CODEX_FEEDBACK.md](CODEX_FEEDBACK.md)
 
+## Receipt 016 - Homepage Current-State Update
+
+Date: 2026-05-05
+
+Type: Public entrypoint correction
+
+Claim:
+
+- The public homepage and README now reflect that the first application and distribution wave already happened.
+
+Why it matters:
+
+- The project loses credibility if the public entry point keeps asking Noah to do completed launch work.
+- OpenAI readers should land on the current state: post-application signal tracking, Codex product feedback, and follow-up routing.
+
+Evidence:
+
+- `index.html` now surfaces the post-application state, links `CODEX_FEEDBACK.md`, and points to `launch/follow-up-tracker.md`.
+- `README.md` now lists the completed application/outreach state and makes the follow-up tracker the active next-action file.
+
+Human role:
+
+- Noah corrected the stale assumption that application, DMs, LinkedIn, and X posting were still pending.
+
+Codex role:
+
+- Codex updated the public entrypoint to preserve that correction and route readers to the current artifacts.
+
+Outcome:
+
+- The public site is no longer only a launch artifact. It now reflects the active post-launch hiring conversion state.
+
+Public artifacts:
+
+- [index.html](index.html)
+- [README.md](README.md)
+
 ## Receipt Template
 
 ```text

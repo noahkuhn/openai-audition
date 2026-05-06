@@ -19,6 +19,15 @@ Live surfaces:
 - Site: <https://noahkuhn.github.io/openai-audition/>
 - Repo: <https://github.com/noahkuhn/openai-audition>
 
+Application/outreach state as of 2026-05-05:
+
+- Application submitted.
+- Two DMs sent.
+- One LinkedIn post published.
+- One X thread for the original project posted.
+
+The active next-action file is [launch/follow-up-tracker.md](launch/follow-up-tracker.md). Do not repeat the initial application or launch steps unless new evidence shows they failed to land.
+
 This started before the repo existed.
 
 Session 0 was a planning conversation with Codex on 2026-05-01. The decision from that conversation:
@@ -47,8 +56,9 @@ If yes, the application is not a PDF. The application is the trail.
 - [RECEIPTS.md](RECEIPTS.md) - claim-by-claim proof.
 - [evidence](evidence) - curated public evidence.
 - [BUILD_LOG.md](BUILD_LOG.md) - chronological correction and execution trail.
-- [launch/x-thread-draft.md](launch/x-thread-draft.md) - canonical public thread.
-- [launch/openai-outreach.md](launch/openai-outreach.md) - targeted routing copy.
+- [launch/follow-up-tracker.md](launch/follow-up-tracker.md) - active response tracking and second-wave rule.
+- [launch/role-routing.md](launch/role-routing.md) - constrained adjacent role routing.
+- [launch/openai-outreach.md](launch/openai-outreach.md) - original targeted routing copy.
 
 Supporting context:
 

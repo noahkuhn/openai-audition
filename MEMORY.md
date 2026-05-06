@@ -149,3 +149,12 @@
 - Refactor backlog: If OpenAI asks for more depth, turn one feedback item into a concrete demo or implementation sketch.
 - Reliability backlog: Keep the memo grounded in observed workflow behavior; do not claim broad benchmark results.
 - Next session: Use the memo as the second-wave hook only if external signal remains weak.
+
+## 2026-05-05 - Homepage Current-State Update
+
+- Decisions: Update the public homepage and README to say the first application/outreach wave already happened.
+- Decisions: Promote `CODEX_FEEDBACK.md` and `launch/follow-up-tracker.md` from the homepage so OpenAI readers see product feedback and active response tracking.
+- Learnings: The public entrypoint can drift just like the agent; it must reconcile current state or it will keep implying stale next steps.
+- Refactor backlog: After GitHub Pages deploys, visually verify the homepage on desktop and mobile.
+- Reliability backlog: Keep application/social/DM proof labeled user-reported until the exact receipts are captured.
+- Next session: Use the Codex feedback memo as the follow-up hook only if the first wave remains cold.

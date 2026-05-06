@@ -393,3 +393,25 @@ Learnings:
 Next session:
 
 - If no external signal arrives, use the memo as the second-wave hook instead of adding more generic launch material.
+
+## 2026-05-05 - Session 15: Homepage Current-State Update
+
+Context:
+
+- The repo reflected the post-application state, but the public homepage still read mostly like a pre-launch case page.
+- Noah had already applied, sent two DMs, made one LinkedIn post, and posted the original X thread.
+
+Decisions:
+
+- Update `index.html` so first-time readers see that the first wave already happened.
+- Surface `CODEX_FEEDBACK.md` and `launch/follow-up-tracker.md` from the homepage.
+- Update `README.md` so the active next-action file is response tracking, not another launch checklist.
+
+Learnings:
+
+- The public entrypoint has to reconcile current state just like Codex does. Otherwise the repo itself repeats stale next steps.
+
+Next session:
+
+- Verify the deployed GitHub Pages homepage after push.
+- If no warm signal appears, send one second-wave note using the Codex feedback memo as the hook.
