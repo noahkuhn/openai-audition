@@ -22,6 +22,16 @@ The goal is not a favor for a job slot. The goal is to get the artifact in front
 Noah built his OpenAI application as a public Codex case study, then turned the actual agent drift/correction loop into product feedback for Codex.
 ```
 
+## Current Timing Hook
+
+OpenAI's 2026-04-16 `Codex for (almost) everything` release frames Codex as moving beyond coding into the broader software-development workflow: computer use, more connected tools and apps, memory, learning from previous actions, ongoing tasks, and proactive continuation from prior context.
+
+That makes this audition timely. The repo is a live user-side case study of exactly those surfaces: Codex using files, connected tools, browser/computer use, memory, social/application evidence, and long-running follow-through on one high-stakes objective.
+
+Reference:
+
+- <https://openai.com/index/codex-for-almost-everything/>
+
 ## Forwardable Note
 
 ```text
@@ -36,6 +46,8 @@ The most product-relevant artifact is the feedback memo:
 https://github.com/noahkuhn/openai-audition/blob/main/CODEX_FEEDBACK.md
 
 It covers current-state reconciliation, evidence status, objective drift, social/application capture, and correction memory in long-running Codex workflows.
+
+This is timely because OpenAI is positioning Codex beyond coding: connected tools, computer use, memory, and longer-running workflow follow-through.
 
 If this is not your lane, the useful question is: who owns Codex deployment quality, agent workflow feedback, or product learning from power users?
 ```

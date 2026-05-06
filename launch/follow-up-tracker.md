@@ -173,6 +173,20 @@ Interpretation:
 - X replies, reposts, DMs, bookmarks, or visible traffic to the case file.
 - GitHub traffic or stars from relevant people.
 
+## Current Follow-Up Hook
+
+OpenAI's 2026-04-16 `Codex for (almost) everything` release makes the strongest follow-up hook more specific than the original launch story.
+
+Use this framing for warm intros or second-wave notes:
+
+- OpenAI is positioning Codex beyond coding into connected tools, computer use, memory, proactive continuation, and ongoing work.
+- This public audition is a live user-side case study of those exact surfaces under pressure.
+- The value is not "AI made me a page"; it is concrete feedback about current-state reconciliation, evidence status, social/application capture, objective drift, and correction memory.
+
+Reference:
+
+- <https://openai.com/index/codex-for-almost-everything/>
+
 ## If A Warm Reply Comes In
 
 Use the shortest useful response:

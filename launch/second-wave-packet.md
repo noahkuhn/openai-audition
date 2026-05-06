@@ -30,6 +30,18 @@ Pitch the useful product signal:
 
 The best hook is [CODEX_FEEDBACK.md](../CODEX_FEEDBACK.md), not the original launch story.
 
+## Current Public Hook
+
+Use this hook if the recipient is close to Codex product, deployment, agents, plugins, or developer workflows.
+
+OpenAI's 2026-04-16 `Codex for (almost) everything` release makes the timing sharper: Codex is now publicly framed around computer use, connected apps and tools, memory, learning from previous actions, proactive continuation, and ongoing work across the software-development lifecycle.
+
+This audition is a live case study of those exact surfaces under pressure. It shows where Codex worked well with repo/files/browser/computer state, and where it needed better current-state reconciliation, evidence status, social/application capture, and correction memory.
+
+Reference:
+
+- <https://openai.com/index/codex-for-almost-everything/>
+
 ## Target Order
 
 Send 6-8 notes, not a blast.
@@ -53,7 +65,9 @@ Skip:
 ```text
 I applied to Codex and built the application as a public Codex case study.
 
-The most useful part is product feedback, not the stunt: Codex helped turn an ambiguous career objective into artifacts, but it also drifted, repeated stale next steps, and needed better current-state/evidence handling.
+The most useful part is product feedback, not the stunt. OpenAI is pushing Codex beyond coding into connected tools, computer use, memory, and ongoing workflow follow-through; this run is a live case study of exactly that surface.
+
+Codex helped turn an ambiguous career objective into artifacts, but it also drifted, repeated stale next steps, and needed better current-state/evidence handling.
 
 I wrote the feedback memo here:
 https://github.com/noahkuhn/openai-audition/blob/main/CODEX_FEEDBACK.md
@@ -66,7 +80,9 @@ If this is useful to someone working on Codex deployment, product, or agent work
 ```text
 I used Codex to build my OpenAI application as a public workflow, then wrote the product feedback from the run.
 
-The sharp part is not "AI made me a portfolio." It is the failure/correction trail: Codex was strong when the work had files, artifacts, and verification, but weak when it needed external-world state like application status, social posts, DMs, and current response signal.
+The sharp part is not "AI made me a portfolio." It is the failure/correction trail against the current Codex direction: connected tools, computer use, memory, proactive continuation, and longer-running work.
+
+Codex was strong when the work had files, artifacts, and verification, but weak when it needed external-world state like application status, social posts, DMs, and current response signal.
 
 Feedback memo:
 https://github.com/noahkuhn/openai-audition/blob/main/CODEX_FEEDBACK.md
@@ -98,7 +114,7 @@ I asked Codex to get me hired at OpenAI.
 
 The useful part is not that it helped me make a page.
 
-The useful part is where it failed.
+The useful part is where it failed against the direction Codex is already moving: connected tools, computer use, memory, proactive continuation, and ongoing workflow follow-through.
 
 Codex was strong when the work had files, artifacts, repo state, and verification.
 

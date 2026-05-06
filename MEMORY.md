@@ -223,3 +223,12 @@
 - Refactor backlog: Capture reply authors, LinkedIn post URL, and DM notes only from logged-in surfaces with explicit approval.
 - Reliability backlog: Do not infer identity or hiring interest from GitHub path traffic.
 - Next session: If no logged-in social/DM signal is available, use the warm-intro brief before broader second-wave notes.
+
+## 2026-05-06 - Current Codex Hook Refresh
+
+- Decisions: Update `launch/warm-intro-brief.md`, `launch/second-wave-packet.md`, and `launch/follow-up-tracker.md` around OpenAI's current Codex positioning.
+- Decisions: Use the 2026-04-16 `Codex for (almost) everything` release as the public timing hook, while avoiding any claim of OpenAI endorsement or hiring progress.
+- Learnings: The audition's friction maps directly to the current Codex surface: connected tools, computer use, memory, proactive continuation, current-state tracking, and longer-running workflow follow-through.
+- Refactor backlog: If OpenAI publishes a newer Codex release or role-surface change, refresh the hook before sending a second wave.
+- Reliability backlog: Keep the hook grounded in observed workflow evidence and official public OpenAI language.
+- Next session: Use this hook only after direct reply checks or when a credible warm route asks what to forward.

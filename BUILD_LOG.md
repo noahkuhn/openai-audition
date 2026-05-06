@@ -584,3 +584,26 @@ Next session:
 
 - Directly inspect logged-in X/LinkedIn/DM surfaces only with explicit approval.
 - If those surfaces do not show warm signal, use the warm-intro brief first.
+
+## 2026-05-06 - Session 23: Current Codex Hook Refresh
+
+Context:
+
+- The follow-up assets already centered on Codex product feedback.
+- OpenAI's 2026-04-16 `Codex for (almost) everything` release gives the follow-up a more current public hook.
+
+Decisions:
+
+- Update `launch/warm-intro-brief.md`, `launch/second-wave-packet.md`, and `launch/follow-up-tracker.md`.
+- Tie the ask to public Codex positioning: connected tools, computer use, memory, proactive continuation, and ongoing workflow follow-through.
+- Keep the claim grounded: the audition is a user-side case study, not OpenAI endorsement or hiring signal.
+
+Learnings:
+
+- The repo's observed friction maps directly to OpenAI's current Codex surface: tool access, memory, current-state tracking, and longer-running workflows.
+- The strongest follow-up hook is now "this is timely Codex workflow feedback," not just "I asked Codex to get me hired."
+
+Next session:
+
+- Use this hook only after checking for direct replies, or when a credible warm route asks what to forward.
+- Continue treating LinkedIn and DM details as uncaptured until directly verified.
