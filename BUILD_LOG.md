@@ -440,3 +440,26 @@ Next session:
 
 - Use the packet only after the real signal check.
 - If a warm reply appears, ignore the packet and route through the person.
+
+## 2026-05-06 - Session 17: Warm Intro Brief
+
+Context:
+
+- The second-wave packet was ready, but cold or semi-warm notes are weaker than a credible route through someone who can forward the case.
+- The runtime still could not verify actual inbox/social/DM state, so the next useful artifact needed to improve routing without pretending signal had been checked.
+
+Decisions:
+
+- Add `launch/warm-intro-brief.md`.
+- Make the ask specific: forward this to the person who owns Codex deployment, product feedback, or agent-workflow quality.
+- Link the brief from README, case file, follow-up tracker, and second-wave packet.
+- Keep explicit boundaries: no OpenAI endorsement claim, no fake autonomy, no verified-response claim.
+
+Learnings:
+
+- Warm routing is the highest-leverage next path if it exists because it can bypass public-feed randomness without broadening the application spray.
+
+Next session:
+
+- If a credible warm contact exists, use the warm-intro brief before sending the second-wave packet.
+- If no warm route exists and signal remains cold, execute the gated second-wave packet.

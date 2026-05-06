@@ -662,6 +662,42 @@ Public artifact:
 
 - [launch/second-wave-packet.md](launch/second-wave-packet.md)
 
+## Receipt 018 - Warm Intro Brief
+
+Date: 2026-05-06
+
+Type: Warm-routing artifact
+
+Claim:
+
+- The repo now includes a forwardable warm-intro brief for OpenAI/Codex routing.
+
+Why it matters:
+
+- A warm route has higher leverage than another cold post when the first application/outreach wave is already done.
+- The brief lets someone forward the case without inventing context or overstating the state.
+
+Evidence:
+
+- `launch/warm-intro-brief.md` includes the ask, one-line frame, forwardable note, short forward, mutual-contact ask, reply handling, boundaries, and stop rule.
+- `launch/follow-up-tracker.md` now treats warm-intro offers as a signal and asks up to three credible warm contacts before broader second-wave notes.
+
+Human role:
+
+- Noah supplied the real objective and the current state that first-wave application/outreach is already complete.
+
+Codex role:
+
+- Codex converted the public case and product-feedback memo into a forwardable routing asset with explicit boundaries.
+
+Outcome:
+
+- The next conversion path can move through warm routing without requiring a new public launch or another application.
+
+Public artifact:
+
+- [launch/warm-intro-brief.md](launch/warm-intro-brief.md)
+
 ## Receipt Template
 
 ```text

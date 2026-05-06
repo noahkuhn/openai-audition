@@ -168,3 +168,13 @@
 - Refactor backlog: If the user captures the real public post URLs, add them to the follow-up tracker before sending.
 - Reliability backlog: Do not execute the packet until actual response surfaces are checked.
 - Next session: If signal is cold after the real check, send 6-8 targeted notes from the packet; if warm, route through the person.
+
+## 2026-05-06 - Warm Intro Brief
+
+- Decisions: Add `launch/warm-intro-brief.md` as the forwardable routing asset for credible OpenAI/Codex warm intros.
+- Decisions: Make warm routing precede cold or semi-warm second-wave notes when a credible route exists.
+- Decisions: Keep boundaries explicit: no OpenAI endorsement, no fake autonomy, no verified-response claim, and no claim that uncaptured application/social proof is publicly verified.
+- Learnings: A warm forward is a stronger conversion path than another public post when the first wave is already complete.
+- Refactor backlog: If a real warm route appears, record the route category and outcome in the follow-up tracker without exposing private details.
+- Reliability backlog: Do not name private contacts in the public repo unless the user explicitly approves.
+- Next session: Use the warm-intro brief for up to three credible routes before broader second-wave notes.

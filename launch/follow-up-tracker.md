@@ -68,6 +68,7 @@ Fast capture checklist:
 - OpenAI recruiter reply.
 - OpenAI/Codex engineer or product reply.
 - Builder amplifier reply, quote, repost, or intro offer.
+- Warm-intro offer from anyone who can forward [warm-intro-brief.md](warm-intro-brief.md).
 - LinkedIn comments or inbound profile views from OpenAI-adjacent people.
 - X replies, reposts, DMs, bookmarks, or visible traffic to the case file.
 - GitHub traffic or stars from relevant people.
@@ -101,6 +102,7 @@ Do not build a large new app.
 
 Run a second wave:
 
+- Ask up to three credible warm contacts to forward [warm-intro-brief.md](warm-intro-brief.md).
 - Capture the application confirmation and public post links.
 - Send 6-8 more targeted notes using [second-wave-packet.md](second-wave-packet.md), not a generic blast.
 - Publish one tighter follow-up around what Codex got wrong while trying to get Noah hired.

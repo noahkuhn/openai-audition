@@ -6,6 +6,8 @@ This packet exists for one moment only: the first application/outreach wave has 
 
 Do not use this as a substitute for checking replies.
 
+If a credible warm-intro route exists, use [warm-intro-brief.md](warm-intro-brief.md) before sending cold or semi-warm second-wave notes.
+
 ## Send Gate
 
 Send only if all of these are true:

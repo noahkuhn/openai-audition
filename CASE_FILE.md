@@ -135,5 +135,6 @@ If this is the kind of user behavior Codex should enable, I want to talk to the 
 - Check the actual `hey@noahkuhn.com` application/contact inbox before concluding there is no email signal.
 - Treat uncaptured LinkedIn/X/DM/application details as evidence gaps, not completed public receipts.
 - Track replies and route any warm signal into the shortest next conversation.
+- Use [launch/warm-intro-brief.md](launch/warm-intro-brief.md) when someone can forward the project to an OpenAI/Codex person.
 - Use [launch/role-routing.md](launch/role-routing.md) before choosing a second application target.
 - Use [launch/second-wave-packet.md](launch/second-wave-packet.md) only after checking the real inbox/social surfaces and finding no warm signal.
