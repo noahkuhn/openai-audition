@@ -196,3 +196,12 @@
 - Refactor backlog: Reconnect Gmail connector auth if connector-based mailbox access is needed again.
 - Reliability backlog: Do not treat the application receipt as recruiter interest, warm signal, interview progress, or an offer.
 - Next session: Check LinkedIn, X, and DMs directly before executing second-wave outreach; use warm-intro routing first if a credible route appears.
+
+## 2026-05-06 - Signal Sweep
+
+- Decisions: Record the fresh signal sweep inside `launch/follow-up-tracker.md` instead of creating another standalone evidence file.
+- Decisions: Treat GitHub clone/referrer movement as measurable attention, not hiring progress.
+- Learnings: Local Mail still showed no visible OpenAI recruiter reply beyond the 2026-05-03 application receipt; public search still did not locate owned X/LinkedIn post URLs; GitHub clones rose to 164 total and 67 unique cloners, with 81 clones from 30 uniques on 2026-05-05.
+- Refactor backlog: Add exact X/LinkedIn URLs and DM notes when they are available from logged-in surfaces.
+- Reliability backlog: Do not infer OpenAI interest from `t.co` or clone traffic without identity or reply evidence.
+- Next session: If no warm route or reply is found on direct social/DM checks, use the warm-intro brief before the gated second-wave packet.

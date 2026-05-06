@@ -91,6 +91,33 @@ Evidence:
 
 - [Application confirmation mail check](../evidence/application-confirmation-2026-05-06.md)
 
+### 2026-05-06 Signal Sweep
+
+Public web/social checks:
+
+- Public web search still did not locate a user-owned `openai-audition`, `I asked Codex`, or `noahkuhn.github.io/openai-audition` post URL.
+- Direct public fetch of <https://x.com/noahbkuhn> returned the profile shell and follower count, but did not expose recent post/thread content.
+- LinkedIn profile and recent-activity fetches were not accessible from the current runtime.
+
+Local Mail:
+
+- `OpenAI Ashby`: no visible results.
+- `OpenAI recruiter`: 15 visible results; the only current relevant OpenAI hiring item visible was the 2026-05-03 application receipt.
+- `OpenAI Hiring Team`: top visible result remained the 2026-05-03 application receipt; no visible recruiter reply after it.
+
+GitHub:
+
+- Repo status via GitHub API: 0 stars, 0 watchers, 0 forks, 0 issues, 0 PRs.
+- Views: 48 total, 5 unique; nonzero days were 2026-05-02 and 2026-05-03.
+- Clones: 164 total, 67 unique; 2026-05-05 showed 81 clones from 30 unique cloners.
+- Referrers: `noahkuhn.github.io` with 46 views from 3 uniques; `t.co` with 2 views from 2 uniques.
+
+Interpretation:
+
+- No recruiter response, warm intro, interview, offer, or OpenAI-adjacent reply is verified.
+- GitHub clone traffic increased materially on 2026-05-05, and `t.co` referrer traffic suggests some X-driven traffic, but neither proves OpenAI interest.
+- The next non-repetitive move is still direct capture of LinkedIn/X/DM surfaces or warm-intro routing, not another application.
+
 ## What To Watch
 
 - OpenAI recruiter reply.

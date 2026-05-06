@@ -512,3 +512,28 @@ Next session:
 - Reconnect Gmail connector auth if connector-based mailbox access is required.
 - Check LinkedIn, X, and DMs directly before executing second-wave outreach.
 - Use warm-intro routing first if a credible route appears.
+
+## 2026-05-06 - Session 20: Signal Sweep
+
+Context:
+
+- The application receipt was verified, but no hiring movement had been verified.
+- The next useful action was checking response surfaces without repeating the application, DMs, LinkedIn post, or X thread.
+
+Decisions:
+
+- Update `launch/follow-up-tracker.md` instead of creating another standalone evidence file.
+- Treat public search and local Mail as limited visibility checks.
+- Treat GitHub traffic as measurable attention, not hiring signal.
+
+Learnings:
+
+- Local Mail still showed no visible OpenAI recruiter reply beyond the 2026-05-03 application receipt.
+- Public search still did not locate the reported owned X or LinkedIn post URLs.
+- GitHub clones increased to 164 total and 67 unique cloners, with 81 clones from 30 uniques on 2026-05-05.
+- GitHub referrers showed `noahkuhn.github.io` and `t.co`.
+
+Next session:
+
+- Capture the actual X thread URL, LinkedIn post URL, and DM notes from the logged-in surfaces.
+- If those surfaces remain cold, use the warm-intro brief first, then the gated second-wave packet.
