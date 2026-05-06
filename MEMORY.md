@@ -205,3 +205,12 @@
 - Refactor backlog: Add exact X/LinkedIn URLs and DM notes when they are available from logged-in surfaces.
 - Reliability backlog: Do not infer OpenAI interest from `t.co` or clone traffic without identity or reply evidence.
 - Next session: If no warm route or reply is found on direct social/DM checks, use the warm-intro brief before the gated second-wave packet.
+
+## 2026-05-06 - X Launch Post Capture
+
+- Decisions: Add `evidence/x-launch-post-2026-05-06.md` and link the captured X post from the tracker, case file, application, README, receipts, evidence index, build log, and memory.
+- Decisions: Treat the X post as a verified distribution receipt, but not as verified OpenAI readership or hiring progress.
+- Learnings: Public X payload exposed pinned tweet `2050930949928452494`, created 2026-05-03 13:30:17 UTC, linking the repo and GitHub Pages site with counters of 2 replies, 0 reposts, 0 quotes, 2 likes, and 3 bookmarks.
+- Refactor backlog: Capture LinkedIn post URL and DM notes from logged-in surfaces.
+- Reliability backlog: Do not overread `t.co` traffic or X counters as OpenAI-specific signal.
+- Next session: Use warm-intro routing before broader second-wave notes if no direct reply is found.

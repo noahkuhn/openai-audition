@@ -16,7 +16,6 @@ These actions are useful state for planning, but they are not fully evidenced in
 Missing receipts:
 
 - LinkedIn post URL,
-- X thread URL,
 - DM recipient list or private notes,
 - any replies, shares, profile visits, recruiter responses, or warm introductions.
 
@@ -75,6 +74,6 @@ The next move is:
 
 - watch for signal,
 - respond quickly to any warm reply,
-- capture public links or private routing notes,
+- capture remaining public links or private routing notes,
 - send a focused second wave only if the first wave gets no meaningful signal,
 - add a deeper proof artifact only if the response pattern asks for it.

@@ -32,3 +32,4 @@ Examples:
 - [Evidence 007: Post-application distribution state](post-application-distribution-2026-05-05.md)
 - [Evidence 008: Role surface recheck](role-surface-recheck-2026-05-06.md)
 - [Evidence 009: Application confirmation mail check](application-confirmation-2026-05-06.md)
+- [Evidence 010: X launch post capture](x-launch-post-2026-05-06.md)

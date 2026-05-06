@@ -766,11 +766,50 @@ Outcome:
 
 - Application receipt is verified.
 - No recruiter response, warm intro, interview, or offer is verified.
-- LinkedIn, X, and DM receipts remain uncaptured.
+- At the time of this receipt, LinkedIn, X, and DM receipts remained uncaptured. The X launch post was captured later in Receipt 021.
 
 Public artifact:
 
 - [evidence/application-confirmation-2026-05-06.md](evidence/application-confirmation-2026-05-06.md)
+
+## Receipt 021 - X Launch Post Capture
+
+Date: 2026-05-06
+
+Type: Public social receipt capture
+
+Claim:
+
+- The first X launch post for the public OpenAI audition exists and is now linked in the repo.
+
+Why it matters:
+
+- The repo had treated the X thread as user-reported. Capturing the actual public URL closes one social-proof gap without claiming that OpenAI saw it.
+
+Evidence:
+
+- Public X post URL: <https://x.com/noahbkuhn/status/2050930949928452494>
+- Public payload showed the post was created on 2026-05-03 at 13:30:17 UTC.
+- The post linked the GitHub repo and GitHub Pages site.
+- Public counters in the payload showed 2 replies, 0 reposts, 0 quotes, 2 likes, and 3 bookmarks.
+
+Human role:
+
+- Noah posted the X launch artifact.
+
+Codex role:
+
+- Codex recovered the public post URL and recorded the counters as narrow evidence.
+
+Outcome:
+
+- X launch post is verified.
+- LinkedIn post and DM details remain uncaptured.
+- No OpenAI readership, recruiter response, warm intro, interview, or offer is verified.
+
+Public artifact:
+
+- [evidence/x-launch-post-2026-05-06.md](evidence/x-launch-post-2026-05-06.md)
 
 ## Receipt Template
 

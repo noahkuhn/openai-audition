@@ -24,7 +24,7 @@ Application/outreach state as of 2026-05-06:
 - Application submitted; receipt verified in local Mail on 2026-05-06.
 - Two DMs sent.
 - One LinkedIn post published.
-- One X thread for the original project posted.
+- X launch post captured: <https://x.com/noahbkuhn/status/2050930949928452494>.
 
 The active next-action file is [launch/follow-up-tracker.md](launch/follow-up-tracker.md). Do not repeat the initial application or launch steps unless new evidence shows they failed to land.
 

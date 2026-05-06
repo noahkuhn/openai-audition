@@ -537,3 +537,27 @@ Next session:
 
 - Capture the actual X thread URL, LinkedIn post URL, and DM notes from the logged-in surfaces.
 - If those surfaces remain cold, use the warm-intro brief first, then the gated second-wave packet.
+
+## 2026-05-06 - Session 21: X Launch Post Capture
+
+Context:
+
+- The tracker still treated the X launch post as user-reported.
+- GitHub traffic showed a `t.co` referrer, so the public X surface was worth one more direct check.
+
+Decisions:
+
+- Add `evidence/x-launch-post-2026-05-06.md`.
+- Update the tracker, case file, application, README, receipts, evidence index, build log, and memory.
+- Keep the claim narrow: captured X post, not verified OpenAI readership.
+
+Learnings:
+
+- Public X payload exposed pinned tweet `2050930949928452494`.
+- The post was created on 2026-05-03 at 13:30:17 UTC and linked the repo plus GitHub Pages site.
+- Public counters in the payload showed 2 replies, 0 reposts, 0 quotes, 2 likes, and 3 bookmarks.
+
+Next session:
+
+- Capture LinkedIn post URL and DM notes from logged-in surfaces.
+- If no warm reply exists, route through the warm-intro brief before broader second-wave notes.

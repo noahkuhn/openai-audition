@@ -59,6 +59,6 @@ The clearest product feedback from the workflow is tracked in [CODEX_FEEDBACK.md
 
 - Site and repo are live.
 - Application submitted to AI Deployment Engineer - Codex; receipt verified in local Mail on 2026-05-06.
-- Initial distribution started: two DMs sent, one LinkedIn post published, and an X thread for the original project already posted.
+- Initial distribution started: two DMs sent, one LinkedIn post published, and an X launch post captured at <https://x.com/noahbkuhn/status/2050930949928452494>.
 - Track replies, profile visits, shares, recruiter responses, and warm-routing offers before building more.
 - Use actual response as the signal for whether to add a deeper proof object or a tighter follow-up thread.

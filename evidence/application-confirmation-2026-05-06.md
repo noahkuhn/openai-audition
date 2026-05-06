@@ -31,7 +31,7 @@ Searches:
 
 - This verifies that the first OpenAI application was received.
 - This does not verify a recruiter reply, warm intro, interview, offer, or hiring movement.
-- The LinkedIn post URL, X thread URL, and two DM details remain uncaptured in this repo.
+- The LinkedIn post URL and two DM details remain uncaptured in this repo.
 - Do not repeat the initial application or original launch steps because the application receipt is now verified.
 
 ## Planning Implication

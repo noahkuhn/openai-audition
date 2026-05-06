@@ -9,9 +9,9 @@ As of Noah's 2026-05-05 update plus the 2026-05-06 local Mail check:
 - Application: submitted; receipt verified in local Mail on 2026-05-06.
 - DMs: two sent.
 - LinkedIn: one post published.
-- X: original-project thread already posted.
+- X: launch post captured on 2026-05-06.
 
-Treat the application receipt as verified. Treat the DMs, LinkedIn post, and X thread as user-reported until links, screenshots, or private notes are captured.
+Treat the application receipt and X launch post as verified. Treat the DMs and LinkedIn post as user-reported until links, screenshots, or private notes are captured.
 
 ## Signal Checks
 
@@ -58,7 +58,6 @@ Interpretation:
 Fast capture checklist:
 
 - LinkedIn post URL.
-- X thread URL.
 - Names or categories for the two DMs, kept private if needed.
 - Any replies, reactions, profile visits, intro offers, or recruiter messages.
 
@@ -85,7 +84,7 @@ Interpretation:
 
 - The application receipt is now verified.
 - No recruiter response, warm intro, interview, or offer is verified.
-- LinkedIn, X, and DM receipts remain uncaptured.
+- At that point, LinkedIn, X, and DM receipts remained uncaptured. The X launch post was captured later in this tracker.
 
 Evidence:
 
@@ -117,6 +116,30 @@ Interpretation:
 - No recruiter response, warm intro, interview, offer, or OpenAI-adjacent reply is verified.
 - GitHub clone traffic increased materially on 2026-05-05, and `t.co` referrer traffic suggests some X-driven traffic, but neither proves OpenAI interest.
 - The next non-repetitive move is still direct capture of LinkedIn/X/DM surfaces or warm-intro routing, not another application.
+
+### 2026-05-06 X Launch Post Capture
+
+Public X payload:
+
+- X post: <https://x.com/noahbkuhn/status/2050930949928452494>
+- Profile: `Noah Kuhn` / `@noahbkuhn`
+- Followers shown: 74
+- Pinned tweet id: `2050930949928452494`
+- Post created at: 2026-05-03 13:30:17 UTC
+- Expanded links:
+  - <https://github.com/noahkuhn/openai-audition>
+  - <https://noahkuhn.github.io/openai-audition/>
+- Public counters in the payload: 2 replies, 0 reposts, 0 quotes, 2 likes, 3 bookmarks.
+
+Interpretation:
+
+- The X launch post URL is now captured.
+- This helps explain the `t.co` referrer in GitHub traffic, but it does not prove OpenAI readership.
+- LinkedIn post URL and two DM details remain uncaptured.
+
+Evidence:
+
+- [X launch post capture](../evidence/x-launch-post-2026-05-06.md)
 
 ## What To Watch
 
@@ -158,7 +181,7 @@ Do not build a large new app.
 Run a second wave:
 
 - Ask up to three credible warm contacts to forward [warm-intro-brief.md](warm-intro-brief.md).
-- Capture the public post links and private DM notes.
+- Capture the LinkedIn post link and private DM notes.
 - Send 6-8 more targeted notes using [second-wave-packet.md](second-wave-packet.md), not a generic blast.
 - Publish one tighter follow-up around what Codex got wrong while trying to get Noah hired.
 - Add one stronger proof artifact only if it creates a sharper reply hook.
