@@ -486,3 +486,29 @@ Next session:
 
 - Stop adding repo artifacts unless new role facts change or a real OpenAI signal appears.
 - Use warm-intro or second-wave execution after checking actual inbox/social/DM surfaces.
+
+## 2026-05-06 - Session 19: Application Confirmation Mail Check
+
+Context:
+
+- Noah asked Codex to fix Gmail auth and continue.
+- The Gmail connector still returned an expired-token error from the available tool surface.
+- The current CLI/plugin surface did not expose a connector re-auth command.
+
+Decisions:
+
+- Use local Apple Mail search as the fallback evidence source instead of blocking on connector auth.
+- Add `evidence/application-confirmation-2026-05-06.md`.
+- Update the tracker, case file, application, receipts, README, and evidence index so the application receipt is verified without claiming hiring movement.
+
+Learnings:
+
+- Local Mail showed one current OpenAI application receipt from `OpenAI Hiring Team` in `noahkuhn@gmail.com`.
+- The receipt was dated 2026-05-03 with subject `Thank you for applying to OpenAI`.
+- No recruiter response, warm intro, interview, or offer was verified.
+
+Next session:
+
+- Reconnect Gmail connector auth if connector-based mailbox access is required.
+- Check LinkedIn, X, and DMs directly before executing second-wave outreach.
+- Use warm-intro routing first if a credible route appears.

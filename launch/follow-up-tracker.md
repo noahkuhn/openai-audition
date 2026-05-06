@@ -4,14 +4,14 @@ This file starts after the first application/distribution wave.
 
 ## Current State
 
-As of Noah's 2026-05-05 update:
+As of Noah's 2026-05-05 update plus the 2026-05-06 local Mail check:
 
-- Application: submitted.
+- Application: submitted; receipt verified in local Mail on 2026-05-06.
 - DMs: two sent.
 - LinkedIn: one post published.
 - X: original-project thread already posted.
 
-Treat those as user-reported until links or screenshots are captured.
+Treat the application receipt as verified. Treat the DMs, LinkedIn post, and X thread as user-reported until links, screenshots, or private notes are captured.
 
 ## Signal Checks
 
@@ -52,16 +52,44 @@ Public post checks:
 
 Interpretation:
 
-- The accessible tools still cannot verify the application confirmation, the LinkedIn post, the X thread, or DMs.
+- At that point, the accessible tools still could not verify the application confirmation, the LinkedIn post, the X thread, or DMs.
 - This is a capture gap, not a failure signal.
 
 Fast capture checklist:
 
-- Application confirmation timestamp or screenshot.
 - LinkedIn post URL.
 - X thread URL.
 - Names or categories for the two DMs, kept private if needed.
 - Any replies, reactions, profile visits, intro offers, or recruiter messages.
+
+### 2026-05-06 Application Confirmation Check
+
+Gmail connector status:
+
+- The Gmail connector still returned an expired-token error from the available tool surface.
+- The current CLI/plugin surface did not expose a connector re-auth command.
+- Codex used local Apple Mail search across All Inboxes as the fallback evidence source.
+
+Local Mail findings:
+
+- `"OpenAI Hiring Team"` surfaced one visible application receipt.
+- Sender: `OpenAI Hiring Team`.
+- Mailbox: `noahkuhn@gmail.com`.
+- Date: 2026-05-03.
+- Subject: `Thank you for applying to OpenAI`.
+- Summary shown in Mail: application received; recruiting team will review; the message points to OpenAI hiring philosophy and interview-process information.
+- `ashby OpenAI` returned no visible results.
+- `OpenAI recruiter` returned multiple results, but the only current relevant OpenAI hiring item visible was the application receipt.
+
+Interpretation:
+
+- The application receipt is now verified.
+- No recruiter response, warm intro, interview, or offer is verified.
+- LinkedIn, X, and DM receipts remain uncaptured.
+
+Evidence:
+
+- [Application confirmation mail check](../evidence/application-confirmation-2026-05-06.md)
 
 ## What To Watch
 
@@ -103,7 +131,7 @@ Do not build a large new app.
 Run a second wave:
 
 - Ask up to three credible warm contacts to forward [warm-intro-brief.md](warm-intro-brief.md).
-- Capture the application confirmation and public post links.
+- Capture the public post links and private DM notes.
 - Send 6-8 more targeted notes using [second-wave-packet.md](second-wave-packet.md), not a generic blast.
 - Publish one tighter follow-up around what Codex got wrong while trying to get Noah hired.
 - Add one stronger proof artifact only if it creates a sharper reply hook.

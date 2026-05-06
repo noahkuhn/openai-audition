@@ -19,9 +19,9 @@ Live surfaces:
 - Site: <https://noahkuhn.github.io/openai-audition/>
 - Repo: <https://github.com/noahkuhn/openai-audition>
 
-Application/outreach state as of 2026-05-05:
+Application/outreach state as of 2026-05-06:
 
-- Application submitted.
+- Application submitted; receipt verified in local Mail on 2026-05-06.
 - Two DMs sent.
 - One LinkedIn post published.
 - One X thread for the original project posted.

@@ -30,6 +30,7 @@ That is why this should matter to OpenAI: it shows what Codex looks like when it
 8. The repo was published under Noah's GitHub account and deployed through GitHub Pages.
 9. Noah challenged Codex for overbuilding; that correction became a central proof point.
 10. Noah applied to the first Codex role and started distribution through DMs, LinkedIn, and an existing X thread.
+11. Codex verified the OpenAI application receipt in local Mail after the Gmail connector remained expired.
 
 ## What To Inspect First
 
@@ -76,6 +77,7 @@ See [OPENAI_FIT.md](OPENAI_FIT.md).
 - Public site: <https://noahkuhn.github.io/openai-audition/>
 - Live verification on 2026-05-05: repo, GitHub Pages site, Open Graph image, and primary OpenAI Codex role page were reachable.
 - Role surface recheck on 2026-05-06: official OpenAI Codex search still showed 23 Codex-related roles and the primary AI Deployment Engineer - Codex page still had an apply link.
+- Application receipt verified on 2026-05-06 through local Mail: `OpenAI Hiring Team`, `Thank you for applying to OpenAI`, dated 2026-05-03.
 - Commit `4ec87e2`: initial public audition scaffold.
 - Commit `46ab3ed`: lifecycle-first evidence architecture.
 - Commit `ef6c343`: recentered audition around OpenAI outreach.
@@ -99,10 +101,18 @@ See [OPENAI_FIT.md](OPENAI_FIT.md).
 - Receipt 011: post-application distribution state.
 - Receipt 012: narrow signal check.
 - Receipt 013: contact surface availability check.
+- Receipt 014: adjacent role routing map.
+- Receipt 015: Codex product feedback memo.
+- Receipt 016: homepage current-state update.
+- Receipt 017: second-wave packet.
+- Receipt 018: warm intro brief.
+- Receipt 019: role surface recheck.
+- Receipt 020: application confirmation mail check.
 - Decision Record 001: [The project is the public audition](evidence/decision-record-001-public-audition.md).
 - Evidence 006: [Live launch verification](evidence/live-launch-verification-2026-05-05.md).
 - Evidence 007: [Post-application distribution state](evidence/post-application-distribution-2026-05-05.md).
 - Evidence 008: [Role surface recheck](evidence/role-surface-recheck-2026-05-06.md).
+- Evidence 009: [Application confirmation mail check](evidence/application-confirmation-2026-05-06.md).
 - Product feedback memo: [CODEX_FEEDBACK.md](CODEX_FEEDBACK.md).
 
 ## What This Is Not
@@ -133,9 +143,9 @@ If this is the kind of user behavior Codex should enable, I want to talk to the 
 
 ## What Still Needs To Become Stronger
 
-- Capture the application confirmation, LinkedIn post URL, X thread URL, and DM recipients if Noah wants them in the public or private evidence trail.
-- Check the actual `hey@noahkuhn.com` application/contact inbox before concluding there is no email signal.
-- Treat uncaptured LinkedIn/X/DM/application details as evidence gaps, not completed public receipts.
+- Capture the LinkedIn post URL, X thread URL, and DM recipients if Noah wants them in the public or private evidence trail.
+- Reconnect Gmail connector auth or check the actual application/contact inbox directly before concluding there is no email signal beyond the application receipt.
+- Treat uncaptured LinkedIn/X/DM details as evidence gaps, not completed public receipts.
 - Track replies and route any warm signal into the shortest next conversation.
 - Use [launch/warm-intro-brief.md](launch/warm-intro-brief.md) when someone can forward the project to an OpenAI/Codex person.
 - Use [launch/role-routing.md](launch/role-routing.md) before choosing a second application target.

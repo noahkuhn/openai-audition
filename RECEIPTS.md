@@ -734,6 +734,44 @@ Public artifact:
 
 - [evidence/role-surface-recheck-2026-05-06.md](evidence/role-surface-recheck-2026-05-06.md)
 
+## Receipt 020 - Application Confirmation Mail Check
+
+Date: 2026-05-06
+
+Type: Application receipt verification
+
+Claim:
+
+- The first OpenAI application was received.
+
+Why it matters:
+
+- The repo had correctly treated application status as user-reported. The public trail can now distinguish a verified application receipt from unverified social/DM receipts and from actual hiring signal.
+
+Evidence:
+
+- Local Apple Mail search across All Inboxes found one visible application receipt from `OpenAI Hiring Team`.
+- The receipt was in `noahkuhn@gmail.com`, dated 2026-05-03, with subject `Thank you for applying to OpenAI`.
+- The Gmail connector still returned an expired-token error, so local Mail was used as the fallback evidence source.
+
+Human role:
+
+- Noah submitted the application and asked Codex to fix Gmail auth and continue from the real current state.
+
+Codex role:
+
+- Codex verified the local receipt, preserved the connector-auth limitation, and updated the follow-up plan without repeating completed first-wave actions.
+
+Outcome:
+
+- Application receipt is verified.
+- No recruiter response, warm intro, interview, or offer is verified.
+- LinkedIn, X, and DM receipts remain uncaptured.
+
+Public artifact:
+
+- [evidence/application-confirmation-2026-05-06.md](evidence/application-confirmation-2026-05-06.md)
+
 ## Receipt Template
 
 ```text

@@ -187,3 +187,12 @@
 - Refactor backlog: Re-check role pages again only before sending a role-specific adjacent application or if OpenAI changes the careers surface.
 - Reliability backlog: Do not treat role availability as hiring progress; it only validates routing.
 - Next session: Execute warm-intro or second-wave outreach only after real inbox/social checks; otherwise wait for user-provided signal.
+
+## 2026-05-06 - Application Confirmation Mail Check
+
+- Decisions: Use local Apple Mail search as the fallback evidence source because the Gmail connector still returned an expired-token error and no connector re-auth command was exposed in the current tool surface.
+- Decisions: Add `evidence/application-confirmation-2026-05-06.md` and update the tracker, case file, application, receipts, README, evidence index, build log, and memory.
+- Learnings: Local Mail verified one OpenAI application receipt from `OpenAI Hiring Team` in `noahkuhn@gmail.com`, dated 2026-05-03, subject `Thank you for applying to OpenAI`.
+- Refactor backlog: Reconnect Gmail connector auth if connector-based mailbox access is needed again.
+- Reliability backlog: Do not treat the application receipt as recruiter interest, warm signal, interview progress, or an offer.
+- Next session: Check LinkedIn, X, and DMs directly before executing second-wave outreach; use warm-intro routing first if a credible route appears.

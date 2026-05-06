@@ -15,7 +15,6 @@ These actions are useful state for planning, but they are not fully evidenced in
 
 Missing receipts:
 
-- application confirmation or timestamp,
 - LinkedIn post URL,
 - X thread URL,
 - DM recipient list or private notes,
@@ -54,7 +53,19 @@ Additional checks:
 Interpretation:
 
 - The remaining gap is evidence capture, not a reason to re-launch.
-- Noah needs to provide or capture the application confirmation, public post URLs, DM recipients or private notes, and any response signal if those should become part of the trail.
+- Noah needs to provide or capture the public post URLs, DM recipients or private notes, and any response signal if those should become part of the trail.
+
+## Application Confirmation Update - 2026-05-06
+
+Codex later verified the application receipt through local Apple Mail search after the Gmail connector remained expired.
+
+- Sender: `OpenAI Hiring Team`
+- Mailbox: `noahkuhn@gmail.com`
+- Date: 2026-05-03
+- Subject: `Thank you for applying to OpenAI`
+- Evidence: [Application confirmation mail check](application-confirmation-2026-05-06.md)
+
+This verifies receipt of the first application. It does not verify a recruiter response, warm intro, interview, or offer.
 
 ## Planning Implication
 
