@@ -217,6 +217,7 @@ Do not build a large new app.
 Run a second wave:
 
 - Ask up to three credible warm contacts to forward [warm-intro-brief.md](warm-intro-brief.md).
+- Use [warm-routing-shortlist.md](warm-routing-shortlist.md) to route toward Codex Technical Success, Codex App workflow, Codex Core Agent, data/product measurement, or plugins/skills lanes.
 - Capture the LinkedIn post link and private DM notes.
 - Send 6-8 more targeted notes using [second-wave-packet.md](second-wave-packet.md), not a generic blast.
 - Publish one tighter follow-up around what Codex got wrong while trying to get Noah hired.

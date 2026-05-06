@@ -8,6 +8,8 @@ Do not use this as a substitute for checking replies.
 
 If a credible warm-intro route exists, use [warm-intro-brief.md](warm-intro-brief.md) before sending cold or semi-warm second-wave notes.
 
+Use [warm-routing-shortlist.md](warm-routing-shortlist.md) before choosing recipients.
+
 ## Send Gate
 
 Send only if all of these are true:
@@ -52,6 +54,8 @@ Priority order:
 2. Codex app or agent-workflow engineers who would care about correction loops, evidence, state, and handoff.
 3. OpenAI recruiting or hiring partners attached to Codex, Applied AI, or deployment roles.
 4. Builder amplifiers who can route the case study to OpenAI people with credibility.
+
+The detailed lane map is [warm-routing-shortlist.md](warm-routing-shortlist.md).
 
 Skip:
 

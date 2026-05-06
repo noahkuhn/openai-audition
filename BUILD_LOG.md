@@ -607,3 +607,26 @@ Next session:
 
 - Use this hook only after checking for direct replies, or when a credible warm route asks what to forward.
 - Continue treating LinkedIn and DM details as uncaptured until directly verified.
+
+## 2026-05-06 - Session 24: Warm Routing Shortlist
+
+Context:
+
+- The warm-intro and second-wave assets had a current Codex hook.
+- They still lacked a precise public lane map for routing through a mutual contact.
+
+Decisions:
+
+- Add `launch/warm-routing-shortlist.md`.
+- Base the lane map on official OpenAI Codex release, Academy, and careers surfaces checked on 2026-05-06.
+- Link it from README, warm-intro brief, second-wave packet, and follow-up tracker.
+
+Learnings:
+
+- Official Codex careers search showed 22 Codex roles across Technical Success, Codex Engineering, Data Science, Growth, Marketing, Research, Security, Codex App, Codex Cloud, Codex Core Agents, and Codex Ecosystem & Enterprise.
+- The highest-leverage routing lanes are Codex Technical Success, Codex App workflow UX, Codex Core Agent feedback loops, Codex data/product measurement, and plugins/skills/ecosystem.
+
+Next session:
+
+- Use this map to ask for a specific warm route instead of asking for "anyone at OpenAI."
+- Do not send outreach without checking logged-in social/DM surfaces or receiving explicit approval.

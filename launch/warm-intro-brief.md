@@ -8,6 +8,8 @@ Use this when a friend, colleague, investor, builder, recruiter, or OpenAI-adjac
 
 Do not use this as a cold blast. Use [second-wave-packet.md](second-wave-packet.md) for cold or semi-warm second-wave notes.
 
+Use [warm-routing-shortlist.md](warm-routing-shortlist.md) to choose the right Codex lane before asking someone to forward this.
+
 ## The Ask
 
 ```text

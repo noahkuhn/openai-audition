@@ -232,3 +232,12 @@
 - Refactor backlog: If OpenAI publishes a newer Codex release or role-surface change, refresh the hook before sending a second wave.
 - Reliability backlog: Keep the hook grounded in observed workflow evidence and official public OpenAI language.
 - Next session: Use this hook only after direct reply checks or when a credible warm route asks what to forward.
+
+## 2026-05-06 - Warm Routing Shortlist
+
+- Decisions: Add `launch/warm-routing-shortlist.md` and link it from README, warm-intro brief, second-wave packet, and follow-up tracker.
+- Decisions: Base the routing map on official OpenAI Codex release, Academy, and careers surfaces checked on 2026-05-06.
+- Learnings: Official Codex careers search showed 22 Codex roles; the best routing lanes are Codex Technical Success, Codex App workflow UX, Codex Core Agent feedback loops, data/product measurement, and plugins/skills/ecosystem.
+- Refactor backlog: Refresh this shortlist if OpenAI role surfaces or Codex public positioning changes before outreach.
+- Reliability backlog: Use this as a lane map, not as proof of OpenAI interest or permission to spray unrelated employees.
+- Next session: Ask for a specific warm route using this map only after direct reply checks or explicit approval.
