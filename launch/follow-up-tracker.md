@@ -141,6 +141,28 @@ Evidence:
 
 - [X launch post capture](../evidence/x-launch-post-2026-05-06.md)
 
+### 2026-05-06 Public Attention Path Check
+
+X public payload:
+
+- The public post payload still exposed the original X post and aggregate counters.
+- It did not expose the two replies as separate reply text or reply authors in the logged-out payload.
+- Treat the reply count as an attention hint, not a usable routing signal.
+
+GitHub popular paths:
+
+- `/blob/main/APPLICATION.md`: 19 views from 3 unique visitors.
+- `/blob/main/launch/x-thread-draft.md`: 16 views from 3 unique visitors.
+- `/blob/main/RECEIPTS.md`: 6 views from 3 unique visitors.
+- `/tree/main/launch`: 5 views from 3 unique visitors.
+- Repo overview: 2 views from 2 unique visitors.
+
+Interpretation:
+
+- The application and X-thread draft are the most-inspected repo paths visible through GitHub traffic.
+- This suggests the public pitch and social copy are doing some work.
+- It still does not prove OpenAI readership, recruiter interest, a warm intro, interview, or offer.
+
 ## What To Watch
 
 - OpenAI recruiter reply.

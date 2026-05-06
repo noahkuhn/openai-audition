@@ -561,3 +561,26 @@ Next session:
 
 - Capture LinkedIn post URL and DM notes from logged-in surfaces.
 - If no warm reply exists, route through the warm-intro brief before broader second-wave notes.
+
+## 2026-05-06 - Session 22: Public Attention Path Check
+
+Context:
+
+- X post URL was captured, but the public payload only showed aggregate reply count.
+- GitHub traffic could still show which repo paths were inspected.
+
+Decisions:
+
+- Record the public attention path check in `launch/follow-up-tracker.md`.
+- Treat path traffic as public attention only, not OpenAI-specific signal.
+
+Learnings:
+
+- Logged-out X payload did not expose the two replies as separate reply text or authors.
+- GitHub popular paths showed `APPLICATION.md` with 19 views from 3 uniques and `launch/x-thread-draft.md` with 16 views from 3 uniques.
+- `RECEIPTS.md`, `/launch`, and the repo overview also had smaller visible traffic.
+
+Next session:
+
+- Directly inspect logged-in X/LinkedIn/DM surfaces only with explicit approval.
+- If those surfaces do not show warm signal, use the warm-intro brief first.

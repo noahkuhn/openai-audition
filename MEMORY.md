@@ -214,3 +214,12 @@
 - Refactor backlog: Capture LinkedIn post URL and DM notes from logged-in surfaces.
 - Reliability backlog: Do not overread `t.co` traffic or X counters as OpenAI-specific signal.
 - Next session: Use warm-intro routing before broader second-wave notes if no direct reply is found.
+
+## 2026-05-06 - Public Attention Path Check
+
+- Decisions: Record the X reply visibility and GitHub popular-path check inside `launch/follow-up-tracker.md`.
+- Decisions: Treat path traffic as public attention only, not OpenAI-specific signal.
+- Learnings: Logged-out X payload did not expose the two replies as separate reply text or authors; GitHub popular paths showed `APPLICATION.md` with 19 views from 3 uniques and `launch/x-thread-draft.md` with 16 views from 3 uniques.
+- Refactor backlog: Capture reply authors, LinkedIn post URL, and DM notes only from logged-in surfaces with explicit approval.
+- Reliability backlog: Do not infer identity or hiring interest from GitHub path traffic.
+- Next session: If no logged-in social/DM signal is available, use the warm-intro brief before broader second-wave notes.
