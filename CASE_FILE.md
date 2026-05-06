@@ -75,6 +75,7 @@ See [OPENAI_FIT.md](OPENAI_FIT.md).
 - Public repo: <https://github.com/noahkuhn/openai-audition>
 - Public site: <https://noahkuhn.github.io/openai-audition/>
 - Live verification on 2026-05-05: repo, GitHub Pages site, Open Graph image, and primary OpenAI Codex role page were reachable.
+- Role surface recheck on 2026-05-06: official OpenAI Codex search still showed 23 Codex-related roles and the primary AI Deployment Engineer - Codex page still had an apply link.
 - Commit `4ec87e2`: initial public audition scaffold.
 - Commit `46ab3ed`: lifecycle-first evidence architecture.
 - Commit `ef6c343`: recentered audition around OpenAI outreach.
@@ -101,6 +102,7 @@ See [OPENAI_FIT.md](OPENAI_FIT.md).
 - Decision Record 001: [The project is the public audition](evidence/decision-record-001-public-audition.md).
 - Evidence 006: [Live launch verification](evidence/live-launch-verification-2026-05-05.md).
 - Evidence 007: [Post-application distribution state](evidence/post-application-distribution-2026-05-05.md).
+- Evidence 008: [Role surface recheck](evidence/role-surface-recheck-2026-05-06.md).
 - Product feedback memo: [CODEX_FEEDBACK.md](CODEX_FEEDBACK.md).
 
 ## What This Is Not

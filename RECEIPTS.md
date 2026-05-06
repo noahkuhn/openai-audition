@@ -698,6 +698,42 @@ Public artifact:
 
 - [launch/warm-intro-brief.md](launch/warm-intro-brief.md)
 
+## Receipt 019 - Role Surface Recheck
+
+Date: 2026-05-06
+
+Type: Official role-surface verification
+
+Claim:
+
+- The primary OpenAI/Codex role surface is still live enough to support warm-intro and second-wave routing.
+
+Why it matters:
+
+- Role pages can change. The public case should not route people toward stale OpenAI claims or adjacent-role choices.
+
+Evidence:
+
+- Official OpenAI Careers search still showed 23 Codex-related roles on 2026-05-06.
+- The primary `AI Deployment Engineer- Codex` page still returned with an apply link, `Technical Success - Remote - US`, and compensation shown.
+- `OPENAI_FIT.md` and `launch/role-routing.md` now reference the 2026-05-06 recheck.
+
+Human role:
+
+- Noah had already submitted the primary application and started distribution.
+
+Codex role:
+
+- Codex rechecked the official OpenAI role surfaces and recorded the current routing evidence.
+
+Outcome:
+
+- Warm-intro and second-wave routing can keep AI Deployment Engineer - Codex as the primary target while using adjacent roles only deliberately.
+
+Public artifact:
+
+- [evidence/role-surface-recheck-2026-05-06.md](evidence/role-surface-recheck-2026-05-06.md)
+
 ## Receipt Template
 
 ```text

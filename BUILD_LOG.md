@@ -463,3 +463,26 @@ Next session:
 
 - If a credible warm contact exists, use the warm-intro brief before sending the second-wave packet.
 - If no warm route exists and signal remains cold, execute the gated second-wave packet.
+
+## 2026-05-06 - Session 18: Role Surface Recheck
+
+Context:
+
+- The repo had warm-intro and second-wave routing assets ready.
+- The next real-world action depends on current OpenAI role facts because role pages can change.
+
+Decisions:
+
+- Recheck official OpenAI Codex search and the primary AI Deployment Engineer - Codex page.
+- Add `evidence/role-surface-recheck-2026-05-06.md`.
+- Update `OPENAI_FIT.md` and `launch/role-routing.md` from 2026-05-05 to 2026-05-06.
+
+Learnings:
+
+- The official Codex search still showed 23 Codex-related jobs.
+- The primary submitted AI Deployment Engineer - Codex role was still live with an apply link.
+
+Next session:
+
+- Stop adding repo artifacts unless new role facts change or a real OpenAI signal appears.
+- Use warm-intro or second-wave execution after checking actual inbox/social/DM surfaces.

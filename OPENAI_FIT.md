@@ -1,6 +1,6 @@
 # OpenAI Fit
 
-Current as of 2026-05-05. Re-check OpenAI Careers before applying or publishing role-specific claims.
+Current as of 2026-05-06. Re-check OpenAI Careers before applying or publishing role-specific claims.
 
 ## Primary Target
 
@@ -22,7 +22,7 @@ The product/deployment feedback from the workflow is captured in [CODEX_FEEDBACK
 
 ## Current Role Surfaces
 
-OpenAI's careers site showed 23 Codex-related roles on 2026-05-05, including:
+OpenAI's careers site showed 23 Codex-related roles on 2026-05-06, including:
 
 - AI Deployment Engineer - Codex Technical Success
 - Applied AI Engineer, Codex Core Agent
@@ -42,6 +42,7 @@ OpenAI's careers site showed 23 Codex-related roles on 2026-05-05, including:
 Source:
 
 - <https://openai.com/careers/search/?q=codex>
+- [Role surface recheck - 2026-05-06](evidence/role-surface-recheck-2026-05-06.md)
 
 ## Best First Fits
 

@@ -178,3 +178,12 @@
 - Refactor backlog: If a real warm route appears, record the route category and outcome in the follow-up tracker without exposing private details.
 - Reliability backlog: Do not name private contacts in the public repo unless the user explicitly approves.
 - Next session: Use the warm-intro brief for up to three credible routes before broader second-wave notes.
+
+## 2026-05-06 - Role Surface Recheck
+
+- Decisions: Add `evidence/role-surface-recheck-2026-05-06.md` after checking the official OpenAI Codex careers search and primary AI Deployment Engineer - Codex page.
+- Decisions: Update `OPENAI_FIT.md` and `launch/role-routing.md` to current-as-of 2026-05-06.
+- Learnings: Official OpenAI search still showed 23 Codex-related jobs and the primary submitted role still had an apply link.
+- Refactor backlog: Re-check role pages again only before sending a role-specific adjacent application or if OpenAI changes the careers surface.
+- Reliability backlog: Do not treat role availability as hiring progress; it only validates routing.
+- Next session: Execute warm-intro or second-wave outreach only after real inbox/social checks; otherwise wait for user-provided signal.
