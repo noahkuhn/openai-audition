@@ -415,3 +415,28 @@ Next session:
 
 - Verify the deployed GitHub Pages homepage after push.
 - If no warm signal appears, send one second-wave note using the Codex feedback memo as the hook.
+
+## 2026-05-06 - Session 16: Second-Wave Packet
+
+Context:
+
+- The application, initial DMs, LinkedIn post, and original X thread were already done.
+- The accessible runtime could not verify the actual `hey@noahkuhn.com` inbox, LinkedIn post, X thread content, or DM replies.
+- The useful next artifact was not more repo polish; it was a bounded packet for the first no-signal follow-up.
+
+Decisions:
+
+- Add `launch/second-wave-packet.md`.
+- Require a send gate: check actual inbox/social/DM surfaces before sending.
+- Use `CODEX_FEEDBACK.md` as the second-wave hook because it is more useful to Codex readers than another launch pitch.
+- Add a stop rule after one credible reply/intro/recruiter response or 8 targeted notes.
+
+Learnings:
+
+- The second wave should sell product signal, not neediness.
+- The packet needs to be executable, but gated, so it does not repeat Codex's stale-next-step failure.
+
+Next session:
+
+- Use the packet only after the real signal check.
+- If a warm reply appears, ignore the packet and route through the person.

@@ -158,3 +158,13 @@
 - Refactor backlog: After GitHub Pages deploys, visually verify the homepage on desktop and mobile.
 - Reliability backlog: Keep application/social/DM proof labeled user-reported until the exact receipts are captured.
 - Next session: Use the Codex feedback memo as the follow-up hook only if the first wave remains cold.
+
+## 2026-05-06 - Second-Wave Packet
+
+- Decisions: Add `launch/second-wave-packet.md` as the bounded no-signal follow-up packet.
+- Decisions: Gate the packet on actual inbox, LinkedIn, X, and DM checks so it does not repeat completed launch work.
+- Decisions: Use `CODEX_FEEDBACK.md` as the second-wave hook and stop after one credible reply/intro/recruiter response or 8 targeted notes.
+- Learnings: The next distribution move should sell Codex product signal, not ask again generically.
+- Refactor backlog: If the user captures the real public post URLs, add them to the follow-up tracker before sending.
+- Reliability backlog: Do not execute the packet until actual response surfaces are checked.
+- Next session: If signal is cold after the real check, send 6-8 targeted notes from the packet; if warm, route through the person.

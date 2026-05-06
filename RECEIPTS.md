@@ -627,6 +627,41 @@ Public artifacts:
 - [index.html](index.html)
 - [README.md](README.md)
 
+## Receipt 017 - Second-Wave Packet
+
+Date: 2026-05-06
+
+Type: Follow-up routing artifact
+
+Claim:
+
+- The repo now has a send-ready second-wave packet that does not repeat the completed application or launch steps.
+
+Why it matters:
+
+- If the first wave stays cold, the next move should be a constrained Codex-feedback follow-up, not more generic outreach or another broad application push.
+
+Evidence:
+
+- `launch/second-wave-packet.md` defines the send gate, target order, short DM, OpenAI product/engineer note, recruiter note, public follow-up post, reply handling, and stop rule.
+- `launch/follow-up-tracker.md` now points second-wave execution to the packet.
+
+Human role:
+
+- Noah supplied the current-state correction: application, two DMs, LinkedIn, and original X thread were already done.
+
+Codex role:
+
+- Codex converted the current state and product-feedback memo into a bounded follow-up packet.
+
+Outcome:
+
+- The next distribution move is ready if signal remains weak, while still requiring an inbox/social check before sending.
+
+Public artifact:
+
+- [launch/second-wave-packet.md](launch/second-wave-packet.md)
+
 ## Receipt Template
 
 ```text

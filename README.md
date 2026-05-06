@@ -57,6 +57,7 @@ If yes, the application is not a PDF. The application is the trail.
 - [evidence](evidence) - curated public evidence.
 - [BUILD_LOG.md](BUILD_LOG.md) - chronological correction and execution trail.
 - [launch/follow-up-tracker.md](launch/follow-up-tracker.md) - active response tracking and second-wave rule.
+- [launch/second-wave-packet.md](launch/second-wave-packet.md) - send-ready follow-up packet if the first wave stays cold.
 - [launch/role-routing.md](launch/role-routing.md) - constrained adjacent role routing.
 - [launch/openai-outreach.md](launch/openai-outreach.md) - original targeted routing copy.
 

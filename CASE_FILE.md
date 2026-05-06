@@ -136,4 +136,4 @@ If this is the kind of user behavior Codex should enable, I want to talk to the 
 - Treat uncaptured LinkedIn/X/DM/application details as evidence gaps, not completed public receipts.
 - Track replies and route any warm signal into the shortest next conversation.
 - Use [launch/role-routing.md](launch/role-routing.md) before choosing a second application target.
-- Add a follow-up artifact only if the first distribution wave gets no signal or someone asks for deeper proof.
+- Use [launch/second-wave-packet.md](launch/second-wave-packet.md) only after checking the real inbox/social surfaces and finding no warm signal.
