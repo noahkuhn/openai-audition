@@ -1,6 +1,7 @@
 # Warm Routing Shortlist
 
 Date: 2026-05-06
+Updated: 2026-05-07
 
 Purpose: give a mutual contact a precise routing map for the public Codex audition.
 
@@ -8,7 +9,7 @@ This is not a cold-contact list. It is a lane map for asking, "who is the right 
 
 ## Public Basis
 
-Official OpenAI surfaces checked on 2026-05-06:
+Official OpenAI surfaces checked on 2026-05-06 and refreshed on 2026-05-07:
 
 - Codex release: <https://openai.com/index/codex-for-almost-everything/>
 - Codex careers search: <https://openai.com/careers/search/?q=codex>
@@ -17,7 +18,7 @@ Official OpenAI surfaces checked on 2026-05-06:
 - Data Scientist, Codex: <https://openai.com/careers/data-scientist-codex-san-francisco/>
 - Plugins and skills: <https://openai.com/academy/codex-plugins-and-skills/>
 
-The official Codex careers search showed 22 Codex roles across Technical Success, Codex Engineering, Data Science, Growth, Marketing, Research, Security, Codex App, Codex Cloud, Codex Core Agents, and Codex Ecosystem & Enterprise.
+The official Codex careers search showed 23 Codex roles on 2026-05-07 across Technical Success, Codex Engineering, Data Science, Growth, Marketing, Research, Security, Codex App, Codex Cloud, Codex Core Agents, and Codex Ecosystem & Enterprise.
 
 ## Routing Order
 
@@ -115,6 +116,7 @@ Forward:
 
 - [CODEX_FEEDBACK.md](../CODEX_FEEDBACK.md)
 - [evidence/application-confirmation-2026-05-06.md](../evidence/application-confirmation-2026-05-06.md)
+- [evidence/role-surface-refresh-2026-05-07.md](../evidence/role-surface-refresh-2026-05-07.md)
 - [launch/follow-up-tracker.md](follow-up-tracker.md)
 
 ### 6. Codex Growth / Product Marketing

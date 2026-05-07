@@ -219,6 +219,25 @@ Interpretation:
 - This is useful public-attention evidence only.
 - It still does not verify OpenAI readership, recruiter interest, a warm intro, interview, offer, or any actionable reply.
 
+### 2026-05-07 Role Surface Refresh
+
+Official OpenAI sources:
+
+- Codex careers search still showed 23 Codex jobs.
+- Total jobs shown on the search page changed to 659.
+- The AI Deployment Engineer - Codex page still returned with an apply link.
+- The Frontend Software Engineer, Codex App page still returned with an apply link and current role language around human-agent collaboration, long-running work, state, progress, uncertainty, handoffs, review, and control surfaces.
+
+Interpretation:
+
+- The submitted primary target remains live enough for routing.
+- Codex App remains the strongest adjacent lane if the response signal is about workflow UX or product engineering.
+- This is role-surface evidence, not hiring movement.
+
+Evidence:
+
+- [Role surface refresh - 2026-05-07](../evidence/role-surface-refresh-2026-05-07.md)
+
 ## What To Watch
 
 - OpenAI recruiter reply.

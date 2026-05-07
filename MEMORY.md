@@ -278,3 +278,12 @@
 - Refactor backlog: If the follow-up draft is published, replace prepared-state language with the final public URL and counters.
 - Reliability backlog: Keep the homepage from implying outreach happened before Noah approves or performs it.
 - Next session: Use the homepage as the public front door only after verifying it still matches the live tracker state.
+
+## 2026-05-07 - Role Surface Refresh
+
+- Decisions: Add `evidence/role-surface-refresh-2026-05-07.md` and update role/routing docs to current official OpenAI Careers state.
+- Decisions: Keep AI Deployment Engineer - Codex as the live primary routing lane and Codex App as the strongest adjacent workflow-UX lane.
+- Learnings: Official OpenAI Careers search showed 23 Codex jobs out of 659 total jobs; AI Deployment Engineer - Codex and Frontend Software Engineer, Codex App both still had apply links.
+- Refactor backlog: Refresh role surfaces again only before applying to a new adjacent role or publishing role-specific claims.
+- Reliability backlog: Do not treat role availability as OpenAI interest or hiring progress.
+- Next session: Use the refreshed facts only for warm routing or an approved follow-up.

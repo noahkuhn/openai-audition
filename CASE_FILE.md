@@ -77,7 +77,7 @@ See [OPENAI_FIT.md](OPENAI_FIT.md).
 - Public repo: <https://github.com/noahkuhn/openai-audition>
 - Public site: <https://noahkuhn.github.io/openai-audition/>
 - Live verification on 2026-05-05: repo, GitHub Pages site, Open Graph image, and primary OpenAI Codex role page were reachable.
-- Role surface recheck on 2026-05-06: official OpenAI Codex search still showed 23 Codex-related roles and the primary AI Deployment Engineer - Codex page still had an apply link.
+- Role surface refresh on 2026-05-07: official OpenAI Codex search still showed 23 Codex-related roles and the primary AI Deployment Engineer - Codex page still had an apply link.
 - Application receipt verified on 2026-05-06 through local Mail: `OpenAI Hiring Team`, `Thank you for applying to OpenAI`, dated 2026-05-03.
 - X launch post captured on 2026-05-06: <https://x.com/noahbkuhn/status/2050930949928452494>.
 - Commit `4ec87e2`: initial public audition scaffold.
@@ -111,12 +111,14 @@ See [OPENAI_FIT.md](OPENAI_FIT.md).
 - Receipt 019: role surface recheck.
 - Receipt 020: application confirmation mail check.
 - Receipt 021: X launch post capture.
+- Receipt 022: role surface refresh.
 - Decision Record 001: [The project is the public audition](evidence/decision-record-001-public-audition.md).
 - Evidence 006: [Live launch verification](evidence/live-launch-verification-2026-05-05.md).
 - Evidence 007: [Post-application distribution state](evidence/post-application-distribution-2026-05-05.md).
 - Evidence 008: [Role surface recheck](evidence/role-surface-recheck-2026-05-06.md).
 - Evidence 009: [Application confirmation mail check](evidence/application-confirmation-2026-05-06.md).
 - Evidence 010: [X launch post capture](evidence/x-launch-post-2026-05-06.md).
+- Evidence 011: [Role surface refresh](evidence/role-surface-refresh-2026-05-07.md).
 - Product feedback memo: [CODEX_FEEDBACK.md](CODEX_FEEDBACK.md).
 
 ## What This Is Not

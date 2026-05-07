@@ -811,6 +811,43 @@ Public artifact:
 
 - [evidence/x-launch-post-2026-05-06.md](evidence/x-launch-post-2026-05-06.md)
 
+## Receipt 022 - Role Surface Refresh
+
+Date: 2026-05-07
+
+Type: Official role-surface refresh
+
+Claim:
+
+- The primary AI Deployment Engineer - Codex target and key Codex adjacent lanes remain live enough for warm routing and follow-up language.
+
+Why it matters:
+
+- OpenAI role surfaces are live operational claims. The public audition should not route people using stale role counts or stale adjacent-lane evidence.
+
+Evidence:
+
+- Official OpenAI Careers search showed 23 Codex jobs out of 659 total jobs.
+- The `AI Deployment Engineer- Codex` page still returned with `Technical Success - Remote - US`, an apply link, and compensation shown.
+- The `Frontend Software Engineer, Codex App` page still returned with an apply link and role language about Codex App, IDE extension, human-agent collaboration, long-running work, state, progress, uncertainty, handoffs, review, and control surfaces.
+
+Human role:
+
+- Noah had already submitted the primary application and completed the first launch/outreach wave.
+
+Codex role:
+
+- Codex refreshed the official role surfaces and updated the routing docs without treating role availability as hiring progress.
+
+Outcome:
+
+- Warm routing can continue to prioritize Codex Technical Success / AI Deployment Engineering, with Codex App as an adjacent lane if the response signal is about workflow UX or human-agent control surfaces.
+- No recruiter response, warm intro, interview, offer, or OpenAI-specific readership is verified by this refresh.
+
+Public artifact:
+
+- [evidence/role-surface-refresh-2026-05-07.md](evidence/role-surface-refresh-2026-05-07.md)
+
 ## Receipt Template
 
 ```text

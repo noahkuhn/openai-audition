@@ -727,3 +727,27 @@ Next session:
 
 - If the draft is actually posted, replace prepared-state language with the final public URL and counters.
 - If a warm route appears first, keep the homepage focused on the case file and feedback memo instead of pushing another public post.
+
+## 2026-05-07 - Session 29: Role Surface Refresh
+
+Context:
+
+- The warm-routing shortlist still said the official Codex careers search showed 22 Codex roles.
+- Current official OpenAI Careers search showed 23 Codex jobs, and role-surface facts can go stale quickly.
+
+Decisions:
+
+- Add `evidence/role-surface-refresh-2026-05-07.md`.
+- Update `OPENAI_FIT.md`, `launch/role-routing.md`, `launch/warm-routing-shortlist.md`, `CASE_FILE.md`, `RECEIPTS.md`, `evidence/README.md`, and `launch/follow-up-tracker.md`.
+- Keep the interpretation narrow: role availability supports routing, not hiring movement.
+
+Learnings:
+
+- Official OpenAI Careers search showed 23 Codex jobs out of 659 total jobs.
+- The AI Deployment Engineer - Codex page still returned with `Technical Success - Remote - US`, an apply link, and compensation shown.
+- The Frontend Software Engineer, Codex App page still returned with an apply link and role language around human-agent collaboration, long-running work, state, progress, uncertainty, handoffs, review, and control surfaces.
+
+Next session:
+
+- Use the refreshed role surface only to route a warm intro or approved follow-up.
+- Do not apply to adjacent roles or send new outreach without direct signal checks or explicit approval.

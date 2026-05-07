@@ -1,6 +1,6 @@
 # Adjacent Role Routing
 
-Current as of 2026-05-06. Re-check OpenAI Careers before applying.
+Current as of 2026-05-07. Re-check OpenAI Careers before applying.
 
 Purpose: choose the next OpenAI/Codex routing path if the first AI Deployment Engineer - Codex application stalls.
 
@@ -21,6 +21,7 @@ Source:
 
 - <https://openai.com/careers/ai-deployment-engineer-codex-remote-us/>
 - [Role surface recheck - 2026-05-06](../evidence/role-surface-recheck-2026-05-06.md)
+- [Role surface refresh - 2026-05-07](../evidence/role-surface-refresh-2026-05-07.md)
 
 ## Best Adjacent Paths
 
