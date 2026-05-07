@@ -680,3 +680,27 @@ Next session:
 
 - Use the draft only once, preferably on the channel with the strongest first-wave response.
 - If a real warm signal appears first, route through the warm person instead of publishing.
+
+## 2026-05-07 - Session 27: Public GitHub Signal Check
+
+Context:
+
+- The follow-up post draft was published to the repo, but not sent or posted externally.
+- The remaining question was whether public GitHub signal had changed enough to affect the next move.
+
+Decisions:
+
+- Record the May 7 public GitHub signal check in `launch/follow-up-tracker.md`.
+- Treat clone growth as public attention only, not hiring movement.
+
+Learnings:
+
+- Repo status still showed 0 stars, 0 watchers, 0 forks, and 0 open issues.
+- Views stayed at 48 total from 5 uniques, with no visible daily views after 2026-05-03.
+- Clones rose to 361 total from 135 unique cloners, with 197 clones from 72 unique cloners on 2026-05-06.
+- Referrers remained `noahkuhn.github.io` and `t.co`; popular paths stayed concentrated on `APPLICATION.md`, `launch/x-thread-draft.md`, `RECEIPTS.md`, `/launch`, and repo overview.
+
+Next session:
+
+- Do not use clone growth as proof of OpenAI interest.
+- Continue only with a real response surface, a specific warm route, or approval to publish/send the prepared follow-up.

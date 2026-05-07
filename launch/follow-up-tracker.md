@@ -188,6 +188,37 @@ Interpretation:
 - This suggests the public pitch and social copy are doing some work.
 - It still does not prove OpenAI readership, recruiter interest, a warm intro, interview, or offer.
 
+### 2026-05-07 Public GitHub Signal Check
+
+Repo status:
+
+- Stars: 0.
+- Watchers: 0.
+- Forks: 0.
+- Open issues: 0.
+- Last pushed: 2026-05-07 12:07:33 UTC.
+
+Traffic:
+
+- Views remained 48 total from 5 unique visitors, with no visible daily views after 2026-05-03 in the GitHub traffic API window.
+- Clones rose to 361 total from 135 unique cloners.
+- 2026-05-06 showed 197 clones from 72 unique cloners.
+- Referrers remained `noahkuhn.github.io` with 46 views from 3 uniques and `t.co` with 2 views from 2 uniques.
+
+Popular paths:
+
+- `/blob/main/APPLICATION.md`: 19 views from 3 unique visitors.
+- `/blob/main/launch/x-thread-draft.md`: 16 views from 3 unique visitors.
+- `/blob/main/RECEIPTS.md`: 6 views from 3 unique visitors.
+- `/tree/main/launch`: 5 views from 3 unique visitors.
+- Repo overview: 2 views from 2 unique visitors.
+
+Interpretation:
+
+- Clone activity increased materially again, but the visible view/referrer/path data did not broaden.
+- This is useful public-attention evidence only.
+- It still does not verify OpenAI readership, recruiter interest, a warm intro, interview, offer, or any actionable reply.
+
 ## What To Watch
 
 - OpenAI recruiter reply.

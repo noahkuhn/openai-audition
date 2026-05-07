@@ -260,3 +260,12 @@
 - Refactor backlog: If the post is published, add the final public URL and counters to the follow-up tracker.
 - Reliability backlog: Do not present the draft as sent, and do not imply OpenAI has seen it.
 - Next session: Publish or adapt the draft only if no warmer direct route appears first.
+
+## 2026-05-07 - Public GitHub Signal Check
+
+- Decisions: Record the fresh GitHub traffic check in `launch/follow-up-tracker.md` without treating it as hiring movement.
+- Learnings: Repo status stayed at 0 stars, 0 watchers, 0 forks, and 0 open issues; views stayed 48 total from 5 uniques; clones rose to 361 total from 135 unique cloners, including 197 clones from 72 unique cloners on 2026-05-06.
+- Learnings: Referrers stayed `noahkuhn.github.io` and `t.co`, and popular paths stayed concentrated on `APPLICATION.md`, `launch/x-thread-draft.md`, `RECEIPTS.md`, `/launch`, and repo overview.
+- Refactor backlog: If GitHub identity, stars, issues, or external replies appear, capture them separately from aggregate traffic.
+- Reliability backlog: Do not infer OpenAI interest from aggregate clone growth.
+- Next session: Continue only with real response-surface evidence, a specific warm route, or approval to publish/send the prepared follow-up.
