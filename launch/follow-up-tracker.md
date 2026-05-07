@@ -4,7 +4,7 @@ This file starts after the first application/distribution wave.
 
 ## Current State
 
-As of Noah's 2026-05-05 update plus the 2026-05-06 local Mail check:
+As of Noah's 2026-05-05 update plus the latest local Mail checks:
 
 - Application: submitted; receipt verified in local Mail on 2026-05-06.
 - DMs: two sent.
@@ -12,6 +12,8 @@ As of Noah's 2026-05-05 update plus the 2026-05-06 local Mail check:
 - X: launch post captured on 2026-05-06.
 
 Treat the application receipt and X launch post as verified. Treat the DMs and LinkedIn post as user-reported until links, screenshots, or private notes are captured.
+
+Do not repeat the application, the two initial DMs, the LinkedIn launch post, or the X launch post. The useful work now is signal capture, warm routing, and one tighter follow-up if the checked surfaces are still cold.
 
 ## Signal Checks
 
@@ -89,6 +91,28 @@ Interpretation:
 Evidence:
 
 - [Application confirmation mail check](../evidence/application-confirmation-2026-05-06.md)
+
+### 2026-05-07 Gmail Auth Boundary And Mail Correction
+
+Gmail connector status:
+
+- The Gmail connector still returns `token_expired`.
+- The available Gmail tool surface exposes mailbox actions, not an OAuth reconnect command.
+- Connector-based Gmail access requires a user-side reconnect before it can be trusted again.
+
+Local Mail fallback:
+
+- Direct file search of `~/Library/Mail` was blocked by macOS privacy.
+- Apple Mail automation could query message metadata and selected message bodies.
+- The current application receipt remains the 2026-05-03 message from `OpenAI Hiring Team <no-reply@openai.com>` with subject `Thank you for applying to OpenAI`.
+- A separate `OpenAI Application Update for Noah Kuhn` message from 2026-01-07 was an older rejection for `Software Engineer, Full Stack (People Innovation)`, following a 2026-01-06 application. Do not treat that as a decision on the current Codex application.
+- `openai.com` sender metadata after the current application showed the May 3 receipt plus product, security, account, and marketing mail. It did not show a current recruiter reply, interview request, warm intro, offer, or rejection for the May 3 application.
+
+Interpretation:
+
+- Current Codex application state is still `received`, not advanced and not rejected.
+- Gmail auth is not fixed from inside this repo/runtime; it is a connector session problem.
+- Do not spend more cycles re-checking the expired connector until it is reconnected.
 
 ### 2026-05-06 Signal Sweep
 

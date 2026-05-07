@@ -241,3 +241,13 @@
 - Refactor backlog: Refresh this shortlist if OpenAI role surfaces or Codex public positioning changes before outreach.
 - Reliability backlog: Use this as a lane map, not as proof of OpenAI interest or permission to spray unrelated employees.
 - Next session: Ask for a specific warm route using this map only after direct reply checks or explicit approval.
+
+## 2026-05-07 - Gmail Auth Boundary And Mail Correction
+
+- Decisions: Treat Gmail connector auth as a user-side reconnect blocker because the available Gmail tools still return `token_expired` and expose no OAuth reconnect command.
+- Decisions: Record the auth boundary and local Mail fallback findings in `launch/follow-up-tracker.md`.
+- Learnings: Apple Mail automation confirmed the current 2026-05-03 application receipt from `OpenAI Hiring Team <no-reply@openai.com>`.
+- Learnings: `OpenAI Application Update for Noah Kuhn` from 2026-01-07 was an old rejection for `Software Engineer, Full Stack (People Innovation)`, not a decision on the current Codex application.
+- Refactor backlog: Reconnect Gmail from the user-side connector UI before relying on Gmail tools again.
+- Reliability backlog: Do not conflate old OpenAI application updates with the current Codex application state.
+- Next session: Continue from the real current state: application received, X post captured, LinkedIn/DM details uncaptured, no verified recruiter/warm/interview/offer signal.

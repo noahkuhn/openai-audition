@@ -630,3 +630,29 @@ Next session:
 
 - Use this map to ask for a specific warm route instead of asking for "anyone at OpenAI."
 - Do not send outreach without checking logged-in social/DM surfaces or receiving explicit approval.
+
+## 2026-05-07 - Session 25: Gmail Auth Boundary And Mail Correction
+
+Context:
+
+- Noah asked Codex to fix Gmail auth and continue.
+- The Gmail connector still returned `token_expired`.
+- The available Gmail tool surface exposed mailbox operations, but no OAuth reconnect command.
+
+Decisions:
+
+- Stop treating Gmail auth as fixable from repo shell commands.
+- Record the connector auth boundary in the follow-up tracker.
+- Use Apple Mail automation only as a fallback signal check, not as a full Gmail replacement.
+
+Learnings:
+
+- Direct file search of `~/Library/Mail` was blocked by macOS privacy.
+- Apple Mail automation confirmed the current 2026-05-03 application receipt from `OpenAI Hiring Team <no-reply@openai.com>`.
+- `OpenAI Application Update for Noah Kuhn` from 2026-01-07 was an old rejection for `Software Engineer, Full Stack (People Innovation)`, not a decision on the current Codex application.
+- OpenAI sender metadata did not show a current recruiter reply, interview request, warm intro, offer, or rejection after the May 3 application.
+
+Next session:
+
+- Reconnect Gmail from the user-side connector UI before relying on Gmail tools again.
+- Continue with LinkedIn URL, DM notes, logged-in X replies, or a specific warm route instead of repeating the first-wave application and launch actions.
