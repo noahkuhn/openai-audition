@@ -19,12 +19,13 @@ Live surfaces:
 - Site: <https://noahkuhn.github.io/openai-audition/>
 - Repo: <https://github.com/noahkuhn/openai-audition>
 
-Application/outreach state as of 2026-05-06:
+Application/outreach state as of 2026-05-07:
 
 - Application submitted; receipt verified in local Mail on 2026-05-06.
 - Two DMs sent.
 - One LinkedIn post published.
 - X launch post captured: <https://x.com/noahbkuhn/status/2050930949928452494>.
+- Follow-up post draft prepared; not published or sent.
 
 The active next-action file is [launch/follow-up-tracker.md](launch/follow-up-tracker.md). Do not repeat the initial application or launch steps unless new evidence shows they failed to land.
 
@@ -57,6 +58,7 @@ If yes, the application is not a PDF. The application is the trail.
 - [evidence](evidence) - curated public evidence.
 - [BUILD_LOG.md](BUILD_LOG.md) - chronological correction and execution trail.
 - [launch/follow-up-tracker.md](launch/follow-up-tracker.md) - active response tracking and second-wave rule.
+- [launch/follow-up-post-draft.md](launch/follow-up-post-draft.md) - one sharper public follow-up around the correction loop.
 - [launch/warm-routing-shortlist.md](launch/warm-routing-shortlist.md) - current public Codex routing lanes for warm forwards.
 - [launch/warm-intro-brief.md](launch/warm-intro-brief.md) - forwardable brief for anyone who can route the case to OpenAI/Codex.
 - [launch/second-wave-packet.md](launch/second-wave-packet.md) - send-ready follow-up packet if the first wave stays cold.

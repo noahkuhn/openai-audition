@@ -10,6 +10,7 @@ As of Noah's 2026-05-05 update plus the latest local Mail checks:
 - DMs: two sent.
 - LinkedIn: one post published.
 - X: launch post captured on 2026-05-06.
+- Follow-up post draft: prepared on 2026-05-07; not published or sent.
 
 Treat the application receipt and X launch post as verified. Treat the DMs and LinkedIn post as user-reported until links, screenshots, or private notes are captured.
 
@@ -244,7 +245,7 @@ Run a second wave:
 - Use [warm-routing-shortlist.md](warm-routing-shortlist.md) to route toward Codex Technical Success, Codex App workflow, Codex Core Agent, data/product measurement, or plugins/skills lanes.
 - Capture the LinkedIn post link and private DM notes.
 - Send 6-8 more targeted notes using [second-wave-packet.md](second-wave-packet.md), not a generic blast.
-- Publish one tighter follow-up around what Codex got wrong while trying to get Noah hired.
+- Publish one tighter follow-up around what Codex got wrong while trying to get Noah hired using [follow-up-post-draft.md](follow-up-post-draft.md).
 - Add one stronger proof artifact only if it creates a sharper reply hook.
 - Use [role-routing.md](role-routing.md) before applying to any adjacent role.
 

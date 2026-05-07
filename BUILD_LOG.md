@@ -656,3 +656,27 @@ Next session:
 
 - Reconnect Gmail from the user-side connector UI before relying on Gmail tools again.
 - Continue with LinkedIn URL, DM notes, logged-in X replies, or a specific warm route instead of repeating the first-wave application and launch actions.
+
+## 2026-05-07 - Session 26: Follow-Up Post Draft
+
+Context:
+
+- The first application/outreach wave was already done.
+- The repo had warm-intro and second-wave notes, but the tighter public follow-up was still buried inside the second-wave packet.
+- The next useful public asset needed to center the correction loop, not repeat the launch pitch.
+
+Decisions:
+
+- Add `launch/follow-up-post-draft.md` as the standalone public follow-up asset.
+- Keep the send gate explicit: use it after logged-in response checks, a warm-route request, or Noah's explicit choice to post before full private surface capture.
+- Link the draft from README, the follow-up tracker, and the second-wave packet.
+
+Learnings:
+
+- The sharpest follow-up frame is that Codex did not struggle with writing or repo edits; it struggled when external state changed and stale next steps had to be corrected.
+- The current-state details are part of the signal: application submitted, two DMs sent, LinkedIn posted, X captured, Gmail connector expired, and the current Codex application received but not advanced or rejected.
+
+Next session:
+
+- Use the draft only once, preferably on the channel with the strongest first-wave response.
+- If a real warm signal appears first, route through the warm person instead of publishing.

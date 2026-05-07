@@ -111,7 +111,7 @@ https://noahkuhn.github.io/openai-audition/
 
 ## Public Follow-Up Post
 
-Use this only once, preferably on the channel that already has the strongest first-wave response.
+Use [follow-up-post-draft.md](follow-up-post-draft.md) for the standalone platform-specific version. Use the inline version below only if a shorter paste-ready post is needed.
 
 ```text
 I asked Codex to get me hired at OpenAI.

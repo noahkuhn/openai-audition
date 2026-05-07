@@ -251,3 +251,12 @@
 - Refactor backlog: Reconnect Gmail from the user-side connector UI before relying on Gmail tools again.
 - Reliability backlog: Do not conflate old OpenAI application updates with the current Codex application state.
 - Next session: Continue from the real current state: application received, X post captured, LinkedIn/DM details uncaptured, no verified recruiter/warm/interview/offer signal.
+
+## 2026-05-07 - Follow-Up Post Draft
+
+- Decisions: Add `launch/follow-up-post-draft.md` as the standalone public follow-up asset and link it from README, the follow-up tracker, and the second-wave packet.
+- Decisions: Gate the post on logged-in response checks, a warm-route request, or Noah explicitly choosing to post before full private surface capture.
+- Learnings: The strongest follow-up frame is that Codex handled file-backed artifact work but drifted when application, social, DM, inbox, and response state changed.
+- Refactor backlog: If the post is published, add the final public URL and counters to the follow-up tracker.
+- Reliability backlog: Do not present the draft as sent, and do not imply OpenAI has seen it.
+- Next session: Publish or adapt the draft only if no warmer direct route appears first.
