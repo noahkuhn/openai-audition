@@ -704,3 +704,26 @@ Next session:
 
 - Do not use clone growth as proof of OpenAI interest.
 - Continue only with a real response surface, a specific warm route, or approval to publish/send the prepared follow-up.
+
+## 2026-05-07 - Session 28: Homepage Current-Action Update
+
+Context:
+
+- The follow-up post draft was live, but the public homepage still did not surface it.
+- A new reader landing on the root page saw the older tracker and distribution receipt before the current prepared action.
+
+Decisions:
+
+- Add `launch/follow-up-post-draft.html` to the homepage current-state proof stack.
+- Label the draft as prepared, not published or sent.
+- Update the case panel next step from generic signal tracking to warm routing or follow-up.
+
+Learnings:
+
+- The live root page should carry the same current-state discipline as the README and follow-up tracker.
+- The strongest public front-door action is now the correction-loop follow-up, gated by response checks or explicit approval.
+
+Next session:
+
+- If the draft is actually posted, replace prepared-state language with the final public URL and counters.
+- If a warm route appears first, keep the homepage focused on the case file and feedback memo instead of pushing another public post.

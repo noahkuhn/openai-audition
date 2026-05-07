@@ -269,3 +269,12 @@
 - Refactor backlog: If GitHub identity, stars, issues, or external replies appear, capture them separately from aggregate traffic.
 - Reliability backlog: Do not infer OpenAI interest from aggregate clone growth.
 - Next session: Continue only with real response-surface evidence, a specific warm route, or approval to publish/send the prepared follow-up.
+
+## 2026-05-07 - Homepage Current-Action Update
+
+- Decisions: Update `index.html` so the current-state proof stack links to `launch/follow-up-post-draft.html` and labels it prepared, not published or sent.
+- Decisions: Change the homepage case-panel next step to warm route or follow-up.
+- Learnings: The live homepage had fallen slightly behind the README/tracker path; it still surfaced older follow-up material but not the new draft.
+- Refactor backlog: If the follow-up draft is published, replace prepared-state language with the final public URL and counters.
+- Reliability backlog: Keep the homepage from implying outreach happened before Noah approves or performs it.
+- Next session: Use the homepage as the public front door only after verifying it still matches the live tracker state.
